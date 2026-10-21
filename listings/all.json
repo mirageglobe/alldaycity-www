@@ -1,0 +1,127 @@
+{
+  "name": "alldaycity",
+  "place": "all",
+  "count": 10,
+  "listings": [
+    {
+      "uid": "0000002",
+      "title": "global remote work agency",
+      "description": "global remote work agency connecting independent professionals with distributed teams",
+      "type": "services",
+      "hub": "global",
+      "tier": "posted",
+      "verified": true,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000002/",
+      "link": "https://www.piperpiperpiper.com"
+    },
+    {
+      "uid": "0000003",
+      "title": "mirageglobe consultancy",
+      "description": "a small software development consultancy specialising in cloud and systems engineering",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "posted",
+      "verified": true,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000003/",
+      "link": "https://www.mirageglobe.com"
+    },
+    {
+      "uid": "0000004",
+      "title": "gmagarwood shop",
+      "description": "a trader in specialist woods for craftspeople and interior designers",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000004/",
+      "link": "https://sites.alldaycity.com/gmagarwood"
+    },
+    {
+      "uid": "0000005",
+      "title": "geomancy culture shop",
+      "description": "a consultancy and shop for traditional chinese architectural methods",
+      "type": "services",
+      "hub": "bayan-lepas",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000005/",
+      "link": "https://sites.alldaycity.com/geomancer"
+    },
+    {
+      "uid": "0000006",
+      "title": "woodsnomad rare woods shop",
+      "description": "rare woods trader sourcing sustainably from managed forests",
+      "type": "services",
+      "hub": "global",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000006/",
+      "link": "https://www.woodsnomad.com"
+    },
+    {
+      "uid": "0000011",
+      "title": "george town co-working — hot desk",
+      "description": "flexible desk in a george town shophouse co-working space. walking distance to komtar and the heritage zone.",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000011/",
+      "link": "https://sites.alldaycity.com/property/0000011"
+    },
+    {
+      "uid": "0000007",
+      "title": "senior software engineer — go / distributed systems",
+      "description": "remote-first role at a fintech building real-time settlement infrastructure. 5+ years go experience, comfort with high-throughput systems.",
+      "type": "job",
+      "hub": "canary-wharf",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000007/",
+      "link": "https://sites.alldaycity.com/jobs/0000007"
+    },
+    {
+      "uid": "0000008",
+      "title": "embedded systems engineer — penang corridor",
+      "description": "on-site role at a hardware startup in the bayan lepas free trade zone. c/c++ and rtos experience required.",
+      "type": "job",
+      "hub": "bayan-lepas",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000008/",
+      "link": "https://sites.alldaycity.com/jobs/0000008"
+    },
+    {
+      "uid": "0000009",
+      "title": "canary wharf e14 — hot desk membership",
+      "description": "flexible co-working desk within walking distance of canary wharf dlr. available monthly, includes fibre and meeting room credits.",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000009/",
+      "link": "https://sites.alldaycity.com/property/0000009"
+    },
+    {
+      "uid": "0000010",
+      "title": "bayan lepas tech park — office unit",
+      "description": "ground-floor office unit in bayan lepas ftz. 800 sqft, fitted out, 12-month minimum. steps from major semiconductor firms.",
+      "type": "property",
+      "hub": "bayan-lepas",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000010/",
+      "link": "https://sites.alldaycity.com/property/0000010"
+    }
+  ]
+}

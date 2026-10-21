@@ -1,8 +1,20 @@
 {
   "name": "alldaycity",
-  "hub": "canary-wharf",
-  "count": 4,
+  "place": "london",
+  "count": 6,
   "listings": [
+    {
+      "uid": "0000002",
+      "title": "global remote work agency",
+      "description": "global remote work agency connecting independent professionals with distributed teams",
+      "type": "services",
+      "hub": "global",
+      "tier": "posted",
+      "verified": true,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000002/",
+      "link": "https://www.piperpiperpiper.com"
+    },
     {
       "uid": "0000003",
       "title": "mirageglobe consultancy",
@@ -26,6 +38,18 @@
       "source": "operator",
       "url": "https://www.alldaycity.com/l/0000004/",
       "link": "https://sites.alldaycity.com/gmagarwood"
+    },
+    {
+      "uid": "0000006",
+      "title": "woodsnomad rare woods shop",
+      "description": "rare woods trader sourcing sustainably from managed forests",
+      "type": "services",
+      "hub": "global",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "url": "https://www.alldaycity.com/l/0000006/",
+      "link": "https://www.woodsnomad.com"
     },
     {
       "uid": "0000007",
