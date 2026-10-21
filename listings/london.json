@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 20,
+  "count": 11,
   "listings": [
     {
       "uid": "0000002",
@@ -76,132 +76,6 @@
       "link": "https://sites.alldaycity.com/property/0000009"
     },
     {
-      "uid": "0000012",
-      "title": "technical helpdesk engineer automotive 100% remote",
-      "company": "msx international",
-      "description": "In this role, you’ll be at the center of complex diagnostic repair cases, tackling issues that demand deep technical insight, structured thinking, and creativity. remote, open to United Kingdom.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "himalayas",
-      "posted": "2026-10-21",
-      "salary": {
-        "min": 34000,
-        "max": 34000,
-        "currency": "GBP",
-        "period": "year",
-        "raw": "GBP 34000"
-      },
-      "url": "https://www.alldaycity.com/l/0000012/",
-      "link": "https://himalayas.app/companies/msx-international/jobs/technical-helpdesk-engineer-automotive-100-remote-9127161958?utm_source=api"
-    },
-    {
-      "uid": "0000013",
-      "title": "sales manager - southeast asia",
-      "company": "stackadapt",
-      "description": "Reporting to the Director of Sales, you will own a broad territory and help grow StackAdapt’s presence across key SEA markets through disciplined pipeline management, sharp prioritisation, and a repeatable sales process. remote, open to Malaysia, Singapore.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "jobicy",
-      "posted": "2026-10-21",
-      "salary": {
-        "min": 105179,
-        "max": 144621,
-        "currency": "USD",
-        "period": "year",
-        "raw": "USD 105179-144621"
-      },
-      "url": "https://www.alldaycity.com/l/0000013/",
-      "link": "https://jobicy.com/jobs/156137-sales-manager-southeast-asia"
-    },
-    {
-      "uid": "0000014",
-      "title": "lead machine learning scientist, business banking",
-      "company": "monzo",
-      "description": "As a Lead Machine Learning Scientist in Business Banking, you’ll help build and ship models that power the next generation of Business Banking experiences. remote, open to UK.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "jobicy",
-      "posted": "2026-10-21",
-      "salary": {
-        "min": 115000,
-        "max": 150000,
-        "currency": "GBP",
-        "period": "year",
-        "raw": "GBP 115000-150000"
-      },
-      "url": "https://www.alldaycity.com/l/0000014/",
-      "link": "https://jobicy.com/jobs/156127-lead-machine-learning-scientist-business-banking"
-    },
-    {
-      "uid": "0000015",
-      "title": "product manager, new content initiatives and analysis",
-      "company": "alphasense",
-      "description": "We are seeking a Product Manager for New Content Evaluation and Analysis to help us expand and strengthen the breadth, quality, and value of the data and content that power our Platform. remote, open to UK.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "jobicy",
-      "posted": "2026-10-21",
-      "url": "https://www.alldaycity.com/l/0000015/",
-      "link": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis"
-    },
-    {
-      "uid": "0000016",
-      "title": "marketing campaign manager",
-      "company": "cordance",
-      "description": "We are seeking a strategic and results-driven Marketing Campaign Manager to lead the planning, execution, and optimization of integrated marketing campaigns across multiple business units within our Education Division. remote, open to UK, USA.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "jobicy",
-      "posted": "2026-10-21",
-      "url": "https://www.alldaycity.com/l/0000016/",
-      "link": "https://jobicy.com/jobs/156119-marketing-campaign-manager"
-    },
-    {
-      "uid": "0000017",
-      "title": "game commercialization manager",
-      "company": "taqar consulting co. l.l.c",
-      "description": "Design and optimize game revenue models , payment structures, and in-game item systems. Monitor key monetization metrics such as conversion rates, ARPU, LTV , and user spending behavior. remote, open to United Kingdom.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "himalayas",
-      "posted": "2026-10-20",
-      "salary": {
-        "min": 7000,
-        "max": 9000,
-        "currency": "USD",
-        "period": "month",
-        "raw": "USD 7000-9000"
-      },
-      "url": "https://www.alldaycity.com/l/0000017/",
-      "link": "https://himalayas.app/companies/taqar-consulting-co-l-l-c/jobs/game-commercialization-manager?utm_source=api"
-    },
-    {
-      "uid": "0000018",
-      "title": "senior software engineer ii",
-      "company": "sbs",
-      "description": "SBS is seeking a skilled AI Engineer to join its Data & AI / Engineering organization in the UK or EU. This role will focus on designing, building, and deploying AI-driven solutions that enhance SBS products and... remote, open to United Kingdom.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "himalayas",
-      "posted": "2026-10-18",
-      "url": "https://www.alldaycity.com/l/0000018/",
-      "link": "https://himalayas.app/companies/sbs/jobs/senior-software-engineer-ii"
-    },
-    {
       "uid": "0000019",
       "title": "software engineer, ai coding tasks",
       "company": "askable",
@@ -223,27 +97,6 @@
       "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
     },
     {
-      "uid": "0000020",
-      "title": "ai trainer",
-      "company": "imerit technology",
-      "description": "Remote | Independent Contractor | Get certified for future project opportunities. As part of the certification process, you will demonstrate your ability to:. remote, open to US, UK, Canada, Australia + 35 other countries.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "remoteok",
-      "posted": "2026-10-14",
-      "salary": {
-        "min": 50000,
-        "max": 70000,
-        "currency": "USD",
-        "period": "year",
-        "raw": "USD 50000-70000"
-      },
-      "url": "https://www.alldaycity.com/l/0000020/",
-      "link": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513"
-    },
-    {
       "uid": "0000021",
       "title": "remote office assistant",
       "company": "coalition technologies",
@@ -263,20 +116,6 @@
       },
       "url": "https://www.alldaycity.com/l/0000021/",
       "link": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
-    },
-    {
-      "uid": "0000022",
-      "title": "product design director",
-      "company": "midnite",
-      "description": "As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. remote, open to United Kingdom.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "remoteok",
-      "posted": "2026-10-11",
-      "url": "https://www.alldaycity.com/l/0000022/",
-      "link": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497"
     },
     {
       "uid": "0000023",
