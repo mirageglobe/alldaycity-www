@@ -1,55 +1,37 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 11,
+  "count": 9,
   "listings": [
     {
-      "uid": "0000002",
-      "title": "global remote work agency",
-      "description": "global remote work agency connecting independent professionals with distributed teams",
-      "type": "services",
-      "hub": "global",
-      "tier": "posted",
-      "verified": true,
-      "source": "operator",
-      "url": "https://www.alldaycity.com/l/0000002/",
-      "link": "https://www.piperpiperpiper.com"
-    },
-    {
       "uid": "0000003",
-      "title": "mirageglobe consultancy",
-      "description": "a small software development consultancy specialising in cloud and systems engineering",
+      "title": "stable transit labs",
+      "description": "a small product studio and software consultancy specialising in cloud and systems engineering",
       "type": "services",
       "hub": "canary-wharf",
       "tier": "posted",
       "verified": true,
       "source": "operator",
+      "reach": [
+        "worldwide"
+      ],
       "url": "https://www.alldaycity.com/l/0000003/",
-      "link": "https://www.mirageglobe.com"
-    },
-    {
-      "uid": "0000004",
-      "title": "gmagarwood shop",
-      "description": "a trader in specialist woods for craftspeople and interior designers",
-      "type": "services",
-      "hub": "canary-wharf",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "url": "https://www.alldaycity.com/l/0000004/",
-      "link": "https://sites.alldaycity.com/gmagarwood"
+      "link": "https://www.stabletransitlabs.com"
     },
     {
       "uid": "0000006",
-      "title": "woodsnomad rare woods shop",
-      "description": "rare woods trader sourcing sustainably from managed forests",
+      "title": "the forest origin",
+      "description": "rare woods, oud and renewable products from the forests of south east asia, sold online",
       "type": "services",
       "hub": "global",
       "tier": "posted",
       "verified": false,
       "source": "operator",
+      "reach": [
+        "worldwide"
+      ],
       "url": "https://www.alldaycity.com/l/0000006/",
-      "link": "https://www.woodsnomad.com"
+      "link": "https://theforestorigin.com"
     },
     {
       "uid": "0000007",
@@ -60,6 +42,9 @@
       "tier": "posted",
       "verified": false,
       "source": "operator",
+      "reach": [
+        "london"
+      ],
       "url": "https://www.alldaycity.com/l/0000007/",
       "link": "https://sites.alldaycity.com/jobs/0000007"
     },
@@ -72,6 +57,9 @@
       "tier": "posted",
       "verified": false,
       "source": "operator",
+      "reach": [
+        "london"
+      ],
       "url": "https://www.alldaycity.com/l/0000009/",
       "link": "https://sites.alldaycity.com/property/0000009"
     },
@@ -85,6 +73,9 @@
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
       "posted": "2026-10-17",
       "salary": {
         "min": 1000,
@@ -106,6 +97,9 @@
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
       "posted": "2026-10-11",
       "salary": {
         "min": null,
@@ -127,6 +121,9 @@
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
       "posted": "2026-10-08",
       "salary": {
         "min": 25000,
@@ -148,6 +145,9 @@
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
       "posted": "2026-10-07",
       "url": "https://www.alldaycity.com/l/0000024/",
       "link": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
@@ -162,6 +162,9 @@
       "tier": "discovered",
       "verified": false,
       "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
       "posted": "2026-10-06",
       "url": "https://www.alldaycity.com/l/0000025/",
       "link": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
