@@ -1,0 +1,143 @@
+{
+  "name": "alldaycity",
+  "place": "tokyo",
+  "count": 7,
+  "listings": [
+    {
+      "uid": "0000003",
+      "title": "stable transit labs",
+      "description": "a small product studio and software consultancy specialising in cloud and systems engineering",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "posted",
+      "verified": true,
+      "source": "operator",
+      "reach": [
+        "worldwide"
+      ],
+      "url": "https://www.alldaycity.com/l/0000003/",
+      "link": "https://www.stabletransitlabs.com"
+    },
+    {
+      "uid": "0000006",
+      "title": "the forest origin",
+      "description": "rare woods, oud and renewable products from the forests of south east asia, sold online",
+      "type": "services",
+      "hub": "global",
+      "tier": "posted",
+      "verified": false,
+      "source": "operator",
+      "reach": [
+        "worldwide"
+      ],
+      "url": "https://www.alldaycity.com/l/0000006/",
+      "link": "https://theforestorigin.com"
+    },
+    {
+      "uid": "0000019",
+      "title": "software engineer, ai coding tasks",
+      "company": "askable",
+      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. remote, open to Worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "posted": "2026-10-17",
+      "salary": {
+        "min": 1000,
+        "max": null,
+        "currency": "USD",
+        "period": "year",
+        "raw": "$1000 per task"
+      },
+      "url": "https://www.alldaycity.com/l/0000019/",
+      "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
+    },
+    {
+      "uid": "0000021",
+      "title": "remote office assistant",
+      "company": "coalition technologies",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. remote, open to Worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "posted": "2026-10-11",
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "period": "year",
+        "raw": "$35,3k- $52k"
+      },
+      "url": "https://www.alldaycity.com/l/0000021/",
+      "link": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
+    },
+    {
+      "uid": "0000023",
+      "title": "inside sales contractor",
+      "company": "credit wellness, llc",
+      "description": "We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. remote, open to Worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "posted": "2026-10-08",
+      "salary": {
+        "min": 25000,
+        "max": 35000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "OTE $25k - $35k"
+      },
+      "url": "https://www.alldaycity.com/l/0000023/",
+      "link": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540"
+    },
+    {
+      "uid": "0000024",
+      "title": "tier iii service desk engineer",
+      "company": "unio digital",
+      "description": "We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. remote, open to Worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "posted": "2026-10-07",
+      "url": "https://www.alldaycity.com/l/0000024/",
+      "link": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
+    },
+    {
+      "uid": "0000025",
+      "title": "project manager",
+      "company": "spiralyze",
+      "description": "Youâ ll manage cross-functional teams of 5â 10 people and ensure tests move smoothly from idea â build â launch â analysis. Youâ ll spot risks early, unblock teams, and make sure nothing falls through the... remote, open to Worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "posted": "2026-10-06",
+      "url": "https://www.alldaycity.com/l/0000025/",
+      "link": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
+    }
+  ]
+}
