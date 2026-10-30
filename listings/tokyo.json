@@ -244,10 +244,11 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 70000,
-        "max": 80000,
-        "period": "year",
-        "raw": "70K-80K"
+        "min": 6666,
+        "max": 9584,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
       },
       "url": "https://www.alldaycity.com/l/6e756df0ed536cf0/",
       "link": "https://www.piperpiperpiper.com/jobs/6e756df0ed536cf0/"
@@ -314,11 +315,10 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 54000,
-        "max": 100000,
-        "currency": "EUR",
-        "period": "year",
-        "raw": "EUR 54000-100000"
+        "min": 5037,
+        "max": 9327,
+        "currency": "USD",
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/f8cfd26aade1f25a/",
       "link": "https://www.piperpiperpiper.com/jobs/f8cfd26aade1f25a/"
@@ -527,11 +527,10 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 13456800,
-        "max": 18503100,
-        "currency": "JPY",
-        "period": "year",
-        "raw": "JPY 13456800-18503100"
+        "min": 7092,
+        "max": 9751,
+        "currency": "USD",
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/aa92373f6dddb3c4/",
       "link": "https://www.piperpiperpiper.com/jobs/aa92373f6dddb3c4/"
@@ -854,11 +853,10 @@
       ],
       "posted": "2026-10-16",
       "salary": {
-        "min": 85000,
-        "max": 105000,
-        "currency": "CAD",
-        "period": "year",
-        "raw": "CAD 85000-105000"
+        "min": 5002,
+        "max": 6179,
+        "currency": "USD",
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/5b9e3a55a43b2eca/",
       "link": "https://www.piperpiperpiper.com/jobs/5b9e3a55a43b2eca/"
@@ -1097,11 +1095,10 @@
       ],
       "posted": "2026-10-08",
       "salary": {
-        "min": 25000,
-        "max": 35000,
+        "min": 2083,
+        "max": 2917,
         "currency": "USD",
-        "period": "year",
-        "raw": "OTE $25k - $35k"
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/ea6e12680ee7a3b8/",
       "link": "https://www.piperpiperpiper.com/jobs/ea6e12680ee7a3b8/"
@@ -1357,11 +1354,10 @@
       ],
       "posted": "2026-10-04",
       "salary": {
-        "min": 50,
-        "max": 75,
+        "min": 8667,
+        "max": 13000,
         "currency": "USD",
-        "period": "hour",
-        "raw": "$50-$75 /hour"
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/8651b9da54eed2b1/",
       "link": "https://www.piperpiperpiper.com/jobs/8651b9da54eed2b1/"
@@ -1384,11 +1380,10 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 20000,
-        "max": 35000,
+        "min": 1667,
+        "max": 2917,
         "currency": "USD",
-        "period": "year",
-        "raw": "$20k -$35k"
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/35c21f46dedc74ed/",
       "link": "https://www.piperpiperpiper.com/jobs/35c21f46dedc74ed/"
@@ -1595,11 +1590,10 @@
       ],
       "posted": "2026-09-18",
       "salary": {
-        "min": 80000,
-        "max": 150000,
+        "min": 6667,
+        "max": 12500,
         "currency": "USD",
-        "period": "year",
-        "raw": "$80k - $150k"
+        "period": "month"
       },
       "url": "https://www.alldaycity.com/l/0eccc7792e6b44a7/",
       "link": "https://www.piperpiperpiper.com/jobs/0eccc7792e6b44a7/"
