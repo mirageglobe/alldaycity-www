@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 196,
+  "count": 265,
   "listings": [
     {
       "uid": "0000003",
@@ -7162,6 +7162,1455 @@
       },
       "url": "https://www.alldaycity.com/l/4e145b90219903b1/",
       "link": "https://www.piperpiperpiper.com/jobs/4e145b90219903b1/"
+    },
+    {
+      "uid": "fc30bef5a85cf5a1",
+      "title": "1 bed flat, kensington, W8",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,886 / month (≈£2,900)"
+      },
+      "url": "https://www.alldaycity.com/l/fc30bef5a85cf5a1/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/227542"
+    },
+    {
+      "uid": "f8c60f1446a054d2",
+      "title": "room, EC1R",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,077 / month (≈£1,550)"
+      },
+      "url": "https://www.alldaycity.com/l/f8c60f1446a054d2/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clerkenwell-road-ec1r/3087759"
+    },
+    {
+      "uid": "f5af4048356675fc",
+      "title": "room, NW6",
+      "description": "furnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,514 / month (≈£1,130)"
+      },
+      "url": "https://www.alldaycity.com/l/f5af4048356675fc/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-agamemnon-road-nw6/3087812"
+    },
+    {
+      "uid": "f41f1bb769481063",
+      "title": "studio, N16",
+      "description": "furnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,407 / month (≈£1,050)"
+      },
+      "url": "https://www.alldaycity.com/l/f41f1bb769481063/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-stamford-hill-n16/3087796"
+    },
+    {
+      "uid": "f392cd0d23240956",
+      "title": "studio, SW17",
+      "description": "unfurnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,809 / month (≈£1,350)"
+      },
+      "url": "https://www.alldaycity.com/l/f392cd0d23240956/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-london-road-sw17/3087791"
+    },
+    {
+      "uid": "ef3ca0e9d66c52c1",
+      "title": "room, SW9",
+      "description": "furnished, available from 01 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,253 / month (≈£935)"
+      },
+      "url": "https://www.alldaycity.com/l/ef3ca0e9d66c52c1/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-shannon-grove-sw9/3087809"
+    },
+    {
+      "uid": "ee6c1ba12a6ccebf",
+      "title": "2 bed flat, fairfield, CR0",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,190 / month (≈£4,620)"
+      },
+      "url": "https://www.alldaycity.com/l/ee6c1ba12a6ccebf/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322281"
+    },
+    {
+      "uid": "ecd1903fa80a31d2",
+      "title": "1 bed flat, caledonian, N1",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,690 / month (≈£3,500)"
+      },
+      "url": "https://www.alldaycity.com/l/ecd1903fa80a31d2/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1302496"
+    },
+    {
+      "uid": "e8934feb6bb1c525",
+      "title": "1 bed flat, N7",
+      "description": "furnished, available from 01 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,278 / month (≈£1,700)"
+      },
+      "url": "https://www.alldaycity.com/l/e8934feb6bb1c525/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-caledonian-road-n7/3087774"
+    },
+    {
+      "uid": "e5986ebfdad90a0c",
+      "title": "3 bed flat, HA9",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,013 / month (≈£2,995)"
+      },
+      "url": "https://www.alldaycity.com/l/e5986ebfdad90a0c/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-wembley-park-central-area-ha9/3087698"
+    },
+    {
+      "uid": "dc466c7eb09daf91",
+      "title": "2 bed flat, N22",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,109 / month (≈£3,067)"
+      },
+      "url": "https://www.alldaycity.com/l/dc466c7eb09daf91/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1263036"
+    },
+    {
+      "uid": "dc3219ef73086f08",
+      "title": "studio, northolt, UB5",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,782 / month (≈£1,330)"
+      },
+      "url": "https://www.alldaycity.com/l/dc3219ef73086f08/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/1317417"
+    },
+    {
+      "uid": "da7ad84f50a39b72",
+      "title": "2 bed flat, SE26",
+      "description": "unfurnished, available from 24 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,412 / month (≈£1,800)"
+      },
+      "url": "https://www.alldaycity.com/l/da7ad84f50a39b72/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-raymond-close-se26/3087728"
+    },
+    {
+      "uid": "d3f647fd93912080",
+      "title": "2 bed flat, london, E1",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,736 / month (≈£2,788)"
+      },
+      "url": "https://www.alldaycity.com/l/d3f647fd93912080/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1301143"
+    },
+    {
+      "uid": "cd4f79c8b37f029c",
+      "title": "2 bed flat, NW5",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,646 / month (≈£4,960)"
+      },
+      "url": "https://www.alldaycity.com/l/cd4f79c8b37f029c/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1305430"
+    },
+    {
+      "uid": "c839dcccaeae5c45",
+      "title": "2 bed flat, NW8",
+      "description": "furnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$11,322 / month (≈£8,450)"
+      },
+      "url": "https://www.alldaycity.com/l/c839dcccaeae5c45/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-st-edmunds-terrace-nw8/3087714"
+    },
+    {
+      "uid": "c5b755b228912b50",
+      "title": "2 bed flat, N15",
+      "description": "unfurnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,412 / month (≈£1,800)"
+      },
+      "url": "https://www.alldaycity.com/l/c5b755b228912b50/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-broad-lane-n15/3087741"
+    },
+    {
+      "uid": "b9c75c7d4a37d5ca",
+      "title": "3 bed flat, W1W",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$14,069 / month (≈£10,500)"
+      },
+      "url": "https://www.alldaycity.com/l/b9c75c7d4a37d5ca/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/928674"
+    },
+    {
+      "uid": "a7a41728dfb93e67",
+      "title": "studio, W2",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,474 / month (≈£1,100)"
+      },
+      "url": "https://www.alldaycity.com/l/a7a41728dfb93e67/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-princes-square-w2/3087841"
+    },
+    {
+      "uid": "a632fa7ed4eb5418",
+      "title": "2 bed flat, chiswick riverside, W4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$7,924 / month (≈£5,914)"
+      },
+      "url": "https://www.alldaycity.com/l/a632fa7ed4eb5418/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322316"
+    },
+    {
+      "uid": "a37c99262d37e4c9",
+      "title": "2 bed flat, SE13",
+      "description": "furnished, available from 02 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,948 / month (≈£2,200)"
+      },
+      "url": "https://www.alldaycity.com/l/a37c99262d37e4c9/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-sienna-alto-se13/3087792"
+    },
+    {
+      "uid": "9ef8a67d3ea51274",
+      "title": "room, SW11",
+      "description": "furnished, available from 01 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,568 / month (≈£1,170)"
+      },
+      "url": "https://www.alldaycity.com/l/9ef8a67d3ea51274/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-wayford-st-sw11/3087794"
+    },
+    {
+      "uid": "9adbe9271735a0fe",
+      "title": "2 bed flat, docklands, E14",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,030 / month (≈£4,500)"
+      },
+      "url": "https://www.alldaycity.com/l/9adbe9271735a0fe/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1298990"
+    },
+    {
+      "uid": "93529d91a9151c28",
+      "title": "3 bed flat, W2",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,699 / month (≈£5,000)"
+      },
+      "url": "https://www.alldaycity.com/l/93529d91a9151c28/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-queensway-w2/3087828"
+    },
+    {
+      "uid": "931e7ffd9be2b000",
+      "title": "1 bed flat, W14",
+      "description": "furnished, available from 01 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,613 / month (≈£1,950)"
+      },
+      "url": "https://www.alldaycity.com/l/931e7ffd9be2b000/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-sinclair-road-w14/3087737"
+    },
+    {
+      "uid": "905cb9ce96e7916b",
+      "title": "studio, regents park, NW1",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,689 / month (≈£4,246)"
+      },
+      "url": "https://www.alldaycity.com/l/905cb9ce96e7916b/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/414609"
+    },
+    {
+      "uid": "8e96594be9353268",
+      "title": "2 bed house, E8",
+      "description": "available from 22 january 2027, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,862 / month (≈£4,375)"
+      },
+      "url": "https://www.alldaycity.com/l/8e96594be9353268/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-terraced-house-queensbridge-road-e8/3087846"
+    },
+    {
+      "uid": "8acc7377db96f538",
+      "title": "1 bed flat, N1",
+      "description": "furnished, available from 01 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,948 / month (≈£2,200)"
+      },
+      "url": "https://www.alldaycity.com/l/8acc7377db96f538/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-essex-road-n1/3087813"
+    },
+    {
+      "uid": "870eaa026157e686",
+      "title": "3 bed house, E6",
+      "description": "unfurnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,082 / month (≈£2,300)"
+      },
+      "url": "https://www.alldaycity.com/l/870eaa026157e686/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-terraced-house-mitcham-road-e6/3087699"
+    },
+    {
+      "uid": "8626cae4703699b3",
+      "title": "studio, W5",
+      "description": "unfurnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,742 / month (≈£1,300)"
+      },
+      "url": "https://www.alldaycity.com/l/8626cae4703699b3/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-cleveley-crescent-w5/3087858"
+    },
+    {
+      "uid": "855f09a05ed23375",
+      "title": "1 bed flat, golden mile, TW8",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,210 / month (≈£3,142)"
+      },
+      "url": "https://www.alldaycity.com/l/855f09a05ed23375/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322224"
+    },
+    {
+      "uid": "7cc0791ad1aea46b",
+      "title": "studio, regents park, NW1",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,689 / month (≈£4,246)"
+      },
+      "url": "https://www.alldaycity.com/l/7cc0791ad1aea46b/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/414588"
+    },
+    {
+      "uid": "7c83ff78353bc395",
+      "title": "room, westminster, W9",
+      "description": "furnished, minimum stay 12 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,213 / month (≈£905)"
+      },
+      "url": "https://www.alldaycity.com/l/7c83ff78353bc395/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/1327360"
+    },
+    {
+      "uid": "729303bd2605d470",
+      "title": "room, NW4",
+      "description": "furnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,179 / month (≈£880)"
+      },
+      "url": "https://www.alldaycity.com/l/729303bd2605d470/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-kennyland-court-nw4/3087746"
+    },
+    {
+      "uid": "6ca5090b39b3a0be",
+      "title": "2 bed flat, N19",
+      "description": "available from 20 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,288 / month (≈£3,200)"
+      },
+      "url": "https://www.alldaycity.com/l/6ca5090b39b3a0be/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-islington-n19/3087834"
+    },
+    {
+      "uid": "611702a8a50a18dd",
+      "title": "2 bed flat, W4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$8,224 / month (≈£6,138)"
+      },
+      "url": "https://www.alldaycity.com/l/611702a8a50a18dd/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322320"
+    },
+    {
+      "uid": "60589fe8a169295c",
+      "title": "4 bed flat, fulham, W14",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,085 / month (≈£810)"
+      },
+      "url": "https://www.alldaycity.com/l/60589fe8a169295c/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/611609"
+    },
+    {
+      "uid": "603b974f5c992d5a",
+      "title": "2 bed flat, TW18",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,903 / month (≈£3,659)"
+      },
+      "url": "https://www.alldaycity.com/l/603b974f5c992d5a/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322393"
+    },
+    {
+      "uid": "602873e4e5b6ac68",
+      "title": "4 bed flat, SE1",
+      "description": "furnished, available from 31 october 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,226 / month (≈£3,900)"
+      },
+      "url": "https://www.alldaycity.com/l/602873e4e5b6ac68/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/4-bed-flat-old-kent-road-se1/3087805"
+    },
+    {
+      "uid": "5ead35bac16126f3",
+      "title": "2 bed flat, SE1",
+      "description": "furnished, available from 01 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,355 / month (≈£3,250)"
+      },
+      "url": "https://www.alldaycity.com/l/5ead35bac16126f3/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-fountain-court-se1/3087739"
+    },
+    {
+      "uid": "57fed3c8d00e7c6d",
+      "title": "room, N2",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$938 / month (≈£700)"
+      },
+      "url": "https://www.alldaycity.com/l/57fed3c8d00e7c6d/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lyttelton-road-n2/3087748"
+    },
+    {
+      "uid": "561b9164cc6501ac",
+      "title": "room, SW8",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,273 / month (≈£950)"
+      },
+      "url": "https://www.alldaycity.com/l/561b9164cc6501ac/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clive-house-sw8/3087730"
+    },
+    {
+      "uid": "5545b04a077b74e9",
+      "title": "room, SW11",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,206 / month (≈£900)"
+      },
+      "url": "https://www.alldaycity.com/l/5545b04a077b74e9/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-thomas-baines-road-sw11/3087747"
+    },
+    {
+      "uid": "54be7e67aa6dfc19",
+      "title": "4 bed flat, eastbrook, RM10",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,690 / month (≈£3,500)"
+      },
+      "url": "https://www.alldaycity.com/l/54be7e67aa6dfc19/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1743369"
+    },
+    {
+      "uid": "53f7ef2b30818538",
+      "title": "2 bed flat, reading, RG4",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,269 / month (≈£2,440)"
+      },
+      "url": "https://www.alldaycity.com/l/53f7ef2b30818538/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1303285"
+    },
+    {
+      "uid": "5345c9236090327c",
+      "title": "1 bed flat, SW17",
+      "description": "unfurnished, available from 26 january 2027, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,015 / month (≈£2,250)"
+      },
+      "url": "https://www.alldaycity.com/l/5345c9236090327c/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-balham-high-road-sw17/3087761"
+    },
+    {
+      "uid": "50769b1155f27e8d",
+      "title": "room, SE11",
+      "description": "furnished, available from 01 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,139 / month (≈£850)"
+      },
+      "url": "https://www.alldaycity.com/l/50769b1155f27e8d/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-lockwood-house-se11/3087778"
+    },
+    {
+      "uid": "4c3584c02c08e90f",
+      "title": "room, N1",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,072 / month (≈£800)"
+      },
+      "url": "https://www.alldaycity.com/l/4c3584c02c08e90f/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-cullum-welch-court-n1/3087709"
+    },
+    {
+      "uid": "4c31645419961ff8",
+      "title": "room, N7",
+      "description": "furnished, available from 01 december 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,126 / month (≈£840)"
+      },
+      "url": "https://www.alldaycity.com/l/4c31645419961ff8/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-bunning-way-n7/3087815"
+    },
+    {
+      "uid": "48bf8cecf28589d7",
+      "title": "1 bed flat, chiswick riverside, W4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,339 / month (≈£4,731)"
+      },
+      "url": "https://www.alldaycity.com/l/48bf8cecf28589d7/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322310"
+    },
+    {
+      "uid": "47a7bb298a4a3602",
+      "title": "1 bed flat, E14",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,546 / month (≈£1,900)"
+      },
+      "url": "https://www.alldaycity.com/l/47a7bb298a4a3602/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-isle-of-dogs-e14/3087816"
+    },
+    {
+      "uid": "43f46299bd1aa3e0",
+      "title": "room, roehampton, SW15",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,005 / month (≈£750)"
+      },
+      "url": "https://www.alldaycity.com/l/43f46299bd1aa3e0/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/613030"
+    },
+    {
+      "uid": "42fffd301d749a8a",
+      "title": "1 bed flat, chiswick riverside, W4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,695 / month (≈£4,250)"
+      },
+      "url": "https://www.alldaycity.com/l/42fffd301d749a8a/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322306"
+    },
+    {
+      "uid": "41cf57bdfbc52d48",
+      "title": "room, NW4",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,273 / month (≈£950)"
+      },
+      "url": "https://www.alldaycity.com/l/41cf57bdfbc52d48/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brent-park-road-nw4/3087838"
+    },
+    {
+      "uid": "37e6bbe6e6b9ee51",
+      "title": "2 bed flat, N22",
+      "description": "available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,814 / month (≈£2,100)"
+      },
+      "url": "https://www.alldaycity.com/l/37e6bbe6e6b9ee51/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-caxton-road-n22/3087719"
+    },
+    {
+      "uid": "37406e4b29c81cdc",
+      "title": "2 bed flat, SE20",
+      "description": "unfurnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,278 / month (≈£1,700)"
+      },
+      "url": "https://www.alldaycity.com/l/37406e4b29c81cdc/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-anerley-road-se20/3087865"
+    },
+    {
+      "uid": "373630096ff973b3",
+      "title": "room, CR7",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,072 / month (≈£800)"
+      },
+      "url": "https://www.alldaycity.com/l/373630096ff973b3/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/1298031"
+    },
+    {
+      "uid": "2df5d9b989af4659",
+      "title": "3 bed flat, E13",
+      "description": "furnished, available from 28 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,884 / month (≈£2,899)"
+      },
+      "url": "https://www.alldaycity.com/l/2df5d9b989af4659/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-tanner-point-e13/3087797"
+    },
+    {
+      "uid": "2c05d7ddcb030ca4",
+      "title": "1 bed flat, chiswick riverside, W4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,686 / month (≈£4,990)"
+      },
+      "url": "https://www.alldaycity.com/l/2c05d7ddcb030ca4/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322314"
+    },
+    {
+      "uid": "2bda34309a6d8b0b",
+      "title": "1 bed flat, NW6",
+      "description": "furnished, available from 22 december 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,149 / month (≈£2,350)"
+      },
+      "url": "https://www.alldaycity.com/l/2bda34309a6d8b0b/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-lowfield-road-nw6/3087811"
+    },
+    {
+      "uid": "288ea7ae11bd534f",
+      "title": "2 bed flat, grove green, E10",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,861 / month (≈£2,135)"
+      },
+      "url": "https://www.alldaycity.com/l/288ea7ae11bd534f/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1287872"
+    },
+    {
+      "uid": "2876584628348f10",
+      "title": "2 bed flat, SE27",
+      "description": "unfurnished, available from today",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,814 / month (≈£2,100)"
+      },
+      "url": "https://www.alldaycity.com/l/2876584628348f10/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-gipsy-road-se27/3087836"
+    },
+    {
+      "uid": "26f94a2c1a4746ec",
+      "title": "4 bed flat, TW19",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$8,039 / month (≈£6,000)"
+      },
+      "url": "https://www.alldaycity.com/l/26f94a2c1a4746ec/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/614041"
+    },
+    {
+      "uid": "21dcc82fc972cbc7",
+      "title": "2 bed flat, hounslow central, TW3",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,266 / month (≈£3,930)"
+      },
+      "url": "https://www.alldaycity.com/l/21dcc82fc972cbc7/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1322301"
+    },
+    {
+      "uid": "1d2d3f3eca5b064c",
+      "title": "2 bed flat, RG4",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,666 / month (≈£1,990)"
+      },
+      "url": "https://www.alldaycity.com/l/1d2d3f3eca5b064c/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1303279"
+    },
+    {
+      "uid": "1afc200cb2844da8",
+      "title": "room, westminster, W9",
+      "description": "furnished, minimum stay 12 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,353 / month (≈£1,010)"
+      },
+      "url": "https://www.alldaycity.com/l/1afc200cb2844da8/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/1327361"
+    },
+    {
+      "uid": "19db4b0c6f8a753b",
+      "title": "1 bed flat, fitzrovia, W1T",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$11,858 / month (≈£8,850)"
+      },
+      "url": "https://www.alldaycity.com/l/19db4b0c6f8a753b/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/363445"
+    },
+    {
+      "uid": "1710dd9c15af9bad",
+      "title": "room, roehampton, SW15",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$938 / month (≈£700)"
+      },
+      "url": "https://www.alldaycity.com/l/1710dd9c15af9bad/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/613031"
+    },
+    {
+      "uid": "0ed2761a661ab2c7",
+      "title": "2 bed flat, E14",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,699 / month (≈£5,000)"
+      },
+      "url": "https://www.alldaycity.com/l/0ed2761a661ab2c7/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-alberta-court-north-e14/3087874"
     }
   ]
 }
