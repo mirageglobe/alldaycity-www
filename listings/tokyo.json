@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "tokyo",
-  "count": 60,
+  "count": 63,
   "listings": [
     {
       "uid": "0000003",
@@ -1996,6 +1996,69 @@
       },
       "url": "https://www.alldaycity.com/l/a038374413efb46c/",
       "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
+    },
+    {
+      "uid": "edf4b112f751f9d4",
+      "title": "room, taito",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 4 min walk to nezu station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$362 / month (≈¥57,000)"
+      },
+      "url": "https://www.alldaycity.com/l/edf4b112f751f9d4/",
+      "link": "https://www.oakhouse.jp/eng/house/118"
+    },
+    {
+      "uid": "a8d4c5d75aac68a5",
+      "title": "room, suginami",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 10 min walk to ogikubo station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$375 / month (≈¥59,000)"
+      },
+      "url": "https://www.alldaycity.com/l/a8d4c5d75aac68a5/",
+      "link": "https://www.oakhouse.jp/eng/house/72"
+    },
+    {
+      "uid": "5eea59449533779e",
+      "title": "room, itabashi",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 2 min walk to shin takashimadaira station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$312 / month (≈¥49,000)"
+      },
+      "url": "https://www.alldaycity.com/l/5eea59449533779e/",
+      "link": "https://www.oakhouse.jp/eng/house/5"
     }
   ]
 }
