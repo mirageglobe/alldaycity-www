@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 9,
+  "count": 196,
   "listings": [
     {
       "uid": "0000003",
@@ -64,10 +64,699 @@
       "link": "https://sites.alldaycity.com/property/0000009"
     },
     {
-      "uid": "0000019",
-      "title": "software engineer, ai coding tasks",
-      "company": "askable",
-      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. remote, open to Worldwide.",
+      "uid": "5b0d8fd4da770e16",
+      "title": "senior software engineer, security assurance | uk | remote",
+      "company": "grafana labs",
+      "description": "You will develop security assurance systems that automate compliance checks across cloud-native applications while collaborating with developers and auditors to enforce guardrails in the software development lifecycle.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "ESP",
+        "GBR",
+        "IRL",
+        "SWE"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 91755,
+        "max": 110106,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 91755-110106"
+      },
+      "url": "https://www.alldaycity.com/l/5b0d8fd4da770e16/",
+      "link": "https://jobicy.com/jobs/157834-senior-software-engineer-security-assurance-uk-remote"
+    },
+    {
+      "uid": "cb7a140deef7dea0",
+      "title": "public sector partnerships lead - france",
+      "company": "elevenlabs",
+      "description": "You will lead ElevenLabs' public sector business in France by identifying government partnerships across ministries and agencies to drive adoption of their products.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/cb7a140deef7dea0/",
+      "link": "https://jobicy.com/jobs/157832-public-sector-partnerships-lead-france"
+    },
+    {
+      "uid": "cd800358e70b93b7",
+      "title": "senior software engineer, security assurance | sweden | remote",
+      "company": "grafana labs",
+      "description": "You will build automated security assurance systems that provide visibility into cloud-native applications while developing guardrails for developers to follow best practices across the SDLC.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "ESP",
+        "GBR",
+        "IRL",
+        "SWE"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 775444,
+        "max": 930533,
+        "currency": "SEK",
+        "period": "year",
+        "raw": "SEK 775444-930533"
+      },
+      "url": "https://www.alldaycity.com/l/cd800358e70b93b7/",
+      "link": "https://jobicy.com/jobs/157829-senior-software-engineer-security-assurance-sweden-remote"
+    },
+    {
+      "uid": "6052eb29f01d5d74",
+      "title": "strategic account executive",
+      "company": "twilio",
+      "description": "You will act as a Strategic Account Executive responsible for selling high-value products and services to key customers across Northern Europe, focusing on revenue growth and cross-selling.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/6052eb29f01d5d74/",
+      "link": "https://jobicy.com/jobs/157828-strategic-account-executive-14"
+    },
+    {
+      "uid": "fdfcf17afc396fd3",
+      "title": "senior software engineer, security assurance | spain | remote",
+      "company": "grafana labs",
+      "description": "You will develop security assurance systems that automate compliance checks across cloud-native applications while collaborating with developers and auditors to enforce guardrails in the software development lifecycle.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "ESP",
+        "GBR",
+        "IRL",
+        "SWE"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 82988,
+        "max": 99586,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 82988-99586"
+      },
+      "url": "https://www.alldaycity.com/l/fdfcf17afc396fd3/",
+      "link": "https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote"
+    },
+    {
+      "uid": "bbe8fdf55bd00836",
+      "title": "senior pr and communications manager (12 month fixed-term contract)",
+      "company": "monzo",
+      "description": "You will lead PR activities for established European markets while planning and executing go-to-market strategies for new EU locations, managing cross-functional teams, and advising senior leadership on external communications.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 95000,
+        "max": 115000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 95000-115000"
+      },
+      "url": "https://www.alldaycity.com/l/bbe8fdf55bd00836/",
+      "link": "https://jobicy.com/jobs/157823-senior-pr-and-communications-manager-12-month-fixed-term-contract"
+    },
+    {
+      "uid": "7108fe9f1610e717",
+      "title": "site reliability engineer in hardware infrastructure",
+      "company": "nebius",
+      "description": "You will ensure fault-tolerant and scalable operations for Nebius services by implementing CI/CD pipelines, troubleshooting complex hardware and software issues, and optimizing system performance using Linux, Python, and Bash scripting.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/7108fe9f1610e717/",
+      "link": "https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure"
+    },
+    {
+      "uid": "b5c98af7a0a34fbf",
+      "title": "senior fraud risk manager",
+      "company": "monzo",
+      "description": "You will lead the global Fraud & Disputes Risk team by designing fraud controls, managing cross-functional projects, and coaching staff while ensuring compliance with UK and EU regulations.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 108700,
+        "max": 140000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 108700-140000"
+      },
+      "url": "https://www.alldaycity.com/l/b5c98af7a0a34fbf/",
+      "link": "https://jobicy.com/jobs/157820-senior-fraud-risk-manager"
+    },
+    {
+      "uid": "fe1a25787d9fd6c4",
+      "title": "senior technical program manager - new data center launches",
+      "company": "nebius",
+      "description": "You will lead end-to-end delivery of data center programs, managing scope, risks, and vendor execution while translating technical requirements into actionable plans for hyperscale deployments.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/fe1a25787d9fd6c4/",
+      "link": "https://jobicy.com/jobs/157819-senior-technical-program-manager-new-data-center-launches"
+    },
+    {
+      "uid": "831f7bdd2bef8cc3",
+      "title": "senior director of global tax",
+      "company": "monzo",
+      "description": "You will lead a global tax team of over ten individuals while advising on the tax implications of new business developments, managing cross-border expansion strategies, and ensuring compliance with HMRC and international regulations.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/831f7bdd2bef8cc3/",
+      "link": "https://jobicy.com/jobs/157817-senior-director-of-global-tax"
+    },
+    {
+      "uid": "5cc5a06239bcc588",
+      "title": "senior product manager, panel (remote, eu/uk)",
+      "company": "maze",
+      "description": "You will own the recruitment and participant management systems for Maze, designing high-quality experiences for customers while partnering with engineering, design, and panel operations teams to scale participant supply.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 113000,
+        "max": 133000,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 113000-133000"
+      },
+      "url": "https://www.alldaycity.com/l/5cc5a06239bcc588/",
+      "link": "https://jobicy.com/jobs/157816-senior-product-manager-panel-remote-eu-uk"
+    },
+    {
+      "uid": "ca8996ff2fab357c",
+      "title": "head of tax information reporting",
+      "company": "okx",
+      "description": "You will lead global tax information reporting operations, including the OECD CARF, DAC8, CRS 2.0, FATCA, and US Form 1099-DA cycles across multiple entities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/ca8996ff2fab357c/",
+      "link": "https://jobicy.com/jobs/157815-head-of-tax-information-reporting"
+    },
+    {
+      "uid": "a12918157bd38aa7",
+      "title": "project development manager- data centers, emea",
+      "company": "nebius",
+      "description": "You will lead the development of AI infrastructure projects from executed agreements through construction readiness by coordinating permitting, utility planning, and multidisciplinary teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/a12918157bd38aa7/",
+      "link": "https://jobicy.com/jobs/157814-project-development-manager-data-centers-emea-2"
+    },
+    {
+      "uid": "f87c8c31f9582d9b",
+      "title": "credit model validation manager",
+      "company": "monzo",
+      "description": "You will lead independent validation of Monzo's credit model portfolio, ensuring models used for impairment, capital, stress testing, and forecasting are fit for purpose and governed by strict risk frameworks.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 79000,
+        "max": 93000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 79000-93000"
+      },
+      "url": "https://www.alldaycity.com/l/f87c8c31f9582d9b/",
+      "link": "https://jobicy.com/jobs/157812-credit-model-validation-manager"
+    },
+    {
+      "uid": "5d5a6d188839ff6e",
+      "title": "consulting specialist, remote- contract",
+      "company": "xperteez technology",
+      "description": "You will reconstruct Microsoft PowerPoint slides to improve visual storytelling and data visualization, while editing content for clarity and consistency. You will collaborate with clients to deliver presentation assets that support the development of AI systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "AUS",
+        "CAN",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 150,
+        "max": 350,
+        "currency": "USD",
+        "period": "hour",
+        "raw": "USD 150-350"
+      },
+      "url": "https://www.alldaycity.com/l/5d5a6d188839ff6e/",
+      "link": "https://himalayas.app/companies/xperteez-technology/jobs/consulting-specialist-remote-contract-684866510"
+    },
+    {
+      "uid": "40a742c98535b1c5",
+      "title": "corporate finance & financial modeling expert",
+      "company": "micro1",
+      "description": "You will design multi-step finance scenarios, create professional deliverables, and independently verify the quality of AI-generated models and analyses.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 60,
+        "max": 120,
+        "currency": "USD",
+        "period": "hour",
+        "raw": "USD 60-120"
+      },
+      "url": "https://www.alldaycity.com/l/40a742c98535b1c5/",
+      "link": "https://himalayas.app/companies/micro1/jobs/corporate-finance-financial-modeling-expert"
+    },
+    {
+      "uid": "324ea4137821d89d",
+      "title": "sr proposal writer cartus intl",
+      "company": "anywhere real estate inc.",
+      "description": "You will lead the end-to-end development of high-quality proposals, RFPs, and strategic sales documents for Cartus, working closely with sales teams and subject matter experts to ensure client-focused responses.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "url": "https://www.alldaycity.com/l/324ea4137821d89d/",
+      "link": "https://himalayas.app/companies/anywhere-real-estate-inc/jobs/sr-proposal-writer-cartus-intl"
+    },
+    {
+      "uid": "d91b675ac5bfdd56",
+      "title": "new business account executive",
+      "company": "twilio",
+      "description": "You will sell high-value enterprise accounts and drive revenue growth by prospecting new customers, negotiating contracts, and managing complex sales cycles while collaborating with technical teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-28",
+      "url": "https://www.alldaycity.com/l/d91b675ac5bfdd56/",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8327527"
+    },
+    {
+      "uid": "6aa5025941a7f2c5",
+      "title": "engineering manager, product catalogs",
+      "company": "reddit",
+      "description": "You will lead the Engineering Manager for the Product Catalogs team, designing scalable systems to manage billions of products while collaborating with designers and other teams to build intuitive user experiences.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-28",
+      "url": "https://www.alldaycity.com/l/6aa5025941a7f2c5/",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8330450"
+    },
+    {
+      "uid": "aeb95e120f380bbf",
+      "title": "senior back-end developer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior Back-end Developer or Site Reliability Engineer, designing and shipping solutions using Golang, Python, or other specified technologies while collaborating with clients to solve complex distributed system problems.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
@@ -76,52 +765,2888 @@
       "reach": [
         "worldwide"
       ],
-      "posted": "2026-10-17",
-      "salary": {
-        "min": 1000,
-        "max": null,
-        "currency": "USD",
-        "period": "year",
-        "raw": "$1000 per task"
-      },
-      "url": "https://www.alldaycity.com/l/0000019/",
-      "link": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
+      "open": [
+        "ALB",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CAN",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SAU",
+        "SGP",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-10-27",
+      "url": "https://www.alldaycity.com/l/aeb95e120f380bbf/",
+      "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135"
     },
     {
-      "uid": "0000021",
-      "title": "remote office assistant",
-      "company": "coalition technologies",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. remote, open to Worldwide.",
+      "uid": "316fec0465a48545",
+      "title": "customer success manager - pharmacovigilance",
+      "company": "veeva systems",
+      "description": "You will act as a strategic bridge between Veeva and global life sciences organizations, partnering with executive stakeholders to unlock the full potential of their PV suite while championing customer needs through cross-functional collaboration.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-27",
+      "url": "https://www.alldaycity.com/l/316fec0465a48545/",
+      "link": "https://jobs.lever.co/veeva/8e0c5693-f17d-46fc-8c8f-f68421561e2f"
+    },
+    {
+      "uid": "381b64e738e51db3",
+      "title": "enterprise account executive (swedish speaking)",
+      "company": "sanity",
+      "description": "You will qualify opportunities from SDRs and marketing teams, pitch technical product developers to French enterprises in Swedish, negotiate complex enterprise deals including procurement norms, and build the local sales playbook while forecasting monthly bookings.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-27",
+      "url": "https://www.alldaycity.com/l/381b64e738e51db3/",
+      "link": "https://jobs.ashbyhq.com/sanity/d65162c1-af14-489f-8818-61bae780f2f7"
+    },
+    {
+      "uid": "212f4559d932ec93",
+      "title": "head of engineering",
+      "company": "lemon.io",
+      "description": "You will lead an engineering team to build a technology-driven platform that automates hiring by reducing timelines from weeks to hours, making critical architecture decisions and prioritizing features based on business impact.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
       "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/212f4559d932ec93/",
+      "link": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134"
+    },
+    {
+      "uid": "41de6af1654bb9e4",
+      "title": "container engineer",
+      "company": "supabase",
+      "description": "You will design and maintain the internal container platform responsible for running Supabase's multi-tenant services, focusing on building automation tools, controllers, and observability systems to ensure reliability and cost-efficiency at scale.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/41de6af1654bb9e4/",
+      "link": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a"
+    },
+    {
+      "uid": "f657c356ae296360",
+      "title": "support engineer (apac - weekends)",
+      "company": "supabase",
+      "description": "You will act as a Support Engineer providing 10-hour daily shifts covering weekends in APAC hours to troubleshoot user issues with Supabase. Your main tasks involve triaging support cases from GitHub Issues, reproducing bugs for testing, and communicating directly with the product engineering team.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/f657c356ae296360/",
+      "link": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3"
+    },
+    {
+      "uid": "aa33d12d7867d06c",
+      "title": "account manager - emea",
+      "company": "benchling",
+      "description": "You will act as an Account Manager who builds relationships with scientific stakeholders to drive renewals, manage complex client negotiations, and identify opportunities for product expansion.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/aa33d12d7867d06c/",
+      "link": "https://jobs.ashbyhq.com/benchling/714ea82b-2255-4ce1-abf0-800a5be460b5"
+    },
+    {
+      "uid": "2fd39a7ad63914d2",
+      "title": "infrastructure security engineer",
+      "company": "elevenlabs",
+      "description": "We’re looking for a Security Engineer to join the ElevenLabs Security team.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "BEL",
+        "BGR",
+        "CZE",
+        "DNK",
+        "ESP",
+        "GBR",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ITA",
+        "NLD",
+        "POL",
+        "PRT",
+        "SWE"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/2fd39a7ad63914d2/",
+      "link": "https://jobicy.com/jobs/157064-infrastructure-security-engineer"
+    },
+    {
+      "uid": "1e94dcbfe85d756a",
+      "title": "proposal manager",
+      "company": "elevenlabs",
+      "description": "Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/1e94dcbfe85d756a/",
+      "link": "https://jobicy.com/jobs/157060-proposal-manager-2"
+    },
+    {
+      "uid": "4dd29d15bd4c1aa2",
+      "title": "global technical talent lead",
+      "company": "elevenlabs",
+      "description": "We are looking for a Global Technical Talent Lead to own hiring across Engineering, Product, Design, Research, and Growth worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "GBR",
+        "IRL",
+        "USA"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/4dd29d15bd4c1aa2/",
+      "link": "https://jobicy.com/jobs/157057-global-technical-talent-lead"
+    },
+    {
+      "uid": "815ddf3f5e0e19fd",
+      "title": "emea marketing manager",
+      "company": "cresta",
+      "description": "We’re looking for a highly strategic and execution-oriented EMEA Marketing Manager to build and scale our regional marketing function, with a strong focus on Spain.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/815ddf3f5e0e19fd/",
+      "link": "https://jobicy.com/jobs/157056-emea-marketing-manager"
+    },
+    {
+      "uid": "88714b3b175e426a",
+      "title": "safety engineer (backend leaning)",
+      "company": "elevenlabs",
+      "description": "Build safety systems: Design, develop, and scale automated moderation systems, abuse detection capabilities, and guardrails for AI agents across ElevenLabs’ products.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL",
+        "JPN",
+        "POL",
+        "USA"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/88714b3b175e426a/",
+      "link": "https://jobicy.com/jobs/157048-safety-engineer-backend-leaning"
+    },
+    {
+      "uid": "eb64dfa895fac84b",
+      "title": "contract staff software engineer - (firefox) c++,storage encryption",
+      "company": "mozilla",
+      "description": "You will implement Storage Encryption Everywhere in Gecko, handling database migrations, data storage, and testing while collaborating with the team to ship features through release channels.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/eb64dfa895fac84b/",
+      "link": "https://job-boards.greenhouse.io/mozilla/jobs/8324517"
+    },
+    {
+      "uid": "c2ff33dee074f614",
+      "title": "contract senior data analyst (sql,telemetry,browser engine)",
+      "company": "mozilla",
+      "description": "You will build automated dashboards to translate telemetry data into business insights and audit the codebase to identify missing probes that affect user behavior.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "salary": {
+        "min": 58500,
+        "max": 78000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 58500-78000"
+      },
+      "url": "https://www.alldaycity.com/l/c2ff33dee074f614/",
+      "link": "https://job-boards.greenhouse.io/mozilla/jobs/8324476"
+    },
+    {
+      "uid": "ff9cb2f09e80bf1d",
+      "title": "blockchain developer",
+      "company": "kognitiv academy ltd",
+      "description": "Location: Dubai / London / Remote | Engagement: Full-time or project-based | Experience: 3+ years preferred | Reports to: Technology Lead / Founder.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ARE",
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "url": "https://www.alldaycity.com/l/ff9cb2f09e80bf1d/",
+      "link": "https://himalayas.app/companies/kognitiv-academy-ltd/jobs/blockchain-developer"
+    },
+    {
+      "uid": "6c6543d575bc0b5a",
+      "title": "staff software engineer, delivery engineering",
+      "company": "circleci",
+      "description": "You will lead agentic developer experience initiatives by designing end-to-end SDLCs, building shared tooling for AI-native workflows, and mentoring teams on how to effectively use coding agents.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "salary": {
+        "min": 195000,
+        "max": 265000,
+        "currency": "CAD",
+        "period": "year",
+        "raw": "CAD 195000-265000"
+      },
+      "url": "https://www.alldaycity.com/l/6c6543d575bc0b5a/",
+      "link": "https://www.circleci.com/careers/jobs/8882264002/?gh_jid=8882264002"
+    },
+    {
+      "uid": "5eb3cdfefd159a6e",
+      "title": "software engineer - storage",
+      "company": "supabase",
+      "description": "You will work across the entire stack to improve storage performance, optimize asset delivery, and enhance edge network capabilities. Your daily tasks involve building scalable distributed systems, tuning production-grade PostgreSQL, and resolving escalated support issues while driving end-to-end developer experience improvements.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-24",
+      "url": "https://www.alldaycity.com/l/5eb3cdfefd159a6e/",
+      "link": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+    },
+    {
+      "uid": "71f82f572c0535b3",
+      "title": "data api engineer",
+      "company": "supabase",
+      "description": "You will work on the PostgreSQL driver for PostgREST to remove bottlenecks and improve performance while developing new features and bug fixes for a multitenant Data API.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-24",
+      "url": "https://www.alldaycity.com/l/71f82f572c0535b3/",
+      "link": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0"
+    },
+    {
+      "uid": "84f0822cdc361164",
+      "title": "manager, emea community (contract)",
+      "company": "reddit",
+      "description": "You will lead the EMEA team by defining regional strategies, managing moderator growth, and reporting on engagement metrics to drive platform expansion.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-23",
+      "url": "https://www.alldaycity.com/l/84f0822cdc361164/",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8318010"
+    },
+    {
+      "uid": "6e756df0ed536cf0",
+      "title": "ai trainer - video annotation",
+      "company": "imerit technology",
+      "description": "You will annotate short video clips by identifying objects, actions, and events while evaluating their quality against established guidelines.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-22",
+      "salary": {
+        "min": 70000,
+        "max": 80000,
+        "period": "year",
+        "raw": "70K-80K"
+      },
+      "url": "https://www.alldaycity.com/l/6e756df0ed536cf0/",
+      "link": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161"
+    },
+    {
+      "uid": "f8cfd26aade1f25a",
+      "title": "lead partner marketing manager",
+      "company": "oyster",
+      "description": "You will design and execute partner marketing programs across Oyster's ecosystem, manage budgets, measure ROI, and align teams to drive demand through strategic partnerships.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-22",
+      "salary": {
+        "min": 54000,
+        "max": 100000,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 54000-100000"
+      },
+      "url": "https://www.alldaycity.com/l/f8cfd26aade1f25a/",
+      "link": "https://jobs.ashbyhq.com/oyster/0d6fef86-5e4b-4bca-aff7-8dd7ae2e0519"
+    },
+    {
+      "uid": "3e7176936087aba7",
+      "title": "engineering - internal ai transformation",
+      "company": "elevenlabs",
+      "description": "You will design and ship agentic AI workflows using tools like ElevenAgents, Claude, and n8n, while integrating systems with Salesforce, Slack, and Ashby to eliminate manual toil.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-22",
+      "url": "https://www.alldaycity.com/l/3e7176936087aba7/",
+      "link": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7"
+    },
+    {
+      "uid": "4384860711a3af2f",
+      "title": "senior angular developer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior Angular or .NET developer on client projects, focusing on end-to-end problem solving, technical architecture, and delivering business impact through remote collaboration.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM",
+        "ZAF"
+      ],
+      "posted": "2026-10-22",
+      "url": "https://www.alldaycity.com/l/4384860711a3af2f/",
+      "link": "https://dynamitejobs.com/company/lemonio/remote-job/senior-angular-developer"
+    },
+    {
+      "uid": "46524a3d6557ee13",
+      "title": "account partner - development cloud - uki",
+      "company": "veeva systems",
+      "description": "You will act as an Account Partner for Veeva Development Cloud, managing relationships with Pharma and Biotech clients while driving new business growth and ensuring contract renewals.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/46524a3d6557ee13/",
+      "link": "https://jobs.lever.co/veeva/83baf4e6-251f-440b-9258-4159297b56cb"
+    },
+    {
+      "uid": "2ac972ff3f83f882",
+      "title": "director of marketing - falcon mlr",
+      "company": "veeva systems",
+      "description": "You will lead global marketing for Falcon MLR by developing positioning and go-to-market strategies, executing campaigns that drive brand awareness and pipeline growth, while aligning teams across demand generation and digital channels.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/2ac972ff3f83f882/",
+      "link": "https://jobs.lever.co/veeva/03f3e75c-6fd0-4903-b85e-ba73858d551d"
+    },
+    {
+      "uid": "040444b126573cf9",
+      "title": "staff product designer - platform design",
+      "company": "spotify",
+      "description": "You will combine product leadership with design and engineering to shape experience strategy for the Spotify Technology portfolio, establish a distinctive visual language, and turn internal tools into products used by developers worldwide.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/040444b126573cf9/",
+      "link": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae"
+    },
+    {
+      "uid": "b27582d41d025a1f",
+      "title": "engineering manager - spark",
+      "company": "supabase",
+      "description": "You will lead an engineering team focused on Supabase Spark, an agentic database initiative supporting billions of databases. Your daily tasks include managing remote hiring plans, driving technical roadmaps, acting as Incident Commander for critical incidents, and ensuring high-trust culture through performance management and mentorship.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/b27582d41d025a1f/",
+      "link": "https://jobs.ashbyhq.com/supabase/c6d89ec0-76ee-4de7-92d0-2e0262e9e025"
+    },
+    {
+      "uid": "ad6d391b7e41c672",
+      "title": "software engineer - turso",
+      "company": "supabase",
+      "description": "You will drive the progress of the Turso Open Source database, specifically focusing on the Postgres compatibility layer, while maintaining code reliability and ensuring system guarantees. You will also manage Turso Cloud operations, including the Cloud API and data plane, to improve scalability for supporting hundreds of millions of databases.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/ad6d391b7e41c672/",
+      "link": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259"
+    },
+    {
+      "uid": "710dc8193ecc4a98",
+      "title": "grc analyst",
+      "company": "supabase",
+      "description": "You will run risk assessments, maintain compliance registers, and manage SOC 2 and ISO/IEC 27001 controls while supporting internal audits and evidence collection.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/710dc8193ecc4a98/",
+      "link": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+    },
+    {
+      "uid": "f4472d26b07c3b21",
+      "title": "creative producer",
+      "company": "linear",
+      "description": "You will manage creative projects from briefs to delivery by coordinating with designers, engineers, and stakeholders across marketing and product.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/f4472d26b07c3b21/",
+      "link": "https://jobs.ashbyhq.com/linear/c97e034e-19a8-4ec7-89a5-c81987451da8"
+    },
+    {
+      "uid": "60e290f3d9c801f7",
+      "title": "lead machine learning scientist, business banking",
+      "company": "monzo",
+      "description": "As a Lead Machine Learning Scientist in Business Banking, you’ll help build and ship models that power the next generation of Business Banking experiences.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 115000,
+        "max": 150000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 115000-150000"
+      },
+      "url": "https://www.alldaycity.com/l/60e290f3d9c801f7/",
+      "link": "https://jobicy.com/jobs/156127-lead-machine-learning-scientist-business-banking"
+    },
+    {
+      "uid": "1d92323d3c235385",
+      "title": "sales manager, ecommerce",
+      "company": "stackadapt",
+      "description": "Prospecting, pitching, and closing new business with brands and in-house marketing teams within the eCommerce vertical. Building and managing a strong pipeline of eComm brand-direct opportunities using outbound sales strategies and CRM tools.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 46195,
+        "max": 63518,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 46195-63518"
+      },
+      "url": "https://www.alldaycity.com/l/1d92323d3c235385/",
+      "link": "https://jobicy.com/jobs/156126-sales-manager-ecommerce"
+    },
+    {
+      "uid": "e7f992ba5c5542d3",
+      "title": "lead data scientist",
+      "company": "monzo",
+      "description": "We're looking for a Lead Data Scientist excited to help build the bank of the future. You'll have the opportunity to super charge our user engagement in 2026 and help us to build a bank that customers truly love.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 95000,
+        "max": 130000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 95000-130000"
+      },
+      "url": "https://www.alldaycity.com/l/e7f992ba5c5542d3/",
+      "link": "https://jobicy.com/jobs/156125-lead-data-scientist-3"
+    },
+    {
+      "uid": "c419f1a7f8260602",
+      "title": "sales manager, b2b",
+      "company": "stackadapt",
+      "description": "Prospecting, pitching, and closing new business with brands and in-house marketing teams within the B2B vertical. Building and managing a strong pipeline of B2B brand-direct opportunities using outbound sales strategies and CRM tools.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 46195,
+        "max": 63518,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 46195-63518"
+      },
+      "url": "https://www.alldaycity.com/l/c419f1a7f8260602/",
+      "link": "https://jobicy.com/jobs/156124-sales-manager-b2b"
+    },
+    {
+      "uid": "d18f93840f896716",
+      "title": "engineering manager",
+      "company": "monzo",
+      "description": "Taking accountability for delivery across your squad(s), collaborating with the Technical Lead and Product Manager. Actively fostering a high bar for engineering excellence within your teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 112000,
+        "max": 145000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 112000-145000"
+      },
+      "url": "https://www.alldaycity.com/l/d18f93840f896716/",
+      "link": "https://jobicy.com/jobs/156122-engineering-manager-10"
+    },
+    {
+      "uid": "86962cdca407d6af",
+      "title": "programmatic sales manager",
+      "company": "stackadapt",
+      "description": "Drive new business growth by proactively identifying and engaging agency and brand partners through strategic outbound outreach. Build and own a high-quality sales pipeline, developing strong relationships with prospective clients and creating long-term revenue opportunities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 59027,
+        "max": 81162,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 59027-81162"
+      },
+      "url": "https://www.alldaycity.com/l/86962cdca407d6af/",
+      "link": "https://jobicy.com/jobs/156121-programmatic-sales-manager"
+    },
+    {
+      "uid": "d06c0cf450d699f4",
+      "title": "product manager, new content initiatives and analysis",
+      "company": "alphasense",
+      "description": "We are seeking a Product Manager for New Content Evaluation and Analysis to help us expand and strengthen the breadth, quality, and value of the data and content that power our Platform.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/d06c0cf450d699f4/",
+      "link": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis"
+    },
+    {
+      "uid": "bae399d557fcc0f9",
+      "title": "marketing campaign manager",
+      "company": "cordance",
+      "description": "We are seeking a strategic and results-driven Marketing Campaign Manager to lead the planning, execution, and optimization of integrated marketing campaigns across multiple business units within our Education Division.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/bae399d557fcc0f9/",
+      "link": "https://jobicy.com/jobs/156119-marketing-campaign-manager"
+    },
+    {
+      "uid": "1af9226f82434f64",
+      "title": "principal software engineer - product platforms",
+      "company": "alphasense",
+      "description": "We’re looking for a Principal Software Engineer to help define and build shared, API-first product platforms at AlphaSense that power multiple product surfaces, integrations, and agentic workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/1af9226f82434f64/",
+      "link": "https://jobicy.com/jobs/156118-principal-software-engineer-product-platforms"
+    },
+    {
+      "uid": "19a8e95fce46bf91",
+      "title": "legal services manager",
+      "company": "twilio",
+      "description": "You will act as a Legal Services Manager within Twilio's Center of Excellence, handling high-volume commercial contract reviews and serving as the primary contact for legal inquiries from GTM and telecom teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/19a8e95fce46bf91/",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8303973"
+    },
+    {
+      "uid": "f88ca743dab0cf41",
+      "title": "technical helpdesk engineer automotive 100% remote",
+      "company": "msx international",
+      "description": "In this role, you’ll be at the center of complex diagnostic repair cases, tackling issues that demand deep technical insight, structured thinking, and creativity.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-21",
+      "salary": {
+        "min": 34000,
+        "max": 34000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 34000"
+      },
+      "url": "https://www.alldaycity.com/l/f88ca743dab0cf41/",
+      "link": "https://himalayas.app/companies/msx-international/jobs/technical-helpdesk-engineer-automotive-100-remote-9127161958"
+    },
+    {
+      "uid": "c9560a31fcffd2f2",
+      "title": "senior b2b outbound growth strategist",
+      "company": "the dg company",
+      "description": "You will independently research potential wholesale customers across the United States, identify decision-makers, and craft persuasive outbound messaging via email, SMS, and social media to generate qualified appointments for their sales team.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HND",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NIC",
+        "NLD",
+        "NOR",
+        "PAN",
+        "PER",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN"
+      ],
+      "posted": "2026-10-21",
+      "url": "https://www.alldaycity.com/l/c9560a31fcffd2f2/",
+      "link": "https://dynamitejobs.com/company/thedgcompany/remote-job/senior-b2b-outbound-growth-strategist"
+    },
+    {
+      "uid": "a8dbcbffb5d717a9",
+      "title": "service delivery automation analyst",
+      "company": "oyster",
+      "description": "You will build and maintain automated workflows using tools like n8n, Alteryx, and SQL to process payroll data from multiple sources. You will identify repetitive manual tasks, translate complex policies into clear rules, and implement validation checks to ensure accuracy before payroll cycles.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/a8dbcbffb5d717a9/",
+      "link": "https://jobs.ashbyhq.com/oyster/c3161b23-af44-4cdf-b822-e4e281634e89"
+    },
+    {
+      "uid": "409ecfeec61e8763",
+      "title": "strategic customer success manager - italian speaking",
+      "company": "synthesia",
+      "description": "Reporting to the AVP of Customer Success and focusing on Italian accounts in Europe - you are energetic, driven, and care deeply about the success of our customers.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/409ecfeec61e8763/",
+      "link": "https://jobicy.com/jobs/153677-strategic-customer-success-manager-italian-speaking"
+    },
+    {
+      "uid": "e9006321f9febb71",
+      "title": "technical integrations consultant",
+      "company": "zip",
+      "description": "We’re looking for a Technical Solutions Consultant to join our rapidly scaling team. You’ll work closely with our Sales and Solutions teams to implement the Zip Integration Platform for our customers.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/e9006321f9febb71/",
+      "link": "https://jobicy.com/jobs/153676-technical-integrations-consultant"
+    },
+    {
+      "uid": "074a1f0ecb8b412d",
+      "title": "enterprise customer success manager",
+      "company": "semperis",
+      "description": "Semperis is looking for a passionate and results-driven Enterprise Customer Success Manager to join our EMEA team. What you will be doing:.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/074a1f0ecb8b412d/",
+      "link": "https://jobicy.com/jobs/153675-enterprise-customer-success-manager-6"
+    },
+    {
+      "uid": "3911e8a5ffde093c",
+      "title": "application integration developer",
+      "company": "nebius",
+      "description": "Nebius is leading a new era in cloud infrastructure for the global AI economy.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/3911e8a5ffde093c/",
+      "link": "https://jobicy.com/jobs/153674-application-integration-developer"
+    },
+    {
+      "uid": "db5719a6fe351d17",
+      "title": "graduate customer success manager",
+      "company": "canonical",
+      "description": "Although you will primarily focus on the Tech segment, including the store customers, you will also have a portfolio assigned. Ubuntu is chosen by thousands of new users every month.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/db5719a6fe351d17/",
+      "link": "https://jobicy.com/jobs/153669-graduate-customer-success-manager"
+    },
+    {
+      "uid": "76ded8affb871d19",
+      "title": "senior full stack engineer (realtime & voice) customer experience platform",
+      "company": "hopper",
+      "description": "We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across React/TypeScript front ends, Scala and Python services, and cloud infrastructure.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/76ded8affb871d19/",
+      "link": "https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform"
+    },
+    {
+      "uid": "e8cfaceb666cf01c",
+      "title": "software architect [gn] data intelligence",
+      "company": "actian",
+      "description": "Cloud Platform Design: Design and improve the cloud structure (AWS, Azure, or GCP) of our data platform, ensuring it works well for many clients at the same time.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/e8cfaceb666cf01c/",
+      "link": "https://jobicy.com/jobs/153657-software-architect-gn-data-intelligence-2"
+    },
+    {
+      "uid": "4a28658b0e794942",
+      "title": "global financial crime/sanctions legal counsel",
+      "company": "binance",
+      "description": "Serve as the lead legal counsel and subject matter expert across financial crime disciplines including sanctions (OFAC, UN, EU, UK, and other regimes), AML/CFT, anti-bribery and corruption (ABC), fraud, and market abuse.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CHN",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HKG",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PHL",
+        "POL",
+        "PRT",
+        "ROU",
+        "SGP",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "VNM"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/4a28658b0e794942/",
+      "link": "https://jobicy.com/jobs/153656-global-financial-crime-sanctions-legal-counsel"
+    },
+    {
+      "uid": "1130d9fb65eefc5b",
+      "title": "senior product manager, smart data products [gn] europe",
+      "company": "actian",
+      "description": "Translate the CPTO's strategic vision into a concrete, scalable Data Product roadmap. You'll pair strong product instincts with data-informed decision making to deliver results.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/1130d9fb65eefc5b/",
+      "link": "https://jobicy.com/jobs/153655-senior-product-manager-smart-data-products-gn-europe"
+    },
+    {
+      "uid": "aa3dc718403bd110",
+      "title": "devops engineer, blockchain infra (fully remote)",
+      "company": "binance",
+      "description": "Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/aa3dc718403bd110/",
+      "link": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote"
+    },
+    {
+      "uid": "558d747ff829685b",
+      "title": "security engineer",
+      "company": "roboflow",
+      "description": "Own the Stack: Secure everything from our Kubernetes clusters on the cloud to our SaaS integrations and developer workflows. Usher in the Future: articulate and execute on a vision for what security should be in the age of LLMs giving both us and attackers increasing leverage.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-10-20",
+      "salary": {
+        "min": 165000,
+        "max": 200000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "USD 165000-200000"
+      },
+      "url": "https://www.alldaycity.com/l/558d747ff829685b/",
+      "link": "https://jobicy.com/jobs/153639-security-engineer-2"
+    },
+    {
+      "uid": "ba3bc1f88cc86c7c",
+      "title": "dutch sports localization specialist (football)",
+      "company": "welo global",
+      "description": "Welocalize is seeking passionate and culturally fluent Sports Subject Matter Experts specialized in football with exceptional writing skills to join our localization team.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/ba3bc1f88cc86c7c/",
+      "link": "https://jobicy.com/jobs/151006-dutch-sports-localization-specialist-football"
+    },
+    {
+      "uid": "3782413ef3fbe58b",
+      "title": "testing a financial app for italian business owners",
+      "company": "testlio",
+      "description": "At the moment, we are looking for Business Owners based in Italy to collaborate in testing a popular platform's new user onboarding flow for businesses.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-20",
+      "salary": {
+        "min": 60000,
+        "max": null,
+        "currency": "USD",
+        "period": "year",
+        "raw": "USD 60000"
+      },
+      "url": "https://www.alldaycity.com/l/3782413ef3fbe58b/",
+      "link": "https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners"
+    },
+    {
+      "uid": "5d15121c26f047f6",
+      "title": "contract staff software engineer-bug burndown",
+      "company": "mozilla",
+      "description": "You will diagnose long-tail site-breakage bugs, write interventions or simple fixes using AI assistance, and reproduce incoming reports to verify their validity.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "url": "https://www.alldaycity.com/l/5d15121c26f047f6/",
+      "link": "https://job-boards.greenhouse.io/mozilla/jobs/8303335"
+    },
+    {
+      "uid": "23643ad2b457033e",
+      "title": "cheshire customer support agent | work from home in your spare time",
+      "company": "tower trophies",
+      "description": "Category: Sports Leisure & Lifestyle. Location: Chester Cheshire United Kingdom.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "salary": {
+        "min": 5000,
+        "max": 20000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 5000-20000"
+      },
+      "url": "https://www.alldaycity.com/l/23643ad2b457033e/",
+      "link": "https://himalayas.app/companies/tower-trophies/jobs/cheshire-customer-support-agent-work-from-home-in-your-spare-time"
+    },
+    {
+      "uid": "6989b3010774df5c",
+      "title": "game commercialization manager",
+      "company": "taqar consulting co. l.l.c",
+      "description": "Design and optimize game revenue models , payment structures, and in-game item systems. Monitor key monetization metrics such as conversion rates, ARPU, LTV , and user spending behavior.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-20",
+      "salary": {
+        "min": 7000,
+        "max": 9000,
+        "currency": "USD",
+        "period": "month",
+        "raw": "USD 7000-9000"
+      },
+      "url": "https://www.alldaycity.com/l/6989b3010774df5c/",
+      "link": "https://himalayas.app/companies/taqar-consulting-co-l-l-c/jobs/game-commercialization-manager"
+    },
+    {
+      "uid": "cba58e024dc3e75f",
+      "title": "deal desk analyst",
+      "company": "samsara",
+      "description": "deal desk analyst",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-19",
+      "url": "https://www.alldaycity.com/l/cba58e024dc3e75f/",
+      "link": "https://jobicy.com/jobs/154902-deal-desk-analyst-6"
+    },
+    {
+      "uid": "880a7ecf778a541f",
+      "title": "conceptual copywriter",
+      "company": "superside",
+      "description": "Superside is looking for a talented Conceptual Copywriter to ideate and execute impactful creative work across digital campaigns and marketing channels. Develop concept-driven copy and campaign ideas across digital advertising, landing pages, email, and social channels.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-19",
+      "url": "https://www.alldaycity.com/l/880a7ecf778a541f/",
+      "link": "https://jobicy.com/jobs/153612-conceptual-copywriter"
+    },
+    {
+      "uid": "f470636767c6741f",
+      "title": "conceptual art director",
+      "company": "superside",
+      "description": "Superside is looking for a talented Conceptual Art Director with a passion for Generative AI to create bold, high-performing digital campaigns for top global brands.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-19",
+      "url": "https://www.alldaycity.com/l/f470636767c6741f/",
+      "link": "https://jobicy.com/jobs/153608-conceptual-art-director"
+    },
+    {
+      "uid": "74162273df59c76a",
+      "title": "backend engineer (ruby), create: change record",
+      "company": "gitlab",
+      "description": "You will build backend services using Ruby on Rails and GraphQL to manage source code changes, design APIs, and maintain reliability for GitLab's core systems while collaborating with product and security teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "POL"
+      ],
+      "posted": "2026-10-19",
+      "url": "https://www.alldaycity.com/l/74162273df59c76a/",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002"
+    },
+    {
+      "uid": "8db37bc1a76cebd3",
+      "title": "machine learning engineer (governance ml platform)",
+      "company": "edb",
+      "description": "A Little About Us. EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/8db37bc1a76cebd3/",
+      "link": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform"
+    },
+    {
+      "uid": "14575246e4d1be4b",
+      "title": "staff software engineer - python, java / spring or go",
+      "company": "bloomreach",
+      "description": "staff software engineer - python, java / spring or go",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "salary": {
+        "min": 49100,
+        "max": 61430,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 49100-61430"
+      },
+      "url": "https://www.alldaycity.com/l/14575246e4d1be4b/",
+      "link": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go"
+    },
+    {
+      "uid": "9912fe84cc34b49e",
+      "title": "senior software engineer, data pipeline",
+      "company": "bloomreach",
+      "description": "senior software engineer, data pipeline",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "salary": {
+        "min": 1296000,
+        "max": 1620000,
+        "currency": "CZK",
+        "period": "year",
+        "raw": "CZK 1296000-1620000"
+      },
+      "url": "https://www.alldaycity.com/l/9912fe84cc34b49e/",
+      "link": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline"
+    },
+    {
+      "uid": "0eb44087ae8ed2a4",
+      "title": "principal production designer, print & packaging",
+      "company": "hims & hers",
+      "description": "principal production designer, print & packaging",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/0eb44087ae8ed2a4/",
+      "link": "https://jobicy.com/jobs/155728-principal-production-designer-print-packaging"
+    },
+    {
+      "uid": "d550e311dc18dcb0",
+      "title": "senior full-stack software engineer (remote in europe)",
+      "company": "skedda",
+      "description": "We are seeking a senior full-stack developer to take on a key role in delivering new features across the stack, from concept to launch.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "salary": {
+        "min": 75000,
+        "max": 85000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "USD 75000-85000"
+      },
+      "url": "https://www.alldaycity.com/l/d550e311dc18dcb0/",
+      "link": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2"
+    },
+    {
+      "uid": "442f350d07cf0cff",
+      "title": "sr. manager, data science",
+      "company": "hims & hers",
+      "description": "As the Senior Manager, Data Science leading our UK team, you will be one of the earliest members of Hims & Hers' data science function in the UK, joining as we stand up the team alongside the company's new technology hub there.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-18",
+      "salary": {
+        "min": 100000,
+        "max": 130000,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 100000-130000"
+      },
+      "url": "https://www.alldaycity.com/l/442f350d07cf0cff/",
+      "link": "https://jobicy.com/jobs/155725-sr-manager-data-science"
+    },
+    {
+      "uid": "c4639eb80e77479c",
+      "title": "hebrew freelance translator & copy editor (product, marketing & ui content)",
+      "company": "welo global",
+      "description": "hebrew freelance translator & copy editor (product, marketing & ui content)",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/c4639eb80e77479c/",
+      "link": "https://jobicy.com/jobs/155709-hebrew-freelance-translator-copy-editor-product-marketing-ui-content"
+    },
+    {
+      "uid": "3596062e3def42ec",
+      "title": "english to burmese (myanmar) linguist & copy editor for product, marketing & ui content",
+      "company": "welo global",
+      "description": "english to burmese (myanmar) linguist & copy editor for product, marketing & ui content",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/3596062e3def42ec/",
+      "link": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content"
+    },
+    {
+      "uid": "308cf7b6a893c0d3",
+      "title": "enterprise customer success manager (french speaker)",
+      "company": "canonical",
+      "description": "The role of an Enterprise Customer Success Manager at Canonical.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/308cf7b6a893c0d3/",
+      "link": "https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker"
+    },
+    {
+      "uid": "9bd12233a15d2a24",
+      "title": "enterprise customer success manager",
+      "company": "canonical",
+      "description": "Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/9bd12233a15d2a24/",
+      "link": "https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9"
+    },
+    {
+      "uid": "38740c12e8aceb61",
+      "title": "senior software engineer ii",
+      "company": "sbs",
+      "description": "SBS is seeking a skilled AI Engineer to join its Data & AI / Engineering organization in the UK or EU. This role will focus on designing, building, and deploying AI-driven solutions that enhance SBS products and client offerings.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-18",
+      "url": "https://www.alldaycity.com/l/38740c12e8aceb61/",
+      "link": "https://himalayas.app/companies/sbs/jobs/senior-software-engineer-ii"
+    },
+    {
+      "uid": "9515563e7654c966",
+      "title": "sdk engineer - python",
+      "company": "supabase",
+      "description": "You will build and maintain the Python SDK by designing APIs with both sync and async flavors, ensuring full type safety through protocols and generics while collaborating with teams responsible for documentation, release automation, and open-source community contributions.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-16",
+      "url": "https://www.alldaycity.com/l/9515563e7654c966/",
+      "link": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372"
+    },
+    {
+      "uid": "5b9e3a55a43b2eca",
+      "title": "integrated campaign manager",
+      "company": "oyster",
+      "description": "You will lead integrated growth campaigns for prospective customers, planning multi-channel strategies to drive pipeline and revenue. You will partner with sales and marketing teams to execute initiatives like webinars and events while optimizing spend based on data-driven results.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-16",
+      "salary": {
+        "min": 85000,
+        "max": 105000,
+        "currency": "CAD",
+        "period": "year",
+        "raw": "CAD 85000-105000"
+      },
+      "url": "https://www.alldaycity.com/l/5b9e3a55a43b2eca/",
+      "link": "https://jobs.ashbyhq.com/oyster/dae33341-78f9-4046-ab9a-ffc0f9b2c791"
+    },
+    {
+      "uid": "cf0c90b21fefdd7b",
+      "title": "site reliability engineer",
+      "company": "supabase",
+      "description": "You will partner with service teams to define SLIs and SLOs grounded in customer experience, own the Operational Readiness Review process, and strengthen the incident-to-improvement pipeline by driving systemic fixes across a distributed organization.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-15",
+      "url": "https://www.alldaycity.com/l/cf0c90b21fefdd7b/",
+      "link": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3"
+    },
+    {
+      "uid": "f5979d9c603db7a3",
+      "title": "business development representative, italian speaking",
+      "company": "gitlab",
+      "description": "You will act as a Business Development Representative to prospect and engage with target accounts using outbound sales tactics, generate qualified meetings, and convert prospects into Sales Accepted Opportunities in Salesforce.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "FRA",
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-10-15",
+      "url": "https://www.alldaycity.com/l/f5979d9c603db7a3/",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002"
+    },
+    {
+      "uid": "8431b3e878fbbd4f",
+      "title": "ai trainer",
+      "company": "imerit technology",
+      "description": "You will identify objects, actions, and events in videos, evaluate their quality against guidelines, assess movement clarity, and apply instructions consistently while tagging specific keywords.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "AUS",
+        "CAN",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-10-14",
+      "salary": {
+        "min": 50000,
+        "max": 70000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "USD 50000-70000"
+      },
+      "url": "https://www.alldaycity.com/l/8431b3e878fbbd4f/",
+      "link": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513"
+    },
+    {
+      "uid": "815b1a4d2d90d84d",
+      "title": "finops data engineer",
+      "company": "supabase",
+      "description": "You will build FinOps data pipelines using dbt and BigQuery to reconcile cloud cost and usage data into trustworthy mart tables, while designing statistical forecasting models and anomaly detection systems to identify savings opportunities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-14",
+      "url": "https://www.alldaycity.com/l/815b1a4d2d90d84d/",
+      "link": "https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f"
+    },
+    {
+      "uid": "e90a224091810780",
+      "title": "revenue enablement manager - emea",
+      "company": "cohere",
+      "description": "You will own enablement programs from design through rollout, partnering with sales leadership to embed training into the sales lifecycle.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-14",
+      "url": "https://www.alldaycity.com/l/e90a224091810780/",
+      "link": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68"
+    },
+    {
+      "uid": "14b7ac73221a60b8",
+      "title": "platform engineer - compute",
+      "company": "supabase",
+      "description": "You will design, build, and operate high-scale compute systems using Go and TypeScript to power project provisioning and multi-region scaling.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-13",
+      "url": "https://www.alldaycity.com/l/14b7ac73221a60b8/",
+      "link": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757"
+    },
+    {
+      "uid": "d4b6ea3c748dab36",
+      "title": "account director (dach)",
+      "company": "snyk",
+      "description": "You will own the end-to-end sales cycle for Enterprise customers in cybersecurity and DevOps, building complex account plans with multiple business lines while collaborating cross-functionally with leadership and partners.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-13",
+      "salary": {
+        "min": 181000,
+        "max": 226000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 181000-226000"
+      },
+      "url": "https://www.alldaycity.com/l/d4b6ea3c748dab36/",
+      "link": "https://jobs.ashbyhq.com/snyk/8112d813-05a7-4e5a-8f88-ff42d1b747ab"
+    },
+    {
+      "uid": "05dbf98f4590c80c",
+      "title": "contract sr data analyst (sql,telemetry,browser engine)",
+      "company": "mozilla",
+      "description": "You will build automated dashboards to translate telemetry data into business insights and audit the codebase to identify missing probes that affect user behavior.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "DEU",
+        "GBR"
+      ],
+      "posted": "2026-10-12",
+      "salary": {
+        "min": 93450,
+        "max": 124600,
+        "currency": "CAD",
+        "period": "year",
+        "raw": "CAD 93450-124600"
+      },
+      "url": "https://www.alldaycity.com/l/05dbf98f4590c80c/",
+      "link": "https://job-boards.greenhouse.io/mozilla/jobs/8239656"
+    },
+    {
+      "uid": "797a7ec3f9dbfe3c",
+      "title": "remote office assistant",
+      "company": "coalition technologies",
+      "description": "You will handle administrative tasks such as answering phones, completing entry-level bookkeeping, resolving billing issues, and organizing client documents while working with the content team on reporting.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
         "worldwide"
       ],
       "posted": "2026-10-11",
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "period": "year",
-        "raw": "$35,3k- $52k"
-      },
-      "url": "https://www.alldaycity.com/l/0000021/",
+      "url": "https://www.alldaycity.com/l/797a7ec3f9dbfe3c/",
       "link": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
     },
     {
-      "uid": "0000023",
+      "uid": "b7bc7456fbb4f235",
+      "title": "product design director",
+      "company": "midnite",
+      "description": "You will lead the Product Design team of five designers while defining global experience standards across native and web platforms.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-11",
+      "url": "https://www.alldaycity.com/l/b7bc7456fbb4f235/",
+      "link": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497"
+    },
+    {
+      "uid": "cfba176761173346",
+      "title": "account manager (saas/daas)",
+      "company": "ipinfo",
+      "description": "You will act as the primary client liaison, managing relationships with enterprise accounts while identifying upsell opportunities and resolving technical issues.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-11",
+      "url": "https://www.alldaycity.com/l/cfba176761173346/",
+      "link": "https://dynamitejobs.com/company/ipinfoio/remote-job/account-manager-saas-daas"
+    },
+    {
+      "uid": "ddca85225f9f1a4b",
+      "title": "implementation consultant - software (remote)",
+      "company": "veeva systems",
+      "description": "You will partner with global pharma organizations to implement AI-powered solutions using Veeva's Commercial Cloud products, leading business process due diligence and project management.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-09",
+      "url": "https://www.alldaycity.com/l/ddca85225f9f1a4b/",
+      "link": "https://jobs.lever.co/veeva/37497319-4c90-41a9-99c6-e2992a0670e4"
+    },
+    {
+      "uid": "28b96e6e14b86a74",
+      "title": "platform engineer, managed postgres",
+      "company": "supabase",
+      "description": "You will design and implement distributed services using TypeScript and Go to build core platform systems. Your daily work involves leading projects focused on scalability, reliability, and cost efficiency while collaborating with product teams to deliver features from design to production.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-09",
+      "url": "https://www.alldaycity.com/l/28b96e6e14b86a74/",
+      "link": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5"
+    },
+    {
+      "uid": "114501bc2b365368",
+      "title": "cloud platform engineer",
+      "company": "supabase",
+      "description": "You will design cloud governance frameworks across AWS and GCP, build reusable Infrastructure as Code primitives, and create self-service platforms to empower engineering teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-09",
+      "url": "https://www.alldaycity.com/l/114501bc2b365368/",
+      "link": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
+    },
+    {
+      "uid": "2869321ed4902f68",
+      "title": "platform engineer",
+      "company": "resend",
+      "description": "You will design and maintain scalable cloud infrastructure on AWS, automate operational workflows using infrastructure as code, and establish platform standards that enable engineers to move quickly while ensuring high reliability and observability.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-09",
+      "url": "https://www.alldaycity.com/l/2869321ed4902f68/",
+      "link": "https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e"
+    },
+    {
+      "uid": "2896afe88be65f34",
+      "title": "solution consultant - r&d",
+      "company": "benchling",
+      "description": "You will act as a pre-sales solution consultant for Benchling's largest customers, translating complex scientific needs into tailored enterprise software strategies while mentoring other team members.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-09",
+      "url": "https://www.alldaycity.com/l/2896afe88be65f34/",
+      "link": "https://jobs.ashbyhq.com/benchling/e8ded637-23ba-454a-8d74-e08e07235673"
+    },
+    {
+      "uid": "ea6e12680ee7a3b8",
       "title": "inside sales contractor",
       "company": "credit wellness, llc",
-      "description": "We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. remote, open to Worldwide.",
+      "description": "You will act as a KPI-driven sales representative who educates inbound callers on credit standing, consults them for potential service enrollment, and builds rapport while working independently with remote support.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
       "verified": false,
       "source": "remotive",
       "reach": [
+        "worldwide"
+      ],
+      "open": [
         "worldwide"
       ],
       "posted": "2026-10-08",
@@ -132,14 +3657,190 @@
         "period": "year",
         "raw": "OTE $25k - $35k"
       },
-      "url": "https://www.alldaycity.com/l/0000023/",
+      "url": "https://www.alldaycity.com/l/ea6e12680ee7a3b8/",
       "link": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540"
     },
     {
-      "uid": "0000024",
+      "uid": "9fd182bb2373072b",
+      "title": "software engineer, trust & safety",
+      "company": "resend",
+      "description": "You will design and implement real-time anti-abuse systems to detect spam and phishing while enforcing rules on every email sent or received.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-08",
+      "url": "https://www.alldaycity.com/l/9fd182bb2373072b/",
+      "link": "https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9"
+    },
+    {
+      "uid": "b7978295e5020cc1",
+      "title": "contract recruiter(europe)",
+      "company": "plaid",
+      "description": "You will lead full-cycle recruiting for Plaid's European business teams, including Sales, Growth, Marketing, Finance, Legal, and People roles, while partnering with hiring managers to scale the region and advise on fair interviewing strategies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-08",
+      "url": "https://www.alldaycity.com/l/b7978295e5020cc1/",
+      "link": "https://jobs.ashbyhq.com/plaid/ae758a3d-19ec-45c5-99b0-140046f5aea3"
+    },
+    {
+      "uid": "e1437d1fb8a88153",
+      "title": "senior accountant (emea)",
+      "company": "oyster",
+      "description": "You will manage full-cycle accounting and intercompany transactions for multiple entities, lead month-end year-end closes, coordinate statutory audits, reconcile local records to ERP systems, and provide financial analysis to stakeholders.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-08",
+      "url": "https://www.alldaycity.com/l/e1437d1fb8a88153/",
+      "link": "https://jobs.ashbyhq.com/oyster/094ead64-8a8b-45a1-b37d-0c09953a4f98"
+    },
+    {
+      "uid": "44b4113870d65b7f",
+      "title": "forward deployed engineer - emea",
+      "company": "cursor",
+      "description": "You will embed directly with customer teams to own production-grade AI agents and workflows on live business processes. Your main tasks include designing and shipping functional systems, hardening them through real-world testing, and measuring outcomes like cost savings or error reduction rather than just adoption metrics.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-08",
+      "url": "https://www.alldaycity.com/l/44b4113870d65b7f/",
+      "link": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483"
+    },
+    {
+      "uid": "13e40f47595fd47d",
+      "title": "inside sales - representative (active) 2",
+      "company": "twilio",
+      "description": "You will acquire new customers through sales calls, explain technical solutions to clients, manage a CRM pipeline, and drive revenue while collaborating with internal teams on product strategy.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-08",
+      "url": "https://www.alldaycity.com/l/13e40f47595fd47d/",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8256373"
+    },
+    {
+      "uid": "46107c68b85eeec7",
       "title": "tier iii service desk engineer",
       "company": "unio digital",
-      "description": "We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. remote, open to Worldwide.",
+      "description": "You will lead the helpdesk environment for managed service clients, coordinate client projects as a bridge between technical teams and customers, and provide direct end-user support while mentoring Tier I and II technicians.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
@@ -148,15 +3849,99 @@
       "reach": [
         "worldwide"
       ],
+      "open": [
+        "worldwide"
+      ],
       "posted": "2026-10-07",
-      "url": "https://www.alldaycity.com/l/0000024/",
+      "url": "https://www.alldaycity.com/l/46107c68b85eeec7/",
       "link": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045"
     },
     {
-      "uid": "0000025",
+      "uid": "3d655d4b05f3da44",
+      "title": "product manager - realtime",
+      "company": "supabase",
+      "description": "You will own the surface area where developers build live, collaborative apps on Supabase Realtime, working with the Engineering team to shape the roadmap while collaborating with Design and GTM partners.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-07",
+      "url": "https://www.alldaycity.com/l/3d655d4b05f3da44/",
+      "link": "https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622"
+    },
+    {
+      "uid": "42073b0973779ee1",
+      "title": "product manager - auth",
+      "company": "supabase",
+      "description": "You will own Supabase Auth as the primary interface for user authentication and authorization, defining problem statements and solution rationale while collaborating with engineering, design, security, and GTM teams to shape developer experiences.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-07",
+      "url": "https://www.alldaycity.com/l/42073b0973779ee1/",
+      "link": "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50"
+    },
+    {
+      "uid": "8749f75709d89810",
+      "title": "full-stack engineer (backend leaning)",
+      "company": "elevenlabs",
+      "description": "You will build and maintain the company's backend system on top of cutting-edge voice models, improve existing products to integrate with other consumer solutions, and strengthen internal infrastructure while collaborating with teams from Frontend, Growth, and Sales.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-07",
+      "url": "https://www.alldaycity.com/l/8749f75709d89810/",
+      "link": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f"
+    },
+    {
+      "uid": "48a930f092d01cd4",
+      "title": "business development representative, german speaking - uk/i",
+      "company": "gitlab",
+      "description": "You will act as a Business Development Representative to prospect and engage with target accounts, generate qualified meetings, and drive pipeline growth by collaborating with sales and marketing teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-10-07",
+      "url": "https://www.alldaycity.com/l/48a930f092d01cd4/",
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002"
+    },
+    {
+      "uid": "62128ef12568665b",
       "title": "project manager",
       "company": "spiralyze",
-      "description": "Youâ ll manage cross-functional teams of 5â 10 people and ensure tests move smoothly from idea â build â launch â analysis. Youâ ll spot risks early, unblock teams, and make sure nothing falls through the... remote, open to Worldwide.",
+      "description": "You’ll manage cross-functional teams of 5–10 people and ensure tests move smoothly from idea → build → launch → analysis. You’ll spot risks early, unblock teams, and make sure nothing falls through the cracks.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
@@ -165,9 +3950,2189 @@
       "reach": [
         "worldwide"
       ],
+      "open": [
+        "worldwide"
+      ],
       "posted": "2026-10-06",
-      "url": "https://www.alldaycity.com/l/0000025/",
+      "url": "https://www.alldaycity.com/l/62128ef12568665b/",
       "link": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
+    },
+    {
+      "uid": "ef0115d4d689d751",
+      "title": "people business partner",
+      "company": "zapier",
+      "description": "So if you’re using AI tools while applying here - that’s great!",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-06",
+      "salary": {
+        "min": 82200,
+        "max": 123200,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 82200-123200"
+      },
+      "url": "https://www.alldaycity.com/l/ef0115d4d689d751/",
+      "link": "https://jobs.ashbyhq.com/zapier/3d1b1dbc-36ae-4acc-afff-e83fdf4d0280"
+    },
+    {
+      "uid": "8769754780f0ae48",
+      "title": "postgres deployment engineer",
+      "company": "supabase",
+      "description": "You will work with the PostgreSQL team to own stability and deployment of Supabase products by packaging software into Docker images and AWS AMIs via Nix or Debian. Your daily tasks involve resolving production issues, contributing to GitHub Actions and testing tools, and ensuring reliable upgrades for major and minor releases.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-06",
+      "url": "https://www.alldaycity.com/l/8769754780f0ae48/",
+      "link": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45"
+    },
+    {
+      "uid": "b1350234268f3298",
+      "title": "lead product manager",
+      "company": "oyster",
+      "description": "You will own the product vision and strategy for an Employer of Record sub-domain, leading cross-functional teams to build systems-level solutions that handle complex compliance, policy, and operational workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-06",
+      "url": "https://www.alldaycity.com/l/b1350234268f3298/",
+      "link": "https://jobs.ashbyhq.com/oyster/20b0c812-255e-433b-99bb-2d1f399f0c7a"
+    },
+    {
+      "uid": "84099baeb2c4941f",
+      "title": "dubbing specialist (freelance)",
+      "company": "elevenlabs",
+      "description": "You will optimize translations for dubbed content, produce natural-sounding audio using AI tools, and collaborate with engineering teams on edits while working remotely.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-06",
+      "url": "https://www.alldaycity.com/l/84099baeb2c4941f/",
+      "link": "https://jobs.ashbyhq.com/elevenlabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a"
+    },
+    {
+      "uid": "f2d2144b26cee7ae",
+      "title": "gtm strategy & operations",
+      "company": "benchling",
+      "description": "You will lead global sales operations for EMEA, managing annual planning, capacity modeling, and forecasting while driving the adoption of AI tools within the GTM team.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-06",
+      "url": "https://www.alldaycity.com/l/f2d2144b26cee7ae/",
+      "link": "https://jobs.ashbyhq.com/benchling/ac6d50a7-8a73-43ab-98ac-591bcca1742b"
+    },
+    {
+      "uid": "7dee76967b828f97",
+      "title": "principal product manager - format foundations",
+      "company": "spotify",
+      "description": "You will set product vision and strategy for your area while shaping feature portfolios for formats like music and books. You work closely with business teams to drive innovation in user discovery and engagement.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-05",
+      "url": "https://www.alldaycity.com/l/7dee76967b828f97/",
+      "link": "https://jobs.lever.co/spotify/ef3985d1-522e-4950-ba6e-af57dd93c788"
+    },
+    {
+      "uid": "51c6cddc9f74b6d7",
+      "title": "head of ai native operations",
+      "company": "supabase",
+      "description": "You will lead the autonomous agent platform that runs Supabase's internal operations, designing architecture, building critical pieces, and ensuring every agent is safe, correct, and continuously improving while replacing human workflows with fully owned automated systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-05",
+      "url": "https://www.alldaycity.com/l/51c6cddc9f74b6d7/",
+      "link": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764"
+    },
+    {
+      "uid": "8651b9da54eed2b1",
+      "title": "freelance writer",
+      "company": "iapwe",
+      "description": "You will draft content for various topics while collaborating with an editorial team, ensuring timely responses to requests and maintaining deadlines using Microsoft Word.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-04",
+      "salary": {
+        "min": 50,
+        "max": 75,
+        "currency": "USD",
+        "period": "hour",
+        "raw": "$50-$75 /hour"
+      },
+      "url": "https://www.alldaycity.com/l/8651b9da54eed2b1/",
+      "link": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
+    },
+    {
+      "uid": "b18518d4b0e9e9cf",
+      "title": "staff technical program manager, machine learning",
+      "company": "cohere",
+      "description": "You will act as a Technical Program Manager, establishing foundational processes for Generative Modeling teams while scaling operational capacity across complex programs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-03",
+      "url": "https://www.alldaycity.com/l/b18518d4b0e9e9cf/",
+      "link": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d"
+    },
+    {
+      "uid": "35c21f46dedc74ed",
+      "title": "freelance copywriter",
+      "company": "coalition technologies",
+      "description": "You will create SEO-driven content such as category pages, product descriptions, blog posts, and landing pages while researching client-specific guidelines and adapting to different brand voices.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-02",
+      "salary": {
+        "min": 20000,
+        "max": 35000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "$20k -$35k"
+      },
+      "url": "https://www.alldaycity.com/l/35c21f46dedc74ed/",
+      "link": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306"
+    },
+    {
+      "uid": "0b9f35dc334cb9ec",
+      "title": "senior react full-stack developer",
+      "company": "lemon.io",
+      "description": "You will act as a Senior Developer handling commercial projects for clients who have technical backgrounds, focusing on React.js, Python, or other specified technologies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "CAN",
+        "CHE",
+        "CHN",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HKG",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PHL",
+        "POL",
+        "PRT",
+        "ROU",
+        "SGP",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "USA",
+        "VNM"
+      ],
+      "posted": "2026-10-02",
+      "url": "https://www.alldaycity.com/l/0b9f35dc334cb9ec/",
+      "link": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133"
+    },
+    {
+      "uid": "d20ea99d18717280",
+      "title": "sr. motion designer",
+      "company": "zapier",
+      "description": "You will create animated motion designs for product explainers, social media clips, and event materials by translating UI frames into polished video assets. You will establish a consistent motion language and build reusable component libraries to streamline production without requiring Brand Studio on every project.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-02",
+      "salary": {
+        "min": 92600,
+        "max": 139000,
+        "currency": "EUR",
+        "period": "year",
+        "raw": "EUR 92600-139000"
+      },
+      "url": "https://www.alldaycity.com/l/d20ea99d18717280/",
+      "link": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
+    },
+    {
+      "uid": "a46b85aa084847d3",
+      "title": "senior director, product (employer of record)",
+      "company": "oyster",
+      "description": "You will own the product vision and strategy for Oyster's Employer of Record offering, managing end-to-end execution from onboarding through benefits and offboarding while leading cross-functional teams to build AI-first workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-02",
+      "url": "https://www.alldaycity.com/l/a46b85aa084847d3/",
+      "link": "https://jobs.ashbyhq.com/oyster/7835b377-7646-43a1-b917-b63f1e579869"
+    },
+    {
+      "uid": "e2b29c2d34a72acc",
+      "title": "strategic account executive (nordics)",
+      "company": "benchling",
+      "description": "You will act as a Strategic Account Executive, driving new business through pipeline generation, managing complex sales cycles, and collaborating with internal teams to ensure successful revenue outcomes.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-02",
+      "url": "https://www.alldaycity.com/l/e2b29c2d34a72acc/",
+      "link": "https://jobs.ashbyhq.com/benchling/9d1d99b6-dfbf-4bb4-8349-84f97c6ab282"
+    },
+    {
+      "uid": "2b5175af4a765877",
+      "title": "presales engineer",
+      "company": "twilio",
+      "description": "You will partner with account executives to execute pre-sales activities such as opportunity qualification and technical presentations. You will lead the sale of complex products by demonstrating capabilities and guiding customers through their technical needs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-02",
+      "url": "https://www.alldaycity.com/l/2b5175af4a765877/",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8243073"
+    },
+    {
+      "uid": "133214de7c2b749c",
+      "title": "software engineer, developer tools",
+      "company": "resend",
+      "description": "You will build and maintain backend services supporting SDKs, CLI, and MCP integrations while collaborating with product teams to define API contracts.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-01",
+      "url": "https://www.alldaycity.com/l/133214de7c2b749c/",
+      "link": "https://jobs.ashbyhq.com/resend/2e3d92c5-79d9-4511-8faf-e2326e7a081e"
+    },
+    {
+      "uid": "2e1a02df396195b6",
+      "title": "senior back-end engineer",
+      "company": "lemon.io",
+      "description": "You will design and maintain backend systems using Golang or Python, work with Kubernetes for deployment, and collaborate on AI agent architecture while ensuring site reliability.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CAN",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SGP",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-09-30",
+      "url": "https://www.alldaycity.com/l/2e1a02df396195b6/",
+      "link": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132"
+    },
+    {
+      "uid": "4b2c458e20f80c6a",
+      "title": "account partner - veeva basics",
+      "company": "veeva systems",
+      "description": "You will generate business opportunities, win new clients, and manage executive-level relationships with emerging biotechs while navigating complex regulatory landscapes through Veeva's industry cloud solutions.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-30",
+      "url": "https://www.alldaycity.com/l/4b2c458e20f80c6a/",
+      "link": "https://jobs.lever.co/veeva/e1663646-cc3e-4936-885c-749df9333567"
+    },
+    {
+      "uid": "d9589933d337cc83",
+      "title": "backend engineer, mta",
+      "company": "resend",
+      "description": "You will design and operate SMTP delivery infrastructure including MTA systems, routing, and throttling controls while partnering with Trust & Safety to protect sending networks from abuse.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-30",
+      "url": "https://www.alldaycity.com/l/d9589933d337cc83/",
+      "link": "https://jobs.ashbyhq.com/resend/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929"
+    },
+    {
+      "uid": "d17852f0feab1234",
+      "title": "enterprise account executive - northern europe",
+      "company": "n8n",
+      "description": "You will act as an Enterprise Account Executive in Northern Europe to sell high-value automation solutions to technical buyers, managing the full sales cycle from discovery to closing multi-stakeholder deals while exceeding revenue targets.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-30",
+      "url": "https://www.alldaycity.com/l/d17852f0feab1234/",
+      "link": "https://jobs.ashbyhq.com/n8n/b4b51954-9927-4e8c-9529-cf79739245f8"
+    },
+    {
+      "uid": "a9bd25c952628513",
+      "title": "senior customer success manager",
+      "company": "1password",
+      "description": "You will act as a Senior Customer Success Manager, independently managing a portfolio of customers to drive revenue retention, adoption, and expansion while collaborating with C-suite stakeholders and mentoring peers.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-30",
+      "url": "https://www.alldaycity.com/l/a9bd25c952628513/",
+      "link": "https://jobs.ashbyhq.com/1password/6f6fe22f-1478-426d-a6d7-3a437083092b"
+    },
+    {
+      "uid": "ebdeeb0d620ad3b1",
+      "title": "account executive enterprise emea",
+      "company": "1password",
+      "description": "You will own a specific EMEA territory to acquire new Enterprise clients, expand existing accounts, and drive growth through outbound sales, prospecting, and relationship building with C-level executives.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-29",
+      "url": "https://www.alldaycity.com/l/ebdeeb0d620ad3b1/",
+      "link": "https://jobs.ashbyhq.com/1password/ff6582f6-5800-4fc0-9936-7a5cfb87284c"
+    },
+    {
+      "uid": "688226483ef8cab8",
+      "title": "senior commercial deal desk analyst",
+      "company": "1password",
+      "description": "You will partner with Sales, Finance, and Legal teams to build and scale the Commercial Deal Desk within Revenue Operations. Your daily tasks involve analyzing complex commercial deals, managing pricing structures, reviewing Salesforce CPQ submissions, and creating playbooks to guide sales teams through quoting and contract processes.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-29",
+      "url": "https://www.alldaycity.com/l/688226483ef8cab8/",
+      "link": "https://jobs.ashbyhq.com/1password/c44b3a46-5d1f-4d90-917f-5d1b19ffb835"
+    },
+    {
+      "uid": "c728934815f83f56",
+      "title": "account executive smb (german)",
+      "company": "1password",
+      "description": "You will manage a specific EMEA territory, hunt for new SMB clients, build sales pipelines, and drive organic growth by upselling existing accounts using the Extended Access Management platform.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-29",
+      "url": "https://www.alldaycity.com/l/c728934815f83f56/",
+      "link": "https://jobs.ashbyhq.com/1password/69eadf95-17be-49b7-af66-18d85512e632"
+    },
+    {
+      "uid": "a22fe88ca26dfa7a",
+      "title": "commercial account executive uki",
+      "company": "1password",
+      "description": "You will manage sales targets in the UK region, focusing on acquiring new Commercial clients while upselling existing accounts to larger organizations. You will build outbound pipelines through prospecting and networking, negotiate with C-suite executives, and drive growth using a rigorous MEDPICC methodology.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-29",
+      "url": "https://www.alldaycity.com/l/a22fe88ca26dfa7a/",
+      "link": "https://jobs.ashbyhq.com/1password/11454dca-2e55-4c85-a0d2-8c33aaac4d35"
+    },
+    {
+      "uid": "0b8c4924d6c20454",
+      "title": "business consultant - global medical business consulting",
+      "company": "veeva systems",
+      "description": "You will act as a consultant in the Global Medical Consulting practice, helping customers transform how they work with technology, data, and AI to bring treatments to patients faster.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-28",
+      "url": "https://www.alldaycity.com/l/0b8c4924d6c20454/",
+      "link": "https://jobs.lever.co/veeva/46d46a5c-00a8-427f-afa1-1a622240fe2a"
+    },
+    {
+      "uid": "0fc16947d3880e4a",
+      "title": "international payroll analyst",
+      "company": "reddit",
+      "description": "You will manage international payroll operations across multiple regions, execute multi-country payroll inputs, oversee equity compensation processing, and lead technical projects using Workday to scale financial services.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-25",
+      "url": "https://www.alldaycity.com/l/0fc16947d3880e4a/",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8234154"
+    },
+    {
+      "uid": "771c0261f5c1f963",
+      "title": "compliance, international investigations associate",
+      "company": "coinbase",
+      "description": "You will lead complex financial crime investigations by analyzing transaction data, reviewing suspicious activity reports, and collaborating with compliance teams to prevent money laundering and terrorist financing.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-24",
+      "salary": {
+        "min": 55620,
+        "max": 61800,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 55620-61800"
+      },
+      "url": "https://www.alldaycity.com/l/771c0261f5c1f963/",
+      "link": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726"
+    },
+    {
+      "uid": "e6f8d8967f968510",
+      "title": "risk & monitoring analyst iii",
+      "company": "coinbase",
+      "description": "You will conduct quality assurance audits on Complaints investigations, analyze root causes of operational errors, and partner with cross-functional teams to improve compliance processes and data reporting.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-24",
+      "salary": {
+        "min": 53100,
+        "max": 53100,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 53100-53100"
+      },
+      "url": "https://www.alldaycity.com/l/e6f8d8967f968510/",
+      "link": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699"
+    },
+    {
+      "uid": "ce1f7de1590487b0",
+      "title": "head of professional services, emea",
+      "company": "benchling",
+      "description": "You will lead the Professional Services team in Europe, overseeing end-to-end delivery quality for enterprise software implementations while partnering with sales and customer success to drive client adoption of Benchling's AI capabilities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-24",
+      "url": "https://www.alldaycity.com/l/ce1f7de1590487b0/",
+      "link": "https://jobs.ashbyhq.com/benchling/ef652ae4-88a5-452c-8963-7ebe75542d13"
+    },
+    {
+      "uid": "eb4d86af040a2178",
+      "title": "forward deployed strategist",
+      "company": "cursor",
+      "description": "You will partner with executive sponsors to scope AI production workflows, translate business problems into technical deliverables, and own the configuration layer while collaborating with FDEs on deeper production builds.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-23",
+      "url": "https://www.alldaycity.com/l/eb4d86af040a2178/",
+      "link": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941"
+    },
+    {
+      "uid": "34831d52a8137f89",
+      "title": "associate general counsel, privacy",
+      "company": "coinbase",
+      "description": "You will act as an Associate General Counsel within Coinbase's Privacy Legal team, advising on privacy strategy while drafting policies and responding to regulatory inquiries.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-22",
+      "salary": {
+        "min": 167960,
+        "max": 176800,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 167960-176800"
+      },
+      "url": "https://www.alldaycity.com/l/34831d52a8137f89/",
+      "link": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923"
+    },
+    {
+      "uid": "70e8b550f5046fa0",
+      "title": "data scientist - analytics business consulting",
+      "company": "veeva systems",
+      "description": "You will build analytical models and methodologies that integrate Veeva Data Cloud with European healthcare data to drive business value and operational change.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-22",
+      "url": "https://www.alldaycity.com/l/70e8b550f5046fa0/",
+      "link": "https://jobs.lever.co/veeva/0382fb4f-23fe-4ae6-90bc-7f6f3257e585"
+    },
+    {
+      "uid": "77ead616d0e9e57e",
+      "title": "contract software engineer - webcompat tooling (dashboards and reporting), firefox",
+      "company": "mozilla",
+      "description": "You will design and maintain dashboard systems to monitor web site health, automate screenshot capture pipelines for reporting, and collaborate with QA teams to translate user needs into reliable data tools.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "DEU",
+        "FRA",
+        "GBR"
+      ],
+      "posted": "2026-09-22",
+      "url": "https://www.alldaycity.com/l/77ead616d0e9e57e/",
+      "link": "https://job-boards.greenhouse.io/mozilla/jobs/8223398"
+    },
+    {
+      "uid": "398f21f57513a9ec",
+      "title": "senior applied research scientist - personalization",
+      "company": "spotify",
+      "description": "You will develop advanced generative conversational speech-to-speech models by collaborating with engineering teams to improve production pipelines, model quality, and emotional expressiveness.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-21",
+      "url": "https://www.alldaycity.com/l/398f21f57513a9ec/",
+      "link": "https://jobs.lever.co/spotify/a4c49acb-a095-4452-ad9e-69e4b778c256"
+    },
+    {
+      "uid": "0eccc7792e6b44a7",
+      "title": "senior shopify developer",
+      "company": "sanctuary computer inc",
+      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here. 🌎 About garden3d.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-18",
+      "salary": {
+        "min": 80000,
+        "max": 150000,
+        "currency": "USD",
+        "period": "year",
+        "raw": "$80k - $150k"
+      },
+      "url": "https://www.alldaycity.com/l/0eccc7792e6b44a7/",
+      "link": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140"
+    },
+    {
+      "uid": "03efecbde36b219d",
+      "title": "senior ai engineer",
+      "company": "lemon.io",
+      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-09-18",
+      "url": "https://www.alldaycity.com/l/03efecbde36b219d/",
+      "link": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131"
+    },
+    {
+      "uid": "f32e4c3e4a14b503",
+      "title": "backend engineer",
+      "company": "resend",
+      "description": "You will own features end-to-end, including building APIs, dashboard experiences, and services behind them while operating reliable distributed systems like queues and background workers.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-18",
+      "url": "https://www.alldaycity.com/l/f32e4c3e4a14b503/",
+      "link": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
+    },
+    {
+      "uid": "6472a3902803da71",
+      "title": "technical customer success manager - emea",
+      "company": "posthog",
+      "description": "You will act as the primary customer success representative for 25 to 40 paying clients, handling technical troubleshooting, commercial inquiries, and relationship management while ensuring retention and growth.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-18",
+      "url": "https://www.alldaycity.com/l/6472a3902803da71/",
+      "link": "https://jobs.ashbyhq.com/posthog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f"
+    },
+    {
+      "uid": "734f12e73848a946",
+      "title": "principal gsi partner manager - accenture (emea)",
+      "company": "datadog",
+      "description": "You will recruit new strategic Global Systems Integrator partners, activate existing ones through training and joint selling, coordinate technical launches, and report on partner revenue metrics while collaborating with regional sales teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-18",
+      "url": "https://www.alldaycity.com/l/734f12e73848a946/",
+      "link": "https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733"
+    },
+    {
+      "uid": "5399ab872b331596",
+      "title": "senior .net full-stack developer",
+      "company": "lemon.io",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-09-17",
+      "url": "https://www.alldaycity.com/l/5399ab872b331596/",
+      "link": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130"
+    },
+    {
+      "uid": "788e07aa9d4ac466",
+      "title": "director, support engineering",
+      "company": "sanity",
+      "description": "You will lead the Support Engineering function end-to-end, managing global operations including ticket triage, SLA adherence, and escalation paths while partnering with engineering and product to resolve complex technical issues.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-17",
+      "url": "https://www.alldaycity.com/l/788e07aa9d4ac466/",
+      "link": "https://jobs.ashbyhq.com/sanity/a3fd76c3-9382-4b1d-b92d-077b07e530c8"
+    },
+    {
+      "uid": "1f4607ffcec6fff9",
+      "title": "senior data scientist, product",
+      "company": "coinbase",
+      "description": "You will analyze complex data to drive product strategy and improve user experience across consumer platforms. You will build measurement frameworks, conduct causal experiments, and translate statistical insights into actionable recommendations using SQL and Python.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-16",
+      "salary": {
+        "min": 122400,
+        "max": 136000,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 122400-136000"
+      },
+      "url": "https://www.alldaycity.com/l/1f4607ffcec6fff9/",
+      "link": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668"
+    },
+    {
+      "uid": "3d01db28c83dbd4b",
+      "title": "risk & monitoring analyst iii",
+      "company": "coinbase",
+      "description": "You will conduct quality assurance audits on Complaints case investigations, analyze root causes of operational errors, and partner with cross-functional teams to improve compliance processes.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-16",
+      "salary": {
+        "min": 50445,
+        "max": 53100,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 50445-53100"
+      },
+      "url": "https://www.alldaycity.com/l/3d01db28c83dbd4b/",
+      "link": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696"
+    },
+    {
+      "uid": "50b946a66f588c76",
+      "title": "finops engineer",
+      "company": "supabase",
+      "description": "You will act as a FinOps Engineer to drive cost optimization and cloud financial governance across AWS and GCP infrastructure. Your daily tasks involve analyzing billing data, building cost attribution tools, automating governance policies, and partnering with engineering and finance teams to identify and implement savings.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-16",
+      "url": "https://www.alldaycity.com/l/50b946a66f588c76/",
+      "link": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e"
+    },
+    {
+      "uid": "8ff731a50436e73e",
+      "title": "senior data engineer",
+      "company": "oyster",
+      "description": "You will design and build data pipelines and platform capabilities that support AI applications, knowledge systems, and workflows. You will leverage AWS and Snowflake to create secure, reusable services for enterprise data access, ensuring production-grade reliability while working with Engineering, Product, and IT teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-16",
+      "url": "https://www.alldaycity.com/l/8ff731a50436e73e/",
+      "link": "https://jobs.ashbyhq.com/oyster/7c2d418d-d817-4e9f-b73c-41fa5f6549af"
+    },
+    {
+      "uid": "4c101f79961ecbe3",
+      "title": "sales development representative",
+      "company": "cursor",
+      "description": "You will generate qualified sales leads through outbound prospecting, research target accounts, and conduct discovery conversations with technical stakeholders.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-16",
+      "url": "https://www.alldaycity.com/l/4c101f79961ecbe3/",
+      "link": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613"
+    },
+    {
+      "uid": "a307b05fe7df6359",
+      "title": "staff software engineer",
+      "company": "circleci",
+      "description": "You will own technical strategy for a specific domain while building full-stack features in Go, React, and TypeScript. Your daily work involves defining interfaces for autonomous pipelines, mentoring multiple engineers, and connecting engineering teams to business goals through observability tools.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "GBR",
+        "MEX",
+        "USA"
+      ],
+      "posted": "2026-09-16",
+      "salary": {
+        "min": 195000,
+        "max": 265000,
+        "currency": "CAD",
+        "period": "year",
+        "raw": "CAD 195000-265000"
+      },
+      "url": "https://www.alldaycity.com/l/a307b05fe7df6359/",
+      "link": "https://www.circleci.com/careers/jobs/8814842002/?gh_jid=8814842002"
+    },
+    {
+      "uid": "3f9396b927952773",
+      "title": "account partner - cro",
+      "company": "veeva systems",
+      "description": "You will act as an Account Partner representing Veeva's Development Cloud for European CROs, focusing on generating new business opportunities and managing strategic client relationships.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-15",
+      "url": "https://www.alldaycity.com/l/3f9396b927952773/",
+      "link": "https://jobs.lever.co/veeva/dfcb365c-f03b-4eb7-88e3-9a803d79282d"
+    },
+    {
+      "uid": "51562dc6e1a5083c",
+      "title": "platform engineer, edge & networking",
+      "company": "supabase",
+      "description": "You will design and operate the Supabase Edge & Networking squad, which handles API gateway, routing, load balancing, DNS, and secure global traffic distribution across high-scale infrastructure.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-14",
+      "url": "https://www.alldaycity.com/l/51562dc6e1a5083c/",
+      "link": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
+    },
+    {
+      "uid": "c2b47f49792df2a2",
+      "title": "security engineer",
+      "company": "posthog",
+      "description": "You will build detection pipelines, triage security alerts, lead incident response, and support the Vulnerability Disclosure Program while working with AWS infrastructure.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-14",
+      "url": "https://www.alldaycity.com/l/c2b47f49792df2a2/",
+      "link": "https://jobs.ashbyhq.com/posthog/36d5ce14-851c-450f-879a-45cbb896225e"
+    },
+    {
+      "uid": "668c8895064b9758",
+      "title": "engineering manager, billing",
+      "company": "supabase",
+      "description": "You will lead the Billing team responsible for monetization systems, managing subscriptions, usage-based billing, invoices, payments, and partner integrations like Stripe.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-12",
+      "url": "https://www.alldaycity.com/l/668c8895064b9758/",
+      "link": "https://jobs.ashbyhq.com/supabase/b4a2f5e5-5c51-4c1a-abde-a89de27451c7"
+    },
+    {
+      "uid": "c67f412ca0b164fd",
+      "title": "derivative sales analyst",
+      "company": "coinbase",
+      "description": "You will act as a Derivative Sales Analyst on the Institutional team, managing VIP trader relationships to drive volume while sourcing new clients from competitors and reporting market insights.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-11",
+      "salary": {
+        "min": 90450,
+        "max": 100500,
+        "currency": "GBP",
+        "period": "year",
+        "raw": "GBP 90450-100500"
+      },
+      "url": "https://www.alldaycity.com/l/c67f412ca0b164fd/",
+      "link": "https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444"
+    },
+    {
+      "uid": "0171a50e0381d26c",
+      "title": "product support specialist, europe",
+      "company": "linear",
+      "description": "As a Product Support Specialist at Linear, you’ll contribute to the future of our product by surfacing customer feedback and insights, contributing to our technical documentation, and engaging a technical customer community via social channels.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-10",
+      "url": "https://www.alldaycity.com/l/0171a50e0381d26c/",
+      "link": "https://jobs.ashbyhq.com/linear/820d0d5a-0930-475c-b494-23e18ad2aa68"
+    },
+    {
+      "uid": "2481900dc54b2bae",
+      "title": "trust and safety policy, ads policy,  lead (europe)",
+      "company": "reddit",
+      "description": "You will develop and maintain complex advertising policies for the EMEA region, acting as a subject matter expert who collaborates with cross-functional teams to resolve high-stakes policy escalations.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-10",
+      "url": "https://www.alldaycity.com/l/2481900dc54b2bae/",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8190627"
+    },
+    {
+      "uid": "4b95e8d74f2714e2",
+      "title": "director of engineering - content platform (catalog)",
+      "company": "spotify",
+      "description": "You will lead the engineering team responsible for building core systems that manage and govern content throughout Spotify's ecosystem.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-09",
+      "url": "https://www.alldaycity.com/l/4b95e8d74f2714e2/",
+      "link": "https://jobs.lever.co/spotify/5861816e-7ac4-4921-8e90-8e093707e27d"
+    },
+    {
+      "uid": "66418a7d338881a9",
+      "title": "global indirect tax manager",
+      "company": "reddit",
+      "description": "You will manage Reddit's indirect tax operations for B2B and B2C revenue streams, handling registrations, compliance, payments, and system integrations across multiple jurisdictions while partnering with the business to translate complex requirements into scalable processes.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-09",
+      "url": "https://www.alldaycity.com/l/66418a7d338881a9/",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8189894"
+    },
+    {
+      "uid": "9598507ebe9809be",
+      "title": "principal product manager - personalization",
+      "company": "spotify",
+      "description": "You will lead search personalization strategy, owning end-to-end product design for AI features like semantic search and reranking while managing two key squads.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-08",
+      "url": "https://www.alldaycity.com/l/9598507ebe9809be/",
+      "link": "https://jobs.lever.co/spotify/e74bfb24-55de-4d93-b228-ae38b8fdfbea"
+    },
+    {
+      "uid": "fb959f4ed8bde732",
+      "title": "channel manager - united kingdom",
+      "company": "jumpcloud",
+      "description": "You will act as a channel partner based in the UK, working with major industry players to accelerate JumpCloud's growth while reporting to the Manager, EMEA Channel Sales.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-07",
+      "url": "https://www.alldaycity.com/l/fb959f4ed8bde732/",
+      "link": "https://jobs.lever.co/jumpcloud/cd36da5a-9ad3-4115-9e8c-49b12d39daf4"
+    },
+    {
+      "uid": "cccdea5018b45911",
+      "title": "enterprise account executive, dach",
+      "company": "sanity",
+      "description": "You will act as an Enterprise Account Executive to own the full sales cycle, identifying prospects, closing deals with large enterprise clients, and mapping organizations from developers to C-suite while working closely with marketing and SDR teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-07",
+      "url": "https://www.alldaycity.com/l/cccdea5018b45911/",
+      "link": "https://jobs.ashbyhq.com/sanity/6997bf48-5318-467e-bdd7-0440d25610a0"
+    },
+    {
+      "uid": "f715c0511cf54935",
+      "title": "analyst ii, credit",
+      "company": "affirm",
+      "description": "As a Merchant Risk Analyst, you will assess financial risk related to credit, fraud and identity associated with the merchants. You will also coordinate with cross-functional partners to assess non-financial risk – brand, reputational, legal and compliance risk.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-07",
+      "url": "https://www.alldaycity.com/l/f715c0511cf54935/",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7832318003"
+    },
+    {
+      "uid": "394626a0b897d0c5",
+      "title": "digital sales representative",
+      "company": "twilio",
+      "description": "You will act as a Digital Inside Sales Representative to acquire new customers from nonprofit and public sector organizations, manage sales cycles, and drive revenue growth while ensuring customer satisfaction.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-05",
+      "url": "https://www.alldaycity.com/l/394626a0b897d0c5/",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/8168599"
+    },
+    {
+      "uid": "acb350f04ad71098",
+      "title": "senior product manager - audiobooks format foundations",
+      "company": "spotify",
+      "description": "You will lead audiobook product strategy within Core Experience, collaborating with the Audiobooks business unit to define features that help listeners discover and enjoy music.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-04",
+      "url": "https://www.alldaycity.com/l/acb350f04ad71098/",
+      "link": "https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83"
+    },
+    {
+      "uid": "83f1deadf64b5108",
+      "title": "technical support engineer",
+      "company": "plaid",
+      "description": "You will troubleshoot customer issues using internal tools and documentation while managing support tickets from symptom to resolution, collaborating with engineering teams to resolve complex problems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-04",
+      "url": "https://www.alldaycity.com/l/83f1deadf64b5108/",
+      "link": "https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a"
+    },
+    {
+      "uid": "39f1b8355707714b",
+      "title": "platform security engineer (amer/apac)",
+      "company": "supabase",
+      "description": "You will identify and reduce security risks across AWS, Kubernetes, containerized workloads, and platform infrastructure by conducting threat modeling, architecture reviews, and technical risk assessments.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-02",
+      "url": "https://www.alldaycity.com/l/39f1b8355707714b/",
+      "link": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27"
+    },
+    {
+      "uid": "d1ba12073d47533e",
+      "title": "platform engineer - compute capacity",
+      "company": "supabase",
+      "description": "You will design and operate capacity planning systems to ensure compute supply meets demand across multiple regions. Your daily tasks involve building automation pipelines that reconcile committed reservations with actual running instances, while also designing robust metrics and alerting for early detection of resource shortages.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-02",
+      "url": "https://www.alldaycity.com/l/d1ba12073d47533e/",
+      "link": "https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045"
+    },
+    {
+      "uid": "a038374413efb46c",
+      "title": "software engineer - branching",
+      "company": "supabase",
+      "description": "You will design and build distributed systems to orchestrate CI/CD pipelines by managing ephemeral compute environments, scheduling thousands of concurrent builds, and ensuring reliable execution across AWS infrastructure.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-09-02",
+      "url": "https://www.alldaycity.com/l/a038374413efb46c/",
+      "link": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60"
+    },
+    {
+      "uid": "367ec1ec12a79efc",
+      "title": "engineering manager - experimentation",
+      "company": "spotify",
+      "description": "You will lead an engineering team across Europe, mentor engineers on technical best practices, and foster a culture of creativity and collaboration while ensuring high-quality delivery.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-01",
+      "url": "https://www.alldaycity.com/l/367ec1ec12a79efc/",
+      "link": "https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd"
+    },
+    {
+      "uid": "4e145b90219903b1",
+      "title": "director - lims strategy - cpg & f&b",
+      "company": "veeva systems",
+      "description": "You will architect and execute commercial strategy for the LIMS product line across Food & Beverage, CPG, and Chemical Ingredients sectors, acting as a bridge between sales, marketing, and product teams to deliver industry thought leadership.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-08-31",
+      "url": "https://www.alldaycity.com/l/4e145b90219903b1/",
+      "link": "https://jobs.lever.co/veeva/0652b5ee-7577-435a-9341-7ad37e3ba9e4"
     }
   ]
 }
