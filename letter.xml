@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>alldaycity letter</title>
+    <link>https://www.alldaycity.com/letter/</link>
+    <description>a weekly letter from your city: news, what is on, three jobs and three rooms.</description>
+    <language>en-gb</language>
+    <item>
+      <title>london, week 44</title>
+      <link>https://www.alldaycity.com/letter/2026-w44-london/?ref=letter</link>
+      <guid isPermaLink="true">https://www.alldaycity.com/letter/2026-w44-london/</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+      <description>news: When chatbots become ‘answer engines’: AI, geopolitics and truth
+news: How the streets and a social media army led Lula to a historic win in Brazil
+news: How one Haitian entrepreneur found success by supporting all things local
+news: tfl: planned closure on piccadilly, waterloo &amp; city; part closure on suffragette, windrush; severe delays on district, northern; minor delays on jubilee
+job: senior software engineer, security assurance | uk | remote, grafana labs
+job: senior pr and communications manager (12 month fixed-term contract), monzo
+job: senior product manager, panel (remote, eu/uk), maze
+room: 1 bed flat, clapham
+room: 1 bed flat, EC2A
+room: 1 bed flat, SE26</description>
+    </item>
+  </channel>
+</rss>
