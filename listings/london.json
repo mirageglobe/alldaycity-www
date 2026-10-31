@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 284,
+  "count": 290,
   "listings": [
     {
       "uid": "0000003",
@@ -32,6 +32,96 @@
       ],
       "url": "https://www.alldaycity.com/l/0000006/",
       "link": "https://theforestorigin.com"
+    },
+    {
+      "uid": "0000101",
+      "title": "canary wall",
+      "description": "indoor bouldering wall in canary wharf, open early and late on weekdays",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000101/",
+      "link": "https://londonclimbingcentres.co.uk/centre/canarywall/"
+    },
+    {
+      "uid": "0000102",
+      "title": "city of london dry cleaners",
+      "description": "dry cleaning and laundry in canary wharf",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000102/",
+      "link": "https://www.cityoflondondrycleaners.co.uk"
+    },
+    {
+      "uid": "0000103",
+      "title": "nipnip",
+      "description": "bike shop and repairs in canary wharf",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000103/",
+      "link": "https://www.nipnip.co.uk"
+    },
+    {
+      "uid": "0000104",
+      "title": "signorelli",
+      "description": "italian bakery and cafe in canary wharf",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000104/",
+      "link": "https://www.signorelli.co.uk"
+    },
+    {
+      "uid": "0000105",
+      "title": "island studio",
+      "description": "fitness studio on the isle of dogs",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000105/",
+      "link": "https://www.theislandstudio.co.uk"
+    },
+    {
+      "uid": "0000106",
+      "title": "the flower club",
+      "description": "florist in canary wharf",
+      "type": "services",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openstreetmap",
+      "reach": [
+        "london"
+      ],
+      "url": "https://www.alldaycity.com/l/0000106/",
+      "link": "https://theflowerclubldn.co.uk"
     },
     {
       "uid": "5b0d8fd4da770e16",
