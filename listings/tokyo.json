@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "tokyo",
-  "count": 63,
+  "count": 65,
   "listings": [
     {
       "uid": "0000003",
@@ -1990,6 +1990,48 @@
       },
       "url": "https://www.alldaycity.com/l/a038374413efb46c/",
       "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
+    },
+    {
+      "uid": "224cbf39725e74bc",
+      "title": "2 bed flat, nishinippori",
+      "description": "furnished, available from 4 april 2027, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,698 / month (≈¥267,000)"
+      },
+      "url": "https://www.alldaycity.com/l/224cbf39725e74bc/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-186"
+    },
+    {
+      "uid": "15ad3c136c12ab9d",
+      "title": "2 bed flat, nishinippori",
+      "description": "furnished, available from 10 august 2027, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,774 / month (≈¥279,000)"
+      },
+      "url": "https://www.alldaycity.com/l/15ad3c136c12ab9d/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-187"
     },
     {
       "uid": "edf4b112f751f9d4",

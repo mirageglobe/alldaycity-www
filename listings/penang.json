@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "penang",
-  "count": 55,
+  "count": 68,
   "listings": [
     {
       "uid": "0000003",
@@ -1815,6 +1815,279 @@
       },
       "url": "https://www.alldaycity.com/l/a038374413efb46c/",
       "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
+    },
+    {
+      "uid": "e88961d6818a99d0",
+      "title": "room, batu kawan",
+      "description": "master room, private bathroom, fully furnished, minimum stay min. 12 months contract",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "roomz",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$185 / month (≈RM750)"
+      },
+      "url": "https://www.alldaycity.com/l/e88961d6818a99d0/",
+      "link": "https://my.roomz.asia/rent/room/emcgvn/cozy-landed-master-room-with-private-bathroom-coway-water-machine-for-rent-at-penang-batu-kawan-eco-horizon-ashton-collection-bkip-the-ship-campus-bandar-cassiai-ikea-penang-design-village"
+    },
+    {
+      "uid": "e1d20b50da5d29cf",
+      "title": "room, bayan lepas",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$210 / month (≈RM850)"
+      },
+      "url": "https://www.alldaycity.com/l/e1d20b50da5d29cf/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebd3-68d3-7b61-b191-0fc76d0867a0/premium-balcony-room-queensbays-bayan-lepas-1fr1"
+    },
+    {
+      "uid": "d9d291eea501a0a7",
+      "title": "room, bukit mertajam",
+      "description": "middle room, shared bathroom, fully furnished, no minimum contract",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "roomz",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$136 / month (≈RM550)"
+      },
+      "url": "https://www.alldaycity.com/l/d9d291eea501a0a7/",
+      "link": "https://my.roomz.asia/rent/room/rxvmrt/fully-furnished-room-to-rent-medium-room-location-bukit-mertajam-taman-gemilang"
+    },
+    {
+      "uid": "965f8ae1b0e36cf9",
+      "title": "room, relau",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$173 / month (≈RM700)"
+      },
+      "url": "https://www.alldaycity.com/l/965f8ae1b0e36cf9/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebc0-65f5-78c1-bc3d-82c704837161/bayan-lepasrelau-premium-medium-room-near-inti-fiz-queensbays"
+    },
+    {
+      "uid": "7e3b10523270096b",
+      "title": "room, bayan baru",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$177 / month (≈RM720)"
+      },
+      "url": "https://www.alldaycity.com/l/7e3b10523270096b/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebcc-1eea-73c0-8f1b-7493fba16fa9/beautiful-medium-room-at-bayan-lepas"
+    },
+    {
+      "uid": "66d58d505dc0e370",
+      "title": "room, relau",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$185 / month (≈RM750)"
+      },
+      "url": "https://www.alldaycity.com/l/66d58d505dc0e370/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebc5-4d14-7a33-88b9-c06280e280f9/premium-medium-room-bayan-lepasfor-rent"
+    },
+    {
+      "uid": "640b6985ce88e87e",
+      "title": "room, bayan lepas",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$185 / month (≈RM750)"
+      },
+      "url": "https://www.alldaycity.com/l/640b6985ce88e87e/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebd0-f250-71a0-a299-4903c0bf2135/beautiful-room-with-private-balcony-bayan-lepas"
+    },
+    {
+      "uid": "31e2e822a332ed79",
+      "title": "room, tanjong tokong",
+      "description": "middle room, shared bathroom, fully furnished, no minimum contract",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "roomz",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$185 / month (≈RM750)"
+      },
+      "url": "https://www.alldaycity.com/l/31e2e822a332ed79/",
+      "link": "https://my.roomz.asia/rent/room/fxigzr/i-santorini-penang-cozy-design-fully-furnished-with-no-blocking-pool-view-deluxe-mid-room"
+    },
+    {
+      "uid": "2bb1c2bfa9f9b943",
+      "title": "room, bayan lepas",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$180 / month (≈RM730)"
+      },
+      "url": "https://www.alldaycity.com/l/2bb1c2bfa9f9b943/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebd6-f008-7812-8b6b-d205d7564146/big-cozy-medium-roombayan-lepas-sungai-ara"
+    },
+    {
+      "uid": "2941327e2211c55f",
+      "title": "room, bayan lepas",
+      "description": "middle room, private bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$160 / month (≈RM650)"
+      },
+      "url": "https://www.alldaycity.com/l/2941327e2211c55f/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebbd-75f4-7e50-9146-62bd969e68a3/cozy-medium-room-for-rent-bayan-barulepas"
+    },
+    {
+      "uid": "211b5303a1fdb5d6",
+      "title": "room, bukit mertajam",
+      "description": "middle room, shared bathroom, partially furnished, minimum stay min. 12 months contract",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "roomz",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$111 / month (≈RM450)"
+      },
+      "url": "https://www.alldaycity.com/l/211b5303a1fdb5d6/",
+      "link": "https://my.roomz.asia/rent/room/sqvzmp/medium-room-at-taman-kota-permai-bukit-mertajam"
+    },
+    {
+      "uid": "1c916b57d8bd65ad",
+      "title": "room, bayan lepas",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$202 / month (≈RM820)"
+      },
+      "url": "https://www.alldaycity.com/l/1c916b57d8bd65ad/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebc9-c834-7a21-91a4-aed4cfa9da98/direct-owner-medium-room-for-rent-queensbays-bayan-lepas-7msb"
+    },
+    {
+      "uid": "028274f6549bcf35",
+      "title": "room, bayan baru",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$190 / month (≈RM770)"
+      },
+      "url": "https://www.alldaycity.com/l/028274f6549bcf35/",
+      "link": "https://www.ibilik.com/room-rentals/01a0ebc7-dd05-7cf3-ab43-af12b7f98f06/bayan-lepasbaru-beautiful-room-for-rent"
     }
   ]
 }
