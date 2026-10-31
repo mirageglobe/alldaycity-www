@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "penang",
-  "count": 68,
+  "count": 65,
   "listings": [
     {
       "uid": "0000003",
@@ -32,51 +32,6 @@
       ],
       "url": "https://www.alldaycity.com/l/0000006/",
       "link": "https://theforestorigin.com"
-    },
-    {
-      "uid": "0000011",
-      "title": "george town co-working — hot desk",
-      "description": "flexible desk in a george town shophouse co-working space. walking distance to komtar and the heritage zone.",
-      "type": "property",
-      "hub": "george-town",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "reach": [
-        "penang"
-      ],
-      "url": "https://www.alldaycity.com/l/0000011/",
-      "link": "https://sites.alldaycity.com/property/0000011"
-    },
-    {
-      "uid": "0000008",
-      "title": "embedded systems engineer — penang corridor",
-      "description": "on-site role at a hardware startup in the bayan lepas free trade zone. c/c++ and rtos experience required.",
-      "type": "job",
-      "hub": "bayan-lepas",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "reach": [
-        "penang"
-      ],
-      "url": "https://www.alldaycity.com/l/0000008/",
-      "link": "https://sites.alldaycity.com/jobs/0000008"
-    },
-    {
-      "uid": "0000010",
-      "title": "bayan lepas tech park — office unit",
-      "description": "ground-floor office unit in bayan lepas ftz. 800 sqft, fitted out, 12-month minimum. steps from major semiconductor firms.",
-      "type": "property",
-      "hub": "bayan-lepas",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "reach": [
-        "penang"
-      ],
-      "url": "https://www.alldaycity.com/l/0000010/",
-      "link": "https://sites.alldaycity.com/property/0000010"
     },
     {
       "uid": "212f4559d932ec93",
