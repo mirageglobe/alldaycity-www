@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 286,
+  "count": 284,
   "listings": [
     {
       "uid": "0000003",
@@ -32,36 +32,6 @@
       ],
       "url": "https://www.alldaycity.com/l/0000006/",
       "link": "https://theforestorigin.com"
-    },
-    {
-      "uid": "0000007",
-      "title": "senior software engineer — go / distributed systems",
-      "description": "remote-first role at a fintech building real-time settlement infrastructure. 5+ years go experience, comfort with high-throughput systems.",
-      "type": "job",
-      "hub": "canary-wharf",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "reach": [
-        "london"
-      ],
-      "url": "https://www.alldaycity.com/l/0000007/",
-      "link": "https://sites.alldaycity.com/jobs/0000007"
-    },
-    {
-      "uid": "0000009",
-      "title": "canary wharf e14 — hot desk membership",
-      "description": "flexible co-working desk within walking distance of canary wharf dlr. available monthly, includes fibre and meeting room credits.",
-      "type": "property",
-      "hub": "canary-wharf",
-      "tier": "posted",
-      "verified": false,
-      "source": "operator",
-      "reach": [
-        "london"
-      ],
-      "url": "https://www.alldaycity.com/l/0000009/",
-      "link": "https://sites.alldaycity.com/property/0000009"
     },
     {
       "uid": "5b0d8fd4da770e16",
