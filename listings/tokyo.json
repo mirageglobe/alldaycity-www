@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "tokyo",
-  "count": 65,
+  "count": 83,
   "listings": [
     {
       "uid": "0000003",
@@ -34,6 +34,113 @@
       "link": "https://theforestorigin.com"
     },
     {
+      "uid": "aae8916dd1c8ddf7",
+      "title": "software engineer - ai tooling infrastructure",
+      "company": "supabase",
+      "description": "You will build and operate production backend services for Supabase's AI products, specifically the MCP server, while managing reliability targets, SLOs, and on-call rotations with a focus on TypeScript or Go.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/aae8916dd1c8ddf7/",
+      "link": "https://www.piperpiperpiper.com/jobs/aae8916dd1c8ddf7/"
+    },
+    {
+      "uid": "252ab3f589bc9791",
+      "title": "product manager -  administration & governance",
+      "company": "supabase",
+      "description": "You will own the product strategy and roadmap for internal innovation, ensuring Supabase serves as the default starting point for software built inside companies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 17969,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/252ab3f589bc9791/",
+      "link": "https://www.piperpiperpiper.com/jobs/252ab3f589bc9791/"
+    },
+    {
+      "uid": "0bdea9d0336fc391",
+      "title": "product manager - spark",
+      "company": "supabase",
+      "description": "You will own the product strategy and roadmap for Spark projects, which are lightweight backend solutions designed to provision instantly for agents building software.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 17969,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/0bdea9d0336fc391/",
+      "link": "https://www.piperpiperpiper.com/jobs/0bdea9d0336fc391/"
+    },
+    {
+      "uid": "1f54682005625a7a",
+      "title": "full-stack developer",
+      "company": "fluence international, inc.",
+      "description": "You will build secure, scalable web applications using React and Next.js, design data models with privacy in mind, and implement role-based access control for clinician workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 292,
+        "max": 417,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/1f54682005625a7a/",
+      "link": "https://www.piperpiperpiper.com/jobs/1f54682005625a7a/"
+    },
+    {
       "uid": "212f4559d932ec93",
       "title": "head of engineering",
       "company": "lemon.io",
@@ -52,7 +159,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -79,7 +186,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -106,7 +213,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -132,8 +239,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 5000,
-        "max": 12084,
+        "min": 5208,
+        "max": 13250,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -164,7 +271,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -191,7 +298,7 @@
       "posted": "2026-10-24",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -218,7 +325,7 @@
       "posted": "2026-10-24",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -245,7 +352,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6666,
-        "max": 9584,
+        "max": 9557,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -288,8 +395,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6250,
-        "max": 7916,
+        "min": 6198,
+        "max": 7812,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -420,7 +527,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -447,7 +554,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -474,7 +581,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -501,7 +608,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -637,8 +744,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7487,
-        "max": 16673,
+        "min": 7634,
+        "max": 16728,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -664,8 +771,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -691,8 +798,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -718,8 +825,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -745,8 +852,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -772,8 +879,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -827,7 +934,7 @@
       "posted": "2026-10-16",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -879,8 +986,8 @@
       ],
       "posted": "2026-10-16",
       "salary": {
-        "min": 5000,
-        "max": 12084,
+        "min": 5208,
+        "max": 13250,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -907,7 +1014,7 @@
       "posted": "2026-10-15",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -933,8 +1040,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 6146,
-        "max": 18579,
+        "min": 6042,
+        "max": 17916,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -961,7 +1068,7 @@
       "posted": "2026-10-13",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -988,7 +1095,7 @@
       "posted": "2026-10-11",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1015,7 +1122,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1042,7 +1149,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1068,14 +1175,41 @@
       ],
       "posted": "2026-10-09",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/d67ffa1f7aec3698/",
       "link": "https://www.piperpiperpiper.com/jobs/d67ffa1f7aec3698/"
+    },
+    {
+      "uid": "9b9c964d79caa0ac",
+      "title": "forward deployed engineer - japan",
+      "company": "cursor",
+      "description": "You will embed directly with customer teams as an engineer on the ground, owning outcomes by shipping production-grade AI systems that run independently after you leave.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "JPN"
+      ],
+      "posted": "2026-10-09",
+      "salary": {
+        "min": 6198,
+        "max": 7812,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/9b9c964d79caa0ac/",
+      "link": "https://www.piperpiperpiper.com/jobs/9b9c964d79caa0ac/"
     },
     {
       "uid": "ea6e12680ee7a3b8",
@@ -1122,7 +1256,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1148,8 +1282,8 @@
       ],
       "posted": "2026-10-07",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1175,8 +1309,8 @@
       ],
       "posted": "2026-10-07",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1203,7 +1337,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1247,7 +1381,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1274,7 +1408,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1300,8 +1434,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 5000,
-        "max": 8334,
+        "min": 5599,
+        "max": 7188,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1328,7 +1462,7 @@
       "posted": "2026-10-05",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1465,13 +1599,40 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/0b9f35dc334cb9ec/",
       "link": "https://www.piperpiperpiper.com/jobs/0b9f35dc334cb9ec/"
+    },
+    {
+      "uid": "6e45755df7c3d2bc",
+      "title": "ai deployment manager - japan",
+      "company": "cursor",
+      "description": "You will manage enterprise customer accounts, drive AI adoption through product rollouts, and partner with engineering teams to implement scalable workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "JPN"
+      ],
+      "posted": "2026-09-29",
+      "salary": {
+        "min": 5599,
+        "max": 7188,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/6e45755df7c3d2bc/",
+      "link": "https://www.piperpiperpiper.com/jobs/6e45755df7c3d2bc/"
     },
     {
       "uid": "396ba60804724a51",
@@ -1491,8 +1652,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 5000,
-        "max": 12084,
+        "min": 5208,
+        "max": 13250,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1519,8 +1680,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 5000,
-        "max": 12084,
+        "min": 5208,
+        "max": 13250,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1563,8 +1724,8 @@
       ],
       "posted": "2026-09-23",
       "salary": {
-        "min": 6250,
-        "max": 7916,
+        "min": 6198,
+        "max": 7812,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1692,7 +1853,7 @@
       "posted": "2026-09-18",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1794,7 +1955,7 @@
       "posted": "2026-09-17",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1821,7 +1982,7 @@
       "posted": "2026-09-16",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1847,8 +2008,8 @@
       ],
       "posted": "2026-09-16",
       "salary": {
-        "min": 5443,
-        "max": 8318,
+        "min": 5416,
+        "max": 8198,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1875,7 +2036,7 @@
       "posted": "2026-09-14",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1902,7 +2063,7 @@
       "posted": "2026-09-12",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1929,7 +2090,7 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1956,7 +2117,7 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1983,13 +2144,265 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/a038374413efb46c/",
       "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
+    },
+    {
+      "uid": "fb0eac215b231e95",
+      "title": "1 bed flat, nishishinjuku",
+      "description": "furnished, available from 8 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,296 / month (≈¥361,000)"
+      },
+      "url": "https://www.alldaycity.com/l/fb0eac215b231e95/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-158"
+    },
+    {
+      "uid": "f528a1727b5a5526",
+      "title": "3 bed flat, nishishinjuku",
+      "description": "furnished, available from 20 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,706 / month (≈¥740,000)"
+      },
+      "url": "https://www.alldaycity.com/l/f528a1727b5a5526/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-266"
+    },
+    {
+      "uid": "c9575f87a55e4f3b",
+      "title": "house, 下元郷, hinohara",
+      "description": "wooden, single storey",
+      "type": "sale",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$25,437 (≈¥4,000,000)"
+      },
+      "url": "https://www.alldaycity.com/l/c9575f87a55e4f3b/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou41.pdf"
+    },
+    {
+      "uid": "c7d20f3da0cd392f",
+      "title": "house, 本宿, hinohara",
+      "description": "wood and reinforced concrete, 2 storeys",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$509 / month (≈¥80,000)"
+      },
+      "url": "https://www.alldaycity.com/l/c7d20f3da0cd392f/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosuyku18.pdf"
+    },
+    {
+      "uid": "a03101ffd856f2c2",
+      "title": "house, 三都郷, hinohara",
+      "description": "wooden, single storey",
+      "type": "sale",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$94,118 (≈¥14,800,000)"
+      },
+      "url": "https://www.alldaycity.com/l/a03101ffd856f2c2/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/oozawa32-3.pdf"
+    },
+    {
+      "uid": "9beab01685a95aa1",
+      "title": "1 bed flat, nishishinjuku",
+      "description": "furnished, available from 25 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,506 / month (≈¥394,000)"
+      },
+      "url": "https://www.alldaycity.com/l/9beab01685a95aa1/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-25"
+    },
+    {
+      "uid": "8e1747444ab3c16d",
+      "title": "house, 南郷, hinohara",
+      "description": "wooden, 2 storeys",
+      "type": "sale",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$44,515 (≈¥7,000,000)"
+      },
+      "url": "https://www.alldaycity.com/l/8e1747444ab3c16d/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou38.pdf"
+    },
+    {
+      "uid": "723f7b2b94a2c6a4",
+      "title": "house, 南郷, hinohara",
+      "description": "wooden, single storey",
+      "type": "sale",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$63,593 (≈¥10,000,000)"
+      },
+      "url": "https://www.alldaycity.com/l/723f7b2b94a2c6a4/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou39.pdf"
+    },
+    {
+      "uid": "6dee3d9edff5099b",
+      "title": "house, 三都郷, hinohara",
+      "description": "wooden, 2 storeys",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$191 / month (≈¥30,000)"
+      },
+      "url": "https://www.alldaycity.com/l/6dee3d9edff5099b/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/mitsugou19.pdf"
+    },
+    {
+      "uid": "6735885826b4acd0",
+      "title": "1 bed flat, nishishinjuku",
+      "description": "furnished, available from 2 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,366 / month (≈¥372,000)"
+      },
+      "url": "https://www.alldaycity.com/l/6735885826b4acd0/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-28"
+    },
+    {
+      "uid": "3152fbf15dc66b2e",
+      "title": "house, 本宿, hinohara",
+      "description": "wooden, single storey",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$318 / month (≈¥50,000)"
+      },
+      "url": "https://www.alldaycity.com/l/3152fbf15dc66b2e/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosyuku17.pdf"
+    },
+    {
+      "uid": "067b4c5cdffab5ed",
+      "title": "house, 下元郷, hinohara",
+      "description": "wooden, 2 storeys",
+      "type": "sale",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "hinohara",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$79,491 (≈¥12,500,000)"
+      },
+      "url": "https://www.alldaycity.com/l/067b4c5cdffab5ed/",
+      "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou31-2.pdf"
     },
     {
       "uid": "224cbf39725e74bc",

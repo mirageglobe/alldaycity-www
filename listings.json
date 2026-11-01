@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 290,
+  "count": 351,
   "listings": [
     {
       "uid": "0000003",
@@ -122,6 +122,1189 @@
       ],
       "url": "https://www.alldaycity.com/l/0000106/",
       "link": "https://theflowerclubldn.co.uk"
+    },
+    {
+      "uid": "92be49756dbe68a0",
+      "title": "senior professional services engineer",
+      "company": "gitlab",
+      "description": "You will deliver professional services engagements including installation, migration, and advisory support for customers using GitLab. You will lead complex deployments from single-node setups to large-scale architectures while mentoring junior engineers and collaborating with product teams to enhance delivery consistency.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR",
+        "NLD"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6488,
+        "max": 7604,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/92be49756dbe68a0/",
+      "link": "https://www.piperpiperpiper.com/jobs/92be49756dbe68a0/"
+    },
+    {
+      "uid": "e6c906d0fa5b191d",
+      "title": "applied ai engineer",
+      "company": "elevenlabs",
+      "description": "You will build production-level agents using Python and LLMs, work with marketing engineering teams to solve real business problems, and ensure the reliability of deployed systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "BGR",
+        "DEU",
+        "ESP",
+        "FRA",
+        "GBR",
+        "HUN",
+        "IRL",
+        "ITA",
+        "NLD",
+        "POL"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/e6c906d0fa5b191d/",
+      "link": "https://www.piperpiperpiper.com/jobs/e6c906d0fa5b191d/"
+    },
+    {
+      "uid": "dfe7888d2ce534aa",
+      "title": "senior product manager, billing engine & platforms monetization",
+      "company": "gitlab",
+      "description": "You will own the backend usage billing pipeline by defining product direction for metering, aggregation, and rating systems. You will partner with engineering and finance teams to launch credit-based pricing models while ensuring billing accuracy and scalability.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 11600,
+        "max": 19600,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/dfe7888d2ce534aa/",
+      "link": "https://www.piperpiperpiper.com/jobs/dfe7888d2ce534aa/"
+    },
+    {
+      "uid": "721351e45f5c640b",
+      "title": "ai trainers network - german",
+      "company": "welo global",
+      "description": "You will perform tasks such as annotating text or images, evaluating search results for relevance, and creating prompts to improve large language models.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ARG",
+        "AUT",
+        "BRA",
+        "CHE",
+        "DEU",
+        "ESP",
+        "FRA",
+        "GBR",
+        "ITA",
+        "POL",
+        "TUR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6042,
+        "max": 17916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/721351e45f5c640b/",
+      "link": "https://www.piperpiperpiper.com/jobs/721351e45f5c640b/"
+    },
+    {
+      "uid": "31642bb6a088b242",
+      "title": "product manager (elevencreative self-serve)",
+      "company": "elevenlabs",
+      "description": "You will own the core ElevenCreative product experience for creators and marketers, driving growth and adoption through self-serve platforms while defining strategic bets across image, video, music, and editing workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "NLD",
+        "POL",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 7083,
+        "max": 17969,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/31642bb6a088b242/",
+      "link": "https://www.piperpiperpiper.com/jobs/31642bb6a088b242/"
+    },
+    {
+      "uid": "e570bdab58e5871b",
+      "title": "senior manager, technical program management",
+      "company": "gitlab",
+      "description": "You will lead a team of Technical Program Managers, manage staffing and resource allocation, establish program management standards, and drive long-term strategy while mentoring junior TPMs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 11667,
+        "max": 17500,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/e570bdab58e5871b/",
+      "link": "https://www.piperpiperpiper.com/jobs/e570bdab58e5871b/"
+    },
+    {
+      "uid": "b2af33f8c4dd9739",
+      "title": "ai trainers network - georgian",
+      "company": "welo global",
+      "description": "You will perform tasks such as annotating text or images, evaluating search results, and creating prompts to build more accurate and inclusive AI models.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 5000,
+        "max": 10784,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b2af33f8c4dd9739/",
+      "link": "https://www.piperpiperpiper.com/jobs/b2af33f8c4dd9739/"
+    },
+    {
+      "uid": "e3c594e2645abbe0",
+      "title": "impact producer",
+      "company": "elevenlabs",
+      "description": "You will coordinate production of Impact's documentary case studies, manage events and activations, handle PR coordination, and draft social content while ensuring all work aligns with the company's high creative standards.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 5901,
+        "max": 8542,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/e3c594e2645abbe0/",
+      "link": "https://www.piperpiperpiper.com/jobs/e3c594e2645abbe0/"
+    },
+    {
+      "uid": "e8b5de173b270c94",
+      "title": "senior engagement manager, ps sales - emea",
+      "company": "gitlab",
+      "description": "You will act as a Senior Engagement Manager who designs and structures professional services engagements by aligning GitLab capabilities with customer needs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "ESP",
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6102,
+        "max": 10791,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/e8b5de173b270c94/",
+      "link": "https://www.piperpiperpiper.com/jobs/e8b5de173b270c94/"
+    },
+    {
+      "uid": "1c93135eb495823e",
+      "title": "forward deployed engineer - software engineer - united kingdom",
+      "company": "elevenlabs",
+      "description": "You will lead end-to-end execution of major projects by collaborating with customer engineers and executives to build high-impact solutions using Python and software architecture.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/1c93135eb495823e/",
+      "link": "https://www.piperpiperpiper.com/jobs/1c93135eb495823e/"
+    },
+    {
+      "uid": "6444443afdb297dc",
+      "title": "finance data scientist",
+      "company": "elevenlabs",
+      "description": "You will act as the first dedicated analytics partner to Finance, turning billing and revenue data into audit-ready numbers while partnering with engineering teams to build forecasting models.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6042,
+        "max": 17916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/6444443afdb297dc/",
+      "link": "https://www.piperpiperpiper.com/jobs/6444443afdb297dc/"
+    },
+    {
+      "uid": "f419e94ddd2ae67d",
+      "title": "analytics engineer",
+      "company": "elevenlabs",
+      "description": "You will act as an Analytics Engineer responsible for building the data transformation layer using dbt, defining certified metrics for product, finance, and company-wide topics, and partnering with engineers to create reusable data products.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 5000,
+        "max": 10784,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f419e94ddd2ae67d/",
+      "link": "https://www.piperpiperpiper.com/jobs/f419e94ddd2ae67d/"
+    },
+    {
+      "uid": "71525613214bb389",
+      "title": "senior contracts manager, commercial (emea)",
+      "company": "gitlab",
+      "description": "You will manage commercial contracts across the EMEA region, drafting and negotiating agreements with customers while collaborating with sales teams to support deal progress.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 5417,
+        "max": 12292,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/71525613214bb389/",
+      "link": "https://www.piperpiperpiper.com/jobs/71525613214bb389/"
+    },
+    {
+      "uid": "f457503fa83cac2e",
+      "title": "deployment strategist, public sector (emea)",
+      "company": "trm labs",
+      "description": "You will own the post-sale experience for EMEA public sector customers, defining success metrics, driving adoption benchmarks, and enabling renewals while collaborating with Account Directors and Product teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 4896,
+        "max": 6589,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f457503fa83cac2e/",
+      "link": "https://www.piperpiperpiper.com/jobs/f457503fa83cac2e/"
+    },
+    {
+      "uid": "85717af3b283c9d2",
+      "title": "influencer marketer",
+      "company": "elevenlabs",
+      "description": "You will design and build an influencer program from scratch, including sourcing creators, negotiating contracts, writing briefs, executing campaigns, and measuring ROI to drive growth.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 4167,
+        "max": 10388,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/85717af3b283c9d2/",
+      "link": "https://www.piperpiperpiper.com/jobs/85717af3b283c9d2/"
+    },
+    {
+      "uid": "2033463bb5313138",
+      "title": "enablement manager, public sector",
+      "company": "trm labs",
+      "description": "You will serve as an Enablement Manager, designing and delivering structured onboarding, training, and content systems for Public Sector sales teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "USA"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 12167,
+        "max": 13667,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/2033463bb5313138/",
+      "link": "https://www.piperpiperpiper.com/jobs/2033463bb5313138/"
+    },
+    {
+      "uid": "2e8c4970cf73ffe5",
+      "title": "channel sales, uk",
+      "company": "zinier",
+      "description": "You will manage channel sales relationships with system integrators, resellers, and technology partners to drive revenue growth through joint account planning and co-selling efforts.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 6102,
+        "max": 10814,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/2e8c4970cf73ffe5/",
+      "link": "https://www.piperpiperpiper.com/jobs/2e8c4970cf73ffe5/"
+    },
+    {
+      "uid": "b451c350b613527e",
+      "title": "market development manager — emea",
+      "company": "auditdata",
+      "description": "You will act as Market Development Manager to build an EMEA target map by identifying high-potential markets and chains, then execute inbound and outbound sales efforts to close enterprise and mid-market deals while partnering with marketing on account-based programs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GHA",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ISR",
+        "ITA",
+        "KEN",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NGA",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SAU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR",
+        "ZAF"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": 5208,
+        "max": 13250,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b451c350b613527e/",
+      "link": "https://www.piperpiperpiper.com/jobs/b451c350b613527e/"
+    },
+    {
+      "uid": "aae8916dd1c8ddf7",
+      "title": "software engineer - ai tooling infrastructure",
+      "company": "supabase",
+      "description": "You will build and operate production backend services for Supabase's AI products, specifically the MCP server, while managing reliability targets, SLOs, and on-call rotations with a focus on TypeScript or Go.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/aae8916dd1c8ddf7/",
+      "link": "https://www.piperpiperpiper.com/jobs/aae8916dd1c8ddf7/"
+    },
+    {
+      "uid": "252ab3f589bc9791",
+      "title": "product manager -  administration & governance",
+      "company": "supabase",
+      "description": "You will own the product strategy and roadmap for internal innovation, ensuring Supabase serves as the default starting point for software built inside companies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 17969,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/252ab3f589bc9791/",
+      "link": "https://www.piperpiperpiper.com/jobs/252ab3f589bc9791/"
+    },
+    {
+      "uid": "0bdea9d0336fc391",
+      "title": "product manager - spark",
+      "company": "supabase",
+      "description": "You will own the product strategy and roadmap for Spark projects, which are lightweight backend solutions designed to provision instantly for agents building software.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 7083,
+        "max": 17969,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/0bdea9d0336fc391/",
+      "link": "https://www.piperpiperpiper.com/jobs/0bdea9d0336fc391/"
+    },
+    {
+      "uid": "b752b325fc623c95",
+      "title": "ai trainers network - english",
+      "company": "welo global",
+      "description": "You will perform tasks such as annotating text or images, evaluating search results, and creating prompts for large language models while working with a diverse community of contributors.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "AUS",
+        "CAN",
+        "GBR",
+        "IRL",
+        "MYS",
+        "NZL",
+        "SGP",
+        "USA"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 6042,
+        "max": 17916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b752b325fc623c95/",
+      "link": "https://www.piperpiperpiper.com/jobs/b752b325fc623c95/"
+    },
+    {
+      "uid": "79d16830ad119a16",
+      "title": "ai trainers network - danish",
+      "company": "welo global",
+      "description": "You will perform tasks such as annotating text or images, evaluating search results for relevance, and creating prompts to improve large language models.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "DNK",
+        "ESP",
+        "FRA",
+        "GBR",
+        "SWE",
+        "USA"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 6042,
+        "max": 17916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/79d16830ad119a16/",
+      "link": "https://www.piperpiperpiper.com/jobs/79d16830ad119a16/"
+    },
+    {
+      "uid": "8dfec3f88115b3c9",
+      "title": "full stack developer - java & react (f/m/d)",
+      "company": "ecosio",
+      "description": "You will develop and maintain features for web applications using Java Spring and TypeScript React, while writing unit tests and collaborating with product owners to translate requirements into actionable software.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "AUT",
+        "DEU",
+        "ESP",
+        "GBR",
+        "HRV",
+        "HUN",
+        "ITA",
+        "PRT"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/8dfec3f88115b3c9/",
+      "link": "https://www.piperpiperpiper.com/jobs/8dfec3f88115b3c9/"
+    },
+    {
+      "uid": "e46dd073b7e9f7dc",
+      "title": "marketing and communications lead",
+      "company": "care adhd",
+      "description": "You will lead marketing and communications strategy for a rapidly scaling startup, developing go-to-market plans, managing brand messaging across all channels, and overseeing digital campaigns to drive client acquisition.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-31",
+      "salary": {
+        "min": 6699,
+        "max": 8933,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/e46dd073b7e9f7dc/",
+      "link": "https://www.piperpiperpiper.com/jobs/e46dd073b7e9f7dc/"
+    },
+    {
+      "uid": "2f1ceae0327c0af0",
+      "title": "global payroll analyst",
+      "company": "oyster",
+      "description": "You will optimize global payroll processes by analyzing multi-country data to ensure accurate processing, tax compliance, and audit readiness. You will validate employee records against general ledgers, investigate discrepancies with external vendors, and translate complex financial trends into actionable operational recommendations.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": 4792,
+        "max": 11820,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/2f1ceae0327c0af0/",
+      "link": "https://www.piperpiperpiper.com/jobs/2f1ceae0327c0af0/"
+    },
+    {
+      "uid": "f4a4d7a152713786",
+      "title": "software engineer (ruby on rails, apis)",
+      "company": "oyster",
+      "description": "You will build and maintain Ruby on Rails APIs for internal teams to streamline workflows, partner with stakeholders to define requirements, and deliver secure production systems while managing risks and ensuring measurable productivity gains.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-30",
+      "salary": {
+        "min": 6354,
+        "max": 13334,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f4a4d7a152713786/",
+      "link": "https://www.piperpiperpiper.com/jobs/f4a4d7a152713786/"
+    },
+    {
+      "uid": "1f54682005625a7a",
+      "title": "full-stack developer",
+      "company": "fluence international, inc.",
+      "description": "You will build secure, scalable web applications using React and Next.js, design data models with privacy in mind, and implement role-based access control for clinician workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 292,
+        "max": 417,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/1f54682005625a7a/",
+      "link": "https://www.piperpiperpiper.com/jobs/1f54682005625a7a/"
+    },
+    {
+      "uid": "06adaf33dc033ff9",
+      "title": "manager, sales engineering - united kingdom",
+      "company": "jumpcloud",
+      "description": "You will lead a distributed team of Sales Engineers to drive technical wins and accelerate revenue growth. Your daily tasks include bridging people leadership with commercial strategy to solve complex IT security challenges, conducting business discovery, and optimizing resource allocation across international opportunities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/06adaf33dc033ff9/",
+      "link": "https://www.piperpiperpiper.com/jobs/06adaf33dc033ff9/"
     },
     {
       "uid": "5b0d8fd4da770e16",
@@ -480,7 +1663,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -507,7 +1690,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -636,7 +1819,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -700,8 +1883,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -734,6 +1917,32 @@
       },
       "url": "https://www.alldaycity.com/l/f87c8c31f9582d9b/",
       "link": "https://www.piperpiperpiper.com/jobs/f87c8c31f9582d9b/"
+    },
+    {
+      "uid": "752def2ea55b0a23",
+      "title": "backend engineer, source code: repository services (ruby)",
+      "company": "gitlab",
+      "description": "You will build backend services using Ruby and GraphQL, design data models, and maintain application logic for repository access control. You will work with Gitaly primitives, handle complex legacy constraints, and collaborate across multiple teams while ensuring system reliability through performance tuning and observability.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-29",
+      "salary": {
+        "min": 9600,
+        "max": 16200,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/752def2ea55b0a23/",
+      "link": "https://www.piperpiperpiper.com/jobs/752def2ea55b0a23/"
     },
     {
       "uid": "5d5a6d188839ff6e",
@@ -810,14 +2019,41 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/324ea4137821d89d/",
       "link": "https://www.piperpiperpiper.com/jobs/324ea4137821d89d/"
+    },
+    {
+      "uid": "2f2efd29bc61a1a2",
+      "title": "associate manager - corporate events europe",
+      "company": "veeva systems",
+      "description": "You will execute events projects while managing budgets and supporting daily operations across sales, marketing, and cross-functional teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-28",
+      "salary": {
+        "min": 4167,
+        "max": 10388,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/2f2efd29bc61a1a2/",
+      "link": "https://www.piperpiperpiper.com/jobs/2f2efd29bc61a1a2/"
     },
     {
       "uid": "d91b675ac5bfdd56",
@@ -838,7 +2074,7 @@
       "posted": "2026-10-28",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -872,6 +2108,71 @@
       },
       "url": "https://www.alldaycity.com/l/6aa5025941a7f2c5/",
       "link": "https://www.piperpiperpiper.com/jobs/6aa5025941a7f2c5/"
+    },
+    {
+      "uid": "d8a66899f9e9d54f",
+      "title": "sales director",
+      "company": "fivetran",
+      "description": "You will act as an Account Executive in Germany targeting top German enterprises to generate new business opportunities by pitching Fivetran's database replication capabilities and platform value to existing partners.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-27",
+      "salary": {
+        "min": 6102,
+        "max": 10791,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/d8a66899f9e9d54f/",
+      "link": "https://www.piperpiperpiper.com/jobs/d8a66899f9e9d54f/"
     },
     {
       "uid": "aeb95e120f380bbf",
@@ -936,7 +2237,7 @@
       "posted": "2026-10-27",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -990,7 +2291,7 @@
       "posted": "2026-10-27",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1017,7 +2318,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1044,7 +2345,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1071,13 +2372,105 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/f657c356ae296360/",
       "link": "https://www.piperpiperpiper.com/jobs/f657c356ae296360/"
+    },
+    {
+      "uid": "f9b7d344d0e66460",
+      "title": "senior ai solutions engineer",
+      "company": "oyster",
+      "description": "You will act as a Senior AI Solutions Engineer who designs and builds production AI agents and workflows using LLMs and orchestration tools.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-10-26",
+      "salary": {
+        "min": 6354,
+        "max": 13334,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f9b7d344d0e66460/",
+      "link": "https://www.piperpiperpiper.com/jobs/f9b7d344d0e66460/"
+    },
+    {
+      "uid": "370cd9dbfece7634",
+      "title": "data engineer",
+      "company": "elevenlabs",
+      "description": "You will build and scale data pipelines using dbt, manage infrastructure with Terraform on GCP, and create self-service tools to empower cross-functional teams with clear documentation.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-26",
+      "salary": {
+        "min": 5000,
+        "max": 10784,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/370cd9dbfece7634/",
+      "link": "https://www.piperpiperpiper.com/jobs/370cd9dbfece7634/"
     },
     {
       "uid": "aa33d12d7867d06c",
@@ -1098,7 +2491,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1203,7 +2596,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5417,
-        "max": 11990,
+        "max": 12500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1233,7 +2626,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5000,
-        "max": 11688,
+        "max": 13004,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1260,8 +2653,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1292,7 +2685,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1372,8 +2765,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6468,
-        "max": 7812,
+        "min": 6488,
+        "max": 7604,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1427,7 +2820,7 @@
       "posted": "2026-10-24",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1454,13 +2847,39 @@
       "posted": "2026-10-24",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/71f82f572c0535b3/",
       "link": "https://www.piperpiperpiper.com/jobs/71f82f572c0535b3/"
+    },
+    {
+      "uid": "7aeca413b0081540",
+      "title": "mid- market expansion",
+      "company": "clickup",
+      "description": "You will manage customer renewals by analyzing six months of data to identify expansion opportunities, conduct consultative workshops, and lead conversations that connect ClickUp workflows to business outcomes.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-23",
+      "salary": {
+        "min": 12282,
+        "max": 14515,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/7aeca413b0081540/",
+      "link": "https://www.piperpiperpiper.com/jobs/7aeca413b0081540/"
     },
     {
       "uid": "84f0822cdc361164",
@@ -1480,14 +2899,41 @@
       ],
       "posted": "2026-10-23",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/84f0822cdc361164/",
       "link": "https://www.piperpiperpiper.com/jobs/84f0822cdc361164/"
+    },
+    {
+      "uid": "c2ec30e0859cdb0e",
+      "title": "principal technical marketing engineer  | uk | remote",
+      "company": "grafana labs",
+      "description": "You will create technical demos and webinars to explain Grafana Cloud's value to buyers, serve as a liaison between product and sales teams, and use AI tools to automate content creation for high-impact customer channels.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-23",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/c2ec30e0859cdb0e/",
+      "link": "https://www.piperpiperpiper.com/jobs/c2ec30e0859cdb0e/"
     },
     {
       "uid": "6e756df0ed536cf0",
@@ -1508,7 +2954,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6666,
-        "max": 9584,
+        "max": 9557,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1568,6 +3014,33 @@
       },
       "url": "https://www.alldaycity.com/l/3e7176936087aba7/",
       "link": "https://www.piperpiperpiper.com/jobs/3e7176936087aba7/"
+    },
+    {
+      "uid": "c08a919775adb22d",
+      "title": "senior backend engineer, cloud platform",
+      "company": "clickup",
+      "description": "You will design and operate scalable AWS infrastructure using Amazon EKS to power ClickUp's cloud platform. Your daily work involves building reusable abstractions, automating Terraform guardrails, and resolving production incidents while leveraging AI tools to accelerate engineering workflows.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-22",
+      "salary": {
+        "min": 6488,
+        "max": 7604,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/c08a919775adb22d/",
+      "link": "https://www.piperpiperpiper.com/jobs/c08a919775adb22d/"
     },
     {
       "uid": "4384860711a3af2f",
@@ -1666,7 +3139,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1693,7 +3166,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1719,8 +3192,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1746,8 +3219,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1774,7 +3247,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1801,7 +3274,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1828,7 +3301,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1892,8 +3365,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2076,7 +3549,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2103,8 +3576,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2157,8 +3630,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 7487,
-        "max": 16673,
+        "min": 7634,
+        "max": 16728,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2268,8 +3741,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2334,7 +3807,7 @@
       "posted": "2026-10-20",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2572,8 +4045,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6468,
-        "max": 7812,
+        "min": 6488,
+        "max": 7604,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2599,8 +4072,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6468,
-        "max": 7812,
+        "min": 6488,
+        "max": 7604,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2683,8 +4156,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7487,
-        "max": 16673,
+        "min": 7634,
+        "max": 16728,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2711,7 +4184,7 @@
       "posted": "2026-10-20",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2777,7 +4250,7 @@
       "posted": "2026-10-20",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2868,8 +4341,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3021,6 +4494,33 @@
       "link": "https://www.piperpiperpiper.com/jobs/6989b3010774df5c/"
     },
     {
+      "uid": "885103d1f4d76690",
+      "title": "research engineer - data infrastructure",
+      "company": "elevenlabs",
+      "description": "You will build large-scale data pipelines to collect, process, and transform datasets used to train state-of-the-art AI models.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-10-19",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/885103d1f4d76690/",
+      "link": "https://www.piperpiperpiper.com/jobs/885103d1f4d76690/"
+    },
+    {
       "uid": "cba58e024dc3e75f",
       "title": "deal desk analyst",
       "company": "samsara",
@@ -3039,7 +4539,7 @@
       "posted": "2026-10-19",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3065,8 +4565,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3092,8 +4592,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3185,8 +4685,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 6146,
-        "max": 18579,
+        "min": 6042,
+        "max": 17916,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3378,8 +4878,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3495,8 +4995,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3522,8 +5022,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4625,
-        "max": 9349,
+        "min": 4938,
+        "max": 10423,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3641,8 +5141,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 6468,
-        "max": 7812,
+        "min": 6488,
+        "max": 7604,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3669,7 +5169,7 @@
       "posted": "2026-10-16",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3722,7 +5222,7 @@
       "posted": "2026-10-15",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3752,7 +5252,7 @@
       "posted": "2026-10-15",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3807,8 +5307,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 6146,
-        "max": 18579,
+        "min": 6042,
+        "max": 17916,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3872,8 +5372,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3900,7 +5400,7 @@
       "posted": "2026-10-13",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3981,7 +5481,7 @@
       "posted": "2026-10-11",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4007,8 +5507,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4140,
-        "max": 9200,
+        "min": 4167,
+        "max": 10388,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4035,7 +5535,7 @@
       "posted": "2026-10-11",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4061,8 +5561,8 @@
       ],
       "posted": "2026-10-09",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4089,7 +5589,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4116,7 +5616,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4208,7 +5708,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4326,7 +5826,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 5000,
-        "max": 11688,
+        "max": 13004,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4391,7 +5891,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4445,7 +5945,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4472,7 +5972,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4498,8 +5998,8 @@
       ],
       "posted": "2026-10-07",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4525,8 +6025,8 @@
       ],
       "posted": "2026-10-07",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4581,7 +6081,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4608,7 +6108,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4699,7 +6199,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4763,8 +6263,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4791,7 +6291,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4818,7 +6318,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4845,7 +6345,7 @@
       "posted": "2026-10-05",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4872,7 +6372,7 @@
       "posted": "2026-10-05",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4924,8 +6424,8 @@
       ],
       "posted": "2026-10-03",
       "salary": {
-        "min": 5778,
-        "max": 11216,
+        "min": 5000,
+        "max": 10784,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5036,7 +6536,7 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5164,8 +6664,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6875,
-        "max": 16980,
+        "min": 7083,
+        "max": 17969,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5192,7 +6692,7 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5354,7 +6854,7 @@
       "posted": "2026-09-30",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5381,7 +6881,7 @@
       "posted": "2026-09-30",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5473,7 +6973,7 @@
       "posted": "2026-09-30",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5527,7 +7027,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5554,7 +7054,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 4792,
-        "max": 11329,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5581,7 +7081,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5608,7 +7108,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5634,8 +7134,8 @@
       ],
       "posted": "2026-09-28",
       "salary": {
-        "min": 3927,
-        "max": 6250,
+        "min": 3964,
+        "max": 6302,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5662,7 +7162,7 @@
       "posted": "2026-09-25",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5740,8 +7240,8 @@
       ],
       "posted": "2026-09-24",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5767,8 +7267,8 @@
       ],
       "posted": "2026-09-23",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5820,8 +7320,8 @@
       ],
       "posted": "2026-09-22",
       "salary": {
-        "min": 5778,
-        "max": 11216,
+        "min": 5000,
+        "max": 10784,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5851,7 +7351,7 @@
       "posted": "2026-09-22",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5877,8 +7377,8 @@
       ],
       "posted": "2026-09-21",
       "salary": {
-        "min": 5778,
-        "max": 11216,
+        "min": 5000,
+        "max": 10784,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6006,7 +7506,7 @@
       "posted": "2026-09-18",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6145,6 +7645,71 @@
       "link": "https://www.piperpiperpiper.com/jobs/6472a3902803da71/"
     },
     {
+      "uid": "ad17fccecde06b93",
+      "title": "business manager, go-to-market",
+      "company": "oyster",
+      "description": "You will act as Business Manager for the Go-To-Market organisation, translating strategy into operational plans while collaborating with VPs of Sales, Marketing, Partnerships, and RevOps to drive cross-functional initiatives.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-18",
+      "salary": {
+        "min": 5417,
+        "max": 12500,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ad17fccecde06b93/",
+      "link": "https://www.piperpiperpiper.com/jobs/ad17fccecde06b93/"
+    },
+    {
       "uid": "734f12e73848a946",
       "title": "principal gsi partner manager - accenture (emea)",
       "company": "datadog",
@@ -6162,8 +7727,8 @@
       ],
       "posted": "2026-09-18",
       "salary": {
-        "min": 5834,
-        "max": 8367,
+        "min": 5901,
+        "max": 8542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6265,13 +7830,40 @@
       "posted": "2026-09-17",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/5399ab872b331596/",
       "link": "https://www.piperpiperpiper.com/jobs/5399ab872b331596/"
+    },
+    {
+      "uid": "719c2bcc75628cca",
+      "title": "product expert – veeva rim submissions, archive, and publishing",
+      "company": "veeva systems",
+      "description": "You will act as a Product Expert supporting Veeva's RIM products, creating problem statements and advocating for customer needs while collaborating with product managers to shape the roadmap.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-17",
+      "salary": {
+        "min": 6875,
+        "max": 11276,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/719c2bcc75628cca/",
+      "link": "https://www.piperpiperpiper.com/jobs/719c2bcc75628cca/"
     },
     {
       "uid": "788e07aa9d4ac466",
@@ -6409,7 +8001,7 @@
       "posted": "2026-09-16",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6473,8 +8065,8 @@
       ],
       "posted": "2026-09-16",
       "salary": {
-        "min": 6146,
-        "max": 18579,
+        "min": 6042,
+        "max": 17916,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6501,7 +8093,7 @@
       "posted": "2026-09-16",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6557,7 +8149,7 @@
       "posted": "2026-09-15",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6584,7 +8176,7 @@
       "posted": "2026-09-14",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6649,7 +8241,7 @@
       "posted": "2026-09-14",
       "salary": {
         "min": 6354,
-        "max": 12500,
+        "max": 13334,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6676,7 +8268,7 @@
       "posted": "2026-09-12",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6794,7 +8386,7 @@
       "posted": "2026-09-10",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6848,7 +8440,7 @@
       "posted": "2026-09-09",
       "salary": {
         "min": 5417,
-        "max": 12061,
+        "max": 12292,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6875,7 +8467,7 @@
       "posted": "2026-09-08",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6902,7 +8494,7 @@
       "posted": "2026-09-07",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6929,7 +8521,7 @@
       "posted": "2026-09-07",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6955,8 +8547,8 @@
       ],
       "posted": "2026-09-07",
       "salary": {
-        "min": 5778,
-        "max": 11216,
+        "min": 5000,
+        "max": 10784,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6983,7 +8575,7 @@
       "posted": "2026-09-05",
       "salary": {
         "min": 6102,
-        "max": 10513,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7010,7 +8602,7 @@
       "posted": "2026-09-04",
       "salary": {
         "min": 6875,
-        "max": 16980,
+        "max": 11276,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7046,6 +8638,63 @@
       "link": "https://www.piperpiperpiper.com/jobs/83f1deadf64b5108/"
     },
     {
+      "uid": "4cd8f46cff1cfae7",
+      "title": "major gifts officer",
+      "company": "mozilla",
+      "description": "You will act as the Major Gifts Officer, personally identifying and closing high-value donor commitments while managing a portfolio of relationships through cultivation, solicitation, and stewardship activities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "DEU",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-09-03",
+      "salary": {
+        "min": 8261,
+        "max": 15502,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/4cd8f46cff1cfae7/",
+      "link": "https://www.piperpiperpiper.com/jobs/4cd8f46cff1cfae7/"
+    },
+    {
+      "uid": "d1d35dcea6d6d1ba",
+      "title": "product expert - clinical operations",
+      "company": "veeva systems",
+      "description": "You will lead user communities in Europe, represent the product organization at customer meetings, and relay patient needs to inform clinical trial designs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-02",
+      "salary": {
+        "min": 4792,
+        "max": 11820,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/d1d35dcea6d6d1ba/",
+      "link": "https://www.piperpiperpiper.com/jobs/d1d35dcea6d6d1ba/"
+    },
+    {
       "uid": "39f1b8355707714b",
       "title": "platform security engineer (amer/apac)",
       "company": "supabase",
@@ -7064,7 +8713,7 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7091,7 +8740,7 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7118,7 +8767,7 @@
       "posted": "2026-09-02",
       "salary": {
         "min": 7083,
-        "max": 8906,
+        "max": 8854,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7127,58 +8776,451 @@
       "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
     },
     {
-      "uid": "367ec1ec12a79efc",
-      "title": "engineering manager - experimentation",
-      "company": "spotify",
-      "description": "You will lead an engineering team across Europe, mentor engineers on technical best practices, and foster a culture of creativity and collaboration while ensuring high-quality delivery.",
+      "uid": "74187e349491f275",
+      "title": "compensation & total rewards",
+      "company": "elevenlabs",
+      "description": "You will design and own the global compensation strategy, including equity programs, while partnering with Operations, Legal, and Finance to build scalable systems across 46+ countries.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
       "verified": false,
-      "source": "lever",
+      "source": "ashby",
       "reach": [
         "worldwide"
       ],
       "open": [
         "GBR"
       ],
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "salary": {
-        "min": 6250,
-        "max": 7916,
+        "min": 4792,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
-      "url": "https://www.alldaycity.com/l/367ec1ec12a79efc/",
-      "link": "https://www.piperpiperpiper.com/jobs/367ec1ec12a79efc/"
+      "url": "https://www.alldaycity.com/l/74187e349491f275/",
+      "link": "https://www.piperpiperpiper.com/jobs/74187e349491f275/"
     },
     {
-      "uid": "4e145b90219903b1",
-      "title": "director - lims strategy - cpg & f&b",
-      "company": "veeva systems",
-      "description": "You will architect and execute commercial strategy for the LIMS product line across Food & Beverage, CPG, and Chemical Ingredients sectors, acting as a bridge between sales, marketing, and product teams to deliver industry thought leadership.",
-      "type": "job",
-      "hub": "global",
+      "uid": "ee02f0b94b0c4156",
+      "title": "room, SW6",
+      "description": "furnished, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "lever",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-08-31",
+      "posted": "2026-11-01",
       "salary": {
-        "min": 5834,
-        "max": 8367,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$1,233 / month (≈£920)"
       },
-      "url": "https://www.alldaycity.com/l/4e145b90219903b1/",
-      "link": "https://www.piperpiperpiper.com/jobs/4e145b90219903b1/"
+      "url": "https://www.alldaycity.com/l/ee02f0b94b0c4156/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/319914"
+    },
+    {
+      "uid": "dfbb149c9305c270",
+      "title": "room, E15",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,206 / month (≈£900)"
+      },
+      "url": "https://www.alldaycity.com/l/dfbb149c9305c270/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090064"
+    },
+    {
+      "uid": "c38db382e099d01c",
+      "title": "room, SW6",
+      "description": "furnished, minimum stay 3 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,367 / month (≈£1,020)"
+      },
+      "url": "https://www.alldaycity.com/l/c38db382e099d01c/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/319912"
+    },
+    {
+      "uid": "be436e4134990ad9",
+      "title": "room, N17",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$925 / month (≈£690)"
+      },
+      "url": "https://www.alldaycity.com/l/be436e4134990ad9/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-white-hart-lane-n17/3090057"
+    },
+    {
+      "uid": "bd151e6052ad30b2",
+      "title": "room, SW6",
+      "description": "furnished, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,273 / month (≈£950)"
+      },
+      "url": "https://www.alldaycity.com/l/bd151e6052ad30b2/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/319911"
+    },
+    {
+      "uid": "b13440835269afad",
+      "title": "studio, SW5",
+      "description": "furnished, available from 09 november 2026, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,412 / month (≈£1,800)"
+      },
+      "url": "https://www.alldaycity.com/l/b13440835269afad/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-philbeach-gardens-sw5/3090060"
+    },
+    {
+      "uid": "93bb013c9deec865",
+      "title": "studio, clapton",
+      "description": "furnished, available from 22 november 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,310 / month (≈£2,470)"
+      },
+      "url": "https://www.alldaycity.com/l/93bb013c9deec865/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315679p"
+    },
+    {
+      "uid": "82c728ee00ba8cd6",
+      "title": "studio, hans town, SW3",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,264 / month (≈£4,675)"
+      },
+      "url": "https://www.alldaycity.com/l/82c728ee00ba8cd6/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/971469"
+    },
+    {
+      "uid": "7dbb68782ec84ee3",
+      "title": "room, N17",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,105 / month (≈£825)"
+      },
+      "url": "https://www.alldaycity.com/l/7dbb68782ec84ee3/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lordship-lane-n17/3090061"
+    },
+    {
+      "uid": "7d89ca68be9d5083",
+      "title": "room, N17",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,105 / month (≈£825)"
+      },
+      "url": "https://www.alldaycity.com/l/7d89ca68be9d5083/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brantwood-road-n17/3090053"
+    },
+    {
+      "uid": "7c94df45bd07090d",
+      "title": "3 bed flat, clapton",
+      "description": "furnished, available from 17 november 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,564 / month (≈£4,899)"
+      },
+      "url": "https://www.alldaycity.com/l/7c94df45bd07090d/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/lon-1633859p"
+    },
+    {
+      "uid": "69d10ae5487085f9",
+      "title": "2 bed flat, SE19",
+      "description": "available from 02 november 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,613 / month (≈£1,950)"
+      },
+      "url": "https://www.alldaycity.com/l/69d10ae5487085f9/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-glencar-court-se19/3090046"
+    },
+    {
+      "uid": "47e53a1c59784958",
+      "title": "2 bed flat, SW5",
+      "description": "furnished, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,408 / month (≈£4,036)"
+      },
+      "url": "https://www.alldaycity.com/l/47e53a1c59784958/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/320439"
+    },
+    {
+      "uid": "4614124abe57f949",
+      "title": "room, N9",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,139 / month (≈£850)"
+      },
+      "url": "https://www.alldaycity.com/l/4614124abe57f949/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lowden-road-n9/3090058"
+    },
+    {
+      "uid": "3a2a539e9d425838",
+      "title": "room, SW6",
+      "description": "furnished, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,179 / month (≈£880)"
+      },
+      "url": "https://www.alldaycity.com/l/3a2a539e9d425838/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/319913"
+    },
+    {
+      "uid": "1d7b7cbfbcd3fc16",
+      "title": "room, E6",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$925 / month (≈£690)"
+      },
+      "url": "https://www.alldaycity.com/l/1d7b7cbfbcd3fc16/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090063"
+    },
+    {
+      "uid": "0f8729ba7fa491ac",
+      "title": "2 bed flat, clapton",
+      "description": "furnished, available from 2 november 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$4,954 / month (≈£3,697)"
+      },
+      "url": "https://www.alldaycity.com/l/0f8729ba7fa491ac/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/lon-1606627p"
+    },
+    {
+      "uid": "0e1751689c894074",
+      "title": "room, E15",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,206 / month (≈£900)"
+      },
+      "url": "https://www.alldaycity.com/l/0e1751689c894074/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090045"
+    },
+    {
+      "uid": "06455742d48f1313",
+      "title": "1 bed flat, clapton",
+      "description": "furnished, available from 27 november 2026",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,185 / month (≈£2,377)"
+      },
+      "url": "https://www.alldaycity.com/l/06455742d48f1313/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315688p"
+    },
+    {
+      "uid": "0539cbfa49178eed",
+      "title": "room, E6",
+      "description": "furnished, available from today, minimum stay 2 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "openrent",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-01",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$925 / month (≈£690)"
+      },
+      "url": "https://www.alldaycity.com/l/0539cbfa49178eed/",
+      "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090039"
     },
     {
       "uid": "f54eac5faa35e967",
