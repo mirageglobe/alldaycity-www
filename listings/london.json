@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 351,
+  "count": 355,
   "listings": [
     {
       "uid": "0000003",
@@ -124,6 +124,946 @@
       "link": "https://theflowerclubldn.co.uk"
     },
     {
+      "uid": "1720fceee7248e7b",
+      "title": "engineering manager - pipelines",
+      "company": "supabase",
+      "description": "You will lead the Pipelines team responsible for managing change data capture products that stream table changes from Supabase to destinations like BigQuery and Snowflake.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/1720fceee7248e7b/",
+      "link": "https://www.piperpiperpiper.com/jobs/1720fceee7248e7b/"
+    },
+    {
+      "uid": "f128594e629708c2",
+      "title": "senior backend engineer",
+      "company": "fever",
+      "description": "You will design and implement end-to-end features within an engineering squad, collaborate with product and data teams, and lead architectural discussions while ensuring high performance and reliability.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 4617,
+        "max": 6926,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/f128594e629708c2/",
+      "link": "https://www.piperpiperpiper.com/jobs/f128594e629708c2/"
+    },
+    {
+      "uid": "67fdde5fd53f24ad",
+      "title": "sr. software engineer, cloud platform",
+      "company": "samsara",
+      "description": "You will design and operate reliable cloud infrastructure on AWS, focusing on compute orchestration, networking, and stateful systems. You will lead modernization efforts to reduce production risk while mentoring engineers and ensuring scalable, resilient architectures that support customer safety and operational efficiency.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 6458,
+        "max": 7500,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/67fdde5fd53f24ad/",
+      "link": "https://www.piperpiperpiper.com/jobs/67fdde5fd53f24ad/"
+    },
+    {
+      "uid": "38c7ffee6626639f",
+      "title": "senior security engineer - enterprise security",
+      "company": "samsara",
+      "description": "You will co-own the day-to-day operation of enterprise endpoint security, including triaging incidents, tuning visibility tools, writing documentation, and mentoring engineers while maintaining zero trust policies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/38c7ffee6626639f/",
+      "link": "https://www.piperpiperpiper.com/jobs/38c7ffee6626639f/"
+    },
+    {
+      "uid": "ff0285ceb11ae472",
+      "title": "assistant site manager - events (bristol)",
+      "company": "fever",
+      "description": "You will manage the day-to-day operations of a high-traffic VR venue in Bristol, including technical setup, staff supervision, health & safety compliance, and customer experience. You will also act as temporary full-time cover for the Event Manager during holidays or absences, handling all operational duties independently.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 3676,
+        "max": 3676,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/ff0285ceb11ae472/",
+      "link": "https://www.piperpiperpiper.com/jobs/ff0285ceb11ae472/"
+    },
+    {
+      "uid": "178da4bf1e97772c",
+      "title": "director of platform engineering [gn] data intelligence platform",
+      "company": "actian",
+      "description": "You will lead a newly formed platform team by designing cloud-agnostic infrastructure services, writing infrastructure code, and establishing engineering standards while managing the hiring and growth of engineers across AWS, Azure, Google Cloud, and on-premises environments.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "DEU",
+        "ESP",
+        "FRA",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 6300,
+        "max": 13821,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/178da4bf1e97772c/",
+      "link": "https://www.piperpiperpiper.com/jobs/178da4bf1e97772c/"
+    },
+    {
+      "uid": "1cc5592329d379fb",
+      "title": "account executive - emea specialist",
+      "company": "samsara",
+      "description": "You will act as an Enterprise Specialist (Overlay) responsible for leading go-to-market execution for new Connected Equipment products.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 6102,
+        "max": 11539,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/1cc5592329d379fb/",
+      "link": "https://www.piperpiperpiper.com/jobs/1cc5592329d379fb/"
+    },
+    {
+      "uid": "375b62145b7ec61f",
+      "title": "customer success",
+      "company": "thynk",
+      "description": "You will own the post-implementation customer lifecycle from adoption through renewal readiness, acting as the primary customer owner to drive value realization while collaborating with Product, Sales, and Professional Services teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "UKR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 4896,
+        "max": 6589,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/375b62145b7ec61f/",
+      "link": "https://www.piperpiperpiper.com/jobs/375b62145b7ec61f/"
+    },
+    {
+      "uid": "94451209dbdd6342",
+      "title": "marketing intern",
+      "company": "launchmetrics",
+      "description": "You will research industry trends, analyze performance data, create marketing content, and collaborate with teams across different countries to support campaigns.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR",
+        "ITA"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 4166,
+        "max": 10416,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/94451209dbdd6342/",
+      "link": "https://www.piperpiperpiper.com/jobs/94451209dbdd6342/"
+    },
+    {
+      "uid": "19d7c60cd5567d33",
+      "title": "senior biostatistician (fsp + remote)",
+      "company": "cytel",
+      "description": "You will perform ad-hoc analyses, support regulatory submissions, and manage medium-complexity trials from design to archival phases while collaborating with clinical and regulatory teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR",
+        "POL",
+        "SWE"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 6458,
+        "max": 7500,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/19d7c60cd5567d33/",
+      "link": "https://www.piperpiperpiper.com/jobs/19d7c60cd5567d33/"
+    },
+    {
+      "uid": "f7fd357469a41b67",
+      "title": "senior react full-stack developer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior React Full-stack Engineer, collaborating with clients on technical projects while managing end-to-end development cycles.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-11-10",
+      "salary": {
+        "min": 6300,
+        "max": 13821,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f7fd357469a41b67/",
+      "link": "https://www.piperpiperpiper.com/jobs/f7fd357469a41b67/"
+    },
+    {
+      "uid": "3bff46d31358d6c0",
+      "title": "account partner - safety",
+      "company": "veeva systems",
+      "description": "You will lead the strategic expansion of safety solutions for major pharmaceutical clients, drive digital transformation in pharmacovigilance operations, and cultivate deep C-suite relationships while collaborating with internal teams.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-10",
+      "salary": {
+        "min": 6102,
+        "max": 11222,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/3bff46d31358d6c0/",
+      "link": "https://www.piperpiperpiper.com/jobs/3bff46d31358d6c0/"
+    },
+    {
+      "uid": "daa624e908c1483c",
+      "title": "field marketing manager, europe",
+      "company": "linear",
+      "description": "You will manage the executive dinner calendar across multiple cities, select venues, negotiate contracts, and coordinate logistics while collaborating with Sales to track attendance and influence pipeline.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-10",
+      "salary": {
+        "min": 4166,
+        "max": 10416,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/daa624e908c1483c/",
+      "link": "https://www.piperpiperpiper.com/jobs/daa624e908c1483c/"
+    },
+    {
+      "uid": "b5c99c515f8fd70c",
+      "title": "senior product manager",
+      "company": "pencil",
+      "description": "You will own the Workflows and Integrations product, designing templates and third-party connections for Scribble agents to build and run ad campaigns.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-08",
+      "salary": {
+        "min": 7083,
+        "max": 18485,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b5c99c515f8fd70c/",
+      "link": "https://www.piperpiperpiper.com/jobs/b5c99c515f8fd70c/"
+    },
+    {
+      "uid": "f200a35abe99dba6",
+      "title": "direct response creative strategist (long-form video ads – scaling 7-figure ecom brand)",
+      "company": "tegnorim llc",
+      "description": "You will craft compelling long-form video ad scripts (3–9 minutes) for cold traffic, analyze performance data to extract learnings, and collaborate with editors and media buyers while developing new creative angles based on emotional triggers and belief systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GHA",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ISR",
+        "ITA",
+        "JPN",
+        "KEN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NGA",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SAU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM",
+        "ZAF"
+      ],
+      "posted": "2026-11-07",
+      "salary": {
+        "min": 4166,
+        "max": 10416,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f200a35abe99dba6/",
+      "link": "https://www.piperpiperpiper.com/jobs/f200a35abe99dba6/"
+    },
+    {
+      "uid": "8ac10a5811f8f918",
+      "title": "chief of staff to the ceo",
+      "company": "mozilla",
+      "description": "You will serve as the CEO's strategic partner by translating their priorities into clear organizational alignment, representing them internally, and making decisions on their behalf within delegated authority while ensuring high-stakes external communications are prepared.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "CAN",
+        "DEU",
+        "GBR",
+        "USA"
+      ],
+      "posted": "2026-11-06",
+      "salary": {
+        "min": 4774,
+        "max": 11666,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/8ac10a5811f8f918/",
+      "link": "https://www.piperpiperpiper.com/jobs/8ac10a5811f8f918/"
+    },
+    {
+      "uid": "f5fa120df078a0fe",
+      "title": "support engineer",
+      "company": "circleci",
+      "description": "You will build and manage AI agents that answer customer questions, test their accuracy, fix errors, and resolve complex problems requiring human intervention.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-06",
+      "salary": {
+        "min": 6849,
+        "max": 8533,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/f5fa120df078a0fe/",
+      "link": "https://www.piperpiperpiper.com/jobs/f5fa120df078a0fe/"
+    },
+    {
+      "uid": "4eb5ac9a4119d843",
+      "title": "operations expert with python for ai supply chain task design",
+      "company": "toptal",
+      "description": "You will design real-world planning scenarios, write executable solutions within 75 minutes, build automated verification scripts, and document SOPs to ensure consistent evaluation of production systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 4774,
+        "max": 11666,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/4eb5ac9a4119d843/",
+      "link": "https://www.piperpiperpiper.com/jobs/4eb5ac9a4119d843/"
+    },
+    {
+      "uid": "ff9fa8246904ac8f",
+      "title": "ml inference engineer – terminal-bench task designer (vllm / sglang / tensorrt-llm)",
+      "company": "toptal",
+      "description": "You will design complex, end-to-end terminal-based challenges using PyTorch or JAX, build automated verification systems to detect silent failures like numerical drift, and package reproducible Dockerized environments for rigorous testing.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 5986,
+        "max": 17885,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ff9fa8246904ac8f/",
+      "link": "https://www.piperpiperpiper.com/jobs/ff9fa8246904ac8f/"
+    },
+    {
+      "uid": "66593490fc77ed3f",
+      "title": "agile program manager",
+      "company": "toptal",
+      "description": "You will lead cross-functional Agile teams in planning, managing risks, and delivering business value through program-level coordination.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 4774,
+        "max": 11666,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/66593490fc77ed3f/",
+      "link": "https://www.piperpiperpiper.com/jobs/66593490fc77ed3f/"
+    },
+    {
+      "uid": "2549571389fe16ab",
+      "title": "strategic account director",
+      "company": "decagon",
+      "description": "You will act as a Strategic Account Director to develop and close key deals with large enterprise clients by building deep relationships with C-suite stakeholders and defining tailored solutions.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 25959,
+        "max": 28168,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/2549571389fe16ab/",
+      "link": "https://www.piperpiperpiper.com/jobs/2549571389fe16ab/"
+    },
+    {
+      "uid": "ef48d0fc71b59246",
+      "title": "account partner - quality",
+      "company": "veeva systems",
+      "description": "You will drive growth by generating new business opportunities and building strategic customer relationships across the Life Sciences Contract Services, CMO, and Generics markets.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-04",
+      "salary": {
+        "min": 6102,
+        "max": 11222,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ef48d0fc71b59246/",
+      "link": "https://www.piperpiperpiper.com/jobs/ef48d0fc71b59246/"
+    },
+    {
+      "uid": "a2a9edbec96d73a7",
+      "title": "sr. manager, product design",
+      "company": "highlevel",
+      "description": "You will lead a team of eight product designers across the United States and India, managing core platform experiences, mobile interfaces, and the design system strategy while applying AI-assisted workflows to accelerate development.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-03",
+      "salary": {
+        "min": 12703,
+        "max": 16349,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/a2a9edbec96d73a7/",
+      "link": "https://www.piperpiperpiper.com/jobs/a2a9edbec96d73a7/"
+    },
+    {
       "uid": "92be49756dbe68a0",
       "title": "senior professional services engineer",
       "company": "gitlab",
@@ -143,8 +1083,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -243,8 +1183,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -274,7 +1214,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -393,7 +1333,7 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -424,7 +1364,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 6102,
-        "max": 10791,
+        "max": 11539,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -516,8 +1456,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -609,8 +1549,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -740,8 +1680,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -833,7 +1773,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -907,7 +1847,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 5208,
-        "max": 13250,
+        "max": 13938,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -961,7 +1901,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -988,7 +1928,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1021,8 +1961,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1054,8 +1994,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1179,8 +2119,8 @@
       ],
       "posted": "2026-10-30",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1244,8 +2184,8 @@
       ],
       "posted": "2026-10-30",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1393,7 +2333,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 6102,
-        "max": 10791,
+        "max": 11539,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1451,7 +2391,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 6102,
-        "max": 10791,
+        "max": 11539,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1662,8 +2602,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1689,8 +2629,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1818,8 +2758,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1883,7 +2823,7 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -2019,8 +2959,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2046,8 +2986,8 @@
       ],
       "posted": "2026-10-28",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2074,7 +3014,7 @@
       "posted": "2026-10-28",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2166,7 +3106,7 @@
       "posted": "2026-10-27",
       "salary": {
         "min": 6102,
-        "max": 10791,
+        "max": 11539,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2236,8 +3176,8 @@
       ],
       "posted": "2026-10-27",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2291,7 +3231,7 @@
       "posted": "2026-10-27",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2436,8 +3376,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2491,7 +3431,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2596,7 +3536,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5417,
-        "max": 12500,
+        "max": 12916,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2626,7 +3566,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5000,
-        "max": 13004,
+        "max": 12751,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2653,8 +3593,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2684,8 +3624,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2765,8 +3705,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2899,7 +3839,7 @@
       ],
       "posted": "2026-10-23",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -3033,8 +3973,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3138,8 +4078,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3166,7 +4106,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3192,8 +4132,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3219,8 +4159,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3365,7 +4305,7 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -3576,8 +4516,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3630,8 +4570,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 7634,
-        "max": 16728,
+        "min": 7242,
+        "max": 16825,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3741,8 +4681,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3806,8 +4746,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4045,8 +4985,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4072,8 +5012,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4156,8 +5096,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7634,
-        "max": 16728,
+        "min": 7242,
+        "max": 16825,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4249,8 +5189,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4341,8 +5281,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4538,8 +5478,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4565,8 +5505,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4592,8 +5532,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4685,8 +5625,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4878,8 +5818,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4995,8 +5935,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5022,8 +5962,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5141,8 +6081,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 6488,
-        "max": 7604,
+        "min": 6458,
+        "max": 7500,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5252,7 +6192,7 @@
       "posted": "2026-10-15",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5307,8 +6247,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5372,7 +6312,7 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -5480,8 +6420,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5507,8 +6447,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4167,
-        "max": 10388,
+        "min": 4166,
+        "max": 10416,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5535,7 +6475,7 @@
       "posted": "2026-10-11",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5561,7 +6501,7 @@
       ],
       "posted": "2026-10-09",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -5708,7 +6648,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5826,7 +6766,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 5000,
-        "max": 13004,
+        "max": 12751,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5890,8 +6830,8 @@
       ],
       "posted": "2026-10-08",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5945,7 +6885,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5999,7 +6939,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6026,7 +6966,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6081,7 +7021,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6107,8 +7047,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6264,7 +7204,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6317,8 +7257,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6371,8 +7311,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6535,8 +7475,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6665,7 +7605,7 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6692,7 +7632,7 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6853,8 +7793,8 @@
       ],
       "posted": "2026-09-30",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6881,7 +7821,7 @@
       "posted": "2026-09-30",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6973,7 +7913,7 @@
       "posted": "2026-09-30",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7027,7 +7967,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7053,8 +7993,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7081,7 +8021,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7108,7 +8048,7 @@
       "posted": "2026-09-29",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7134,8 +8074,8 @@
       ],
       "posted": "2026-09-28",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7161,8 +8101,8 @@
       ],
       "posted": "2026-09-25",
       "salary": {
-        "min": 5417,
-        "max": 12292,
+        "min": 5521,
+        "max": 12390,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7240,7 +8180,7 @@
       ],
       "posted": "2026-09-24",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -7267,7 +8207,7 @@
       ],
       "posted": "2026-09-23",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -7350,8 +8290,8 @@
       ],
       "posted": "2026-09-22",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7505,8 +8445,8 @@
       ],
       "posted": "2026-09-18",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7580,10 +8520,75 @@
       "link": "https://www.piperpiperpiper.com/jobs/f32e4c3e4a14b503/"
     },
     {
+      "uid": "ad17fccecde06b93",
+      "title": "business manager, go-to-market",
+      "company": "oyster",
+      "description": "You will act as Business Manager for the Go-To-Market organisation, translating strategy into operational plans while collaborating with VPs of Sales, Marketing, Partnerships, and RevOps to drive cross-functional initiatives.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-09-18",
+      "salary": {
+        "min": 5417,
+        "max": 12916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ad17fccecde06b93/",
+      "link": "https://www.piperpiperpiper.com/jobs/ad17fccecde06b93/"
+    },
+    {
       "uid": "6472a3902803da71",
       "title": "technical customer success manager - emea",
       "company": "posthog",
-      "description": "You will act as the primary customer success representative for 25 to 40 paying clients, handling technical troubleshooting, commercial inquiries, and relationship management while ensuring retention and growth.",
+      "description": "You will act as the primary customer success representative for 25 to 40 paying clients, handling technical troubleshooting, commercial inquiries, and relationship management while ensuring high retention rates.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
@@ -7645,71 +8650,6 @@
       "link": "https://www.piperpiperpiper.com/jobs/6472a3902803da71/"
     },
     {
-      "uid": "ad17fccecde06b93",
-      "title": "business manager, go-to-market",
-      "company": "oyster",
-      "description": "You will act as Business Manager for the Go-To-Market organisation, translating strategy into operational plans while collaborating with VPs of Sales, Marketing, Partnerships, and RevOps to drive cross-functional initiatives.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 5417,
-        "max": 12500,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/ad17fccecde06b93/",
-      "link": "https://www.piperpiperpiper.com/jobs/ad17fccecde06b93/"
-    },
-    {
       "uid": "734f12e73848a946",
       "title": "principal gsi partner manager - accenture (emea)",
       "company": "datadog",
@@ -7727,7 +8667,7 @@
       ],
       "posted": "2026-09-18",
       "salary": {
-        "min": 5901,
+        "min": 5834,
         "max": 8542,
         "currency": "USD",
         "period": "month",
@@ -7829,8 +8769,8 @@
       ],
       "posted": "2026-09-17",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8065,8 +9005,8 @@
       ],
       "posted": "2026-09-16",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8093,7 +9033,7 @@
       "posted": "2026-09-16",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8149,7 +9089,7 @@
       "posted": "2026-09-15",
       "salary": {
         "min": 6102,
-        "max": 10814,
+        "max": 11222,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8240,567 +9180,14 @@
       ],
       "posted": "2026-09-14",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/c2b47f49792df2a2/",
       "link": "https://www.piperpiperpiper.com/jobs/c2b47f49792df2a2/"
-    },
-    {
-      "uid": "668c8895064b9758",
-      "title": "engineering manager, billing",
-      "company": "supabase",
-      "description": "You will lead the Billing team responsible for monetization systems, managing subscriptions, usage-based billing, invoices, payments, and partner integrations like Stripe.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-12",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/668c8895064b9758/",
-      "link": "https://www.piperpiperpiper.com/jobs/668c8895064b9758/"
-    },
-    {
-      "uid": "c67f412ca0b164fd",
-      "title": "derivative sales analyst",
-      "company": "coinbase",
-      "description": "You will act as a Derivative Sales Analyst on the Institutional team, managing VIP trader relationships to drive volume while sourcing new clients from competitors and reporting market insights.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-11",
-      "salary": {
-        "min": 10051,
-        "max": 11168,
-        "currency": "USD",
-        "period": "month"
-      },
-      "url": "https://www.alldaycity.com/l/c67f412ca0b164fd/",
-      "link": "https://www.piperpiperpiper.com/jobs/c67f412ca0b164fd/"
-    },
-    {
-      "uid": "0171a50e0381d26c",
-      "title": "product support specialist, europe",
-      "company": "linear",
-      "description": "As a Product Support Specialist at Linear, you’ll contribute to the future of our product by surfacing customer feedback and insights, contributing to our technical documentation, and engaging a technical customer community via social channels.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-10",
-      "salary": {
-        "min": 4896,
-        "max": 6589,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/0171a50e0381d26c/",
-      "link": "https://www.piperpiperpiper.com/jobs/0171a50e0381d26c/"
-    },
-    {
-      "uid": "2481900dc54b2bae",
-      "title": "trust and safety policy, ads policy,  lead (europe)",
-      "company": "reddit",
-      "description": "You will develop and maintain complex advertising policies for the EMEA region, acting as a subject matter expert who collaborates with cross-functional teams to resolve high-stakes policy escalations.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-10",
-      "salary": {
-        "min": 5417,
-        "max": 12292,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/2481900dc54b2bae/",
-      "link": "https://www.piperpiperpiper.com/jobs/2481900dc54b2bae/"
-    },
-    {
-      "uid": "4b95e8d74f2714e2",
-      "title": "director of engineering - content platform (catalog)",
-      "company": "spotify",
-      "description": "You will lead the engineering team responsible for building core systems that manage and govern content throughout Spotify's ecosystem.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-09",
-      "salary": {
-        "min": 6250,
-        "max": 7916,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/4b95e8d74f2714e2/",
-      "link": "https://www.piperpiperpiper.com/jobs/4b95e8d74f2714e2/"
-    },
-    {
-      "uid": "66418a7d338881a9",
-      "title": "global indirect tax manager",
-      "company": "reddit",
-      "description": "You will manage Reddit's indirect tax operations for B2B and B2C revenue streams, handling registrations, compliance, payments, and system integrations across multiple jurisdictions while partnering with the business to translate complex requirements into scalable processes.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-09",
-      "salary": {
-        "min": 5417,
-        "max": 12292,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/66418a7d338881a9/",
-      "link": "https://www.piperpiperpiper.com/jobs/66418a7d338881a9/"
-    },
-    {
-      "uid": "9598507ebe9809be",
-      "title": "principal product manager - personalization",
-      "company": "spotify",
-      "description": "You will lead search personalization strategy, owning end-to-end product design for AI features like semantic search and reranking while managing two key squads.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-08",
-      "salary": {
-        "min": 6875,
-        "max": 11276,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/9598507ebe9809be/",
-      "link": "https://www.piperpiperpiper.com/jobs/9598507ebe9809be/"
-    },
-    {
-      "uid": "fb959f4ed8bde732",
-      "title": "channel manager - united kingdom",
-      "company": "jumpcloud",
-      "description": "You will act as a channel partner based in the UK, working with major industry players to accelerate JumpCloud's growth while reporting to the Manager, EMEA Channel Sales.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-07",
-      "salary": {
-        "min": 6102,
-        "max": 10814,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/fb959f4ed8bde732/",
-      "link": "https://www.piperpiperpiper.com/jobs/fb959f4ed8bde732/"
-    },
-    {
-      "uid": "cccdea5018b45911",
-      "title": "enterprise account executive, dach",
-      "company": "sanity",
-      "description": "You will act as an Enterprise Account Executive to own the full sales cycle, identifying prospects, closing deals with large enterprise clients, and mapping organizations from developers to C-suite while working closely with marketing and SDR teams.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-07",
-      "salary": {
-        "min": 6102,
-        "max": 10814,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/cccdea5018b45911/",
-      "link": "https://www.piperpiperpiper.com/jobs/cccdea5018b45911/"
-    },
-    {
-      "uid": "f715c0511cf54935",
-      "title": "analyst ii, credit",
-      "company": "affirm",
-      "description": "As a Merchant Risk Analyst, you will assess financial risk related to credit, fraud and identity associated with the merchants. You will also coordinate with cross-functional partners to assess non-financial risk – brand, reputational, legal and compliance risk.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-07",
-      "salary": {
-        "min": 5000,
-        "max": 10784,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/f715c0511cf54935/",
-      "link": "https://www.piperpiperpiper.com/jobs/f715c0511cf54935/"
-    },
-    {
-      "uid": "394626a0b897d0c5",
-      "title": "digital sales representative",
-      "company": "twilio",
-      "description": "You will act as a Digital Inside Sales Representative to acquire new customers from nonprofit and public sector organizations, manage sales cycles, and drive revenue growth while ensuring customer satisfaction.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-05",
-      "salary": {
-        "min": 6102,
-        "max": 10814,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/394626a0b897d0c5/",
-      "link": "https://www.piperpiperpiper.com/jobs/394626a0b897d0c5/"
-    },
-    {
-      "uid": "acb350f04ad71098",
-      "title": "senior product manager - audiobooks format foundations",
-      "company": "spotify",
-      "description": "You will lead audiobook product strategy within Core Experience, collaborating with the Audiobooks business unit to define features that help listeners discover and enjoy music.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-04",
-      "salary": {
-        "min": 6875,
-        "max": 11276,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/acb350f04ad71098/",
-      "link": "https://www.piperpiperpiper.com/jobs/acb350f04ad71098/"
-    },
-    {
-      "uid": "83f1deadf64b5108",
-      "title": "technical support engineer",
-      "company": "plaid",
-      "description": "You will troubleshoot customer issues using internal tools and documentation while managing support tickets from symptom to resolution, collaborating with engineering teams to resolve complex problems.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-04",
-      "salary": {
-        "min": 6250,
-        "max": 7916,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/83f1deadf64b5108/",
-      "link": "https://www.piperpiperpiper.com/jobs/83f1deadf64b5108/"
-    },
-    {
-      "uid": "4cd8f46cff1cfae7",
-      "title": "major gifts officer",
-      "company": "mozilla",
-      "description": "You will act as the Major Gifts Officer, personally identifying and closing high-value donor commitments while managing a portfolio of relationships through cultivation, solicitation, and stewardship activities.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "CAN",
-        "DEU",
-        "GBR",
-        "USA"
-      ],
-      "posted": "2026-09-03",
-      "salary": {
-        "min": 8261,
-        "max": 15502,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/4cd8f46cff1cfae7/",
-      "link": "https://www.piperpiperpiper.com/jobs/4cd8f46cff1cfae7/"
-    },
-    {
-      "uid": "d1d35dcea6d6d1ba",
-      "title": "product expert - clinical operations",
-      "company": "veeva systems",
-      "description": "You will lead user communities in Europe, represent the product organization at customer meetings, and relay patient needs to inform clinical trial designs.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 4792,
-        "max": 11820,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/d1d35dcea6d6d1ba/",
-      "link": "https://www.piperpiperpiper.com/jobs/d1d35dcea6d6d1ba/"
-    },
-    {
-      "uid": "39f1b8355707714b",
-      "title": "platform security engineer (amer/apac)",
-      "company": "supabase",
-      "description": "You will identify and reduce security risks across AWS, Kubernetes, containerized workloads, and platform infrastructure by conducting threat modeling, architecture reviews, and technical risk assessments.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/39f1b8355707714b/",
-      "link": "https://www.piperpiperpiper.com/jobs/39f1b8355707714b/"
-    },
-    {
-      "uid": "d1ba12073d47533e",
-      "title": "platform engineer - compute capacity",
-      "company": "supabase",
-      "description": "You will design and operate capacity planning systems to ensure compute supply meets demand across multiple regions. Your daily tasks involve building automation pipelines that reconcile committed reservations with actual running instances, while also designing robust metrics and alerting for early detection of resource shortages.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/d1ba12073d47533e/",
-      "link": "https://www.piperpiperpiper.com/jobs/d1ba12073d47533e/"
-    },
-    {
-      "uid": "a038374413efb46c",
-      "title": "software engineer - branching",
-      "company": "supabase",
-      "description": "You will design and build distributed systems to orchestrate CI/CD pipelines by managing ephemeral compute environments, scheduling thousands of concurrent builds, and ensuring reliable execution across AWS infrastructure.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/a038374413efb46c/",
-      "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
-    },
-    {
-      "uid": "74187e349491f275",
-      "title": "compensation & total rewards",
-      "company": "elevenlabs",
-      "description": "You will design and own the global compensation strategy, including equity programs, while partnering with Operations, Legal, and Finance to build scalable systems across 46+ countries.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 4792,
-        "max": 11820,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/74187e349491f275/",
-      "link": "https://www.piperpiperpiper.com/jobs/74187e349491f275/"
     },
     {
       "uid": "ee02f0b94b0c4156",

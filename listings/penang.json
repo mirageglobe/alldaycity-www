@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "penang",
-  "count": 80,
+  "count": 82,
   "listings": [
     {
       "uid": "0000003",
@@ -32,6 +32,329 @@
       ],
       "url": "https://www.alldaycity.com/l/0000006/",
       "link": "https://theforestorigin.com"
+    },
+    {
+      "uid": "1720fceee7248e7b",
+      "title": "engineering manager - pipelines",
+      "company": "supabase",
+      "description": "You will lead the Pipelines team responsible for managing change data capture products that stream table changes from Supabase to destinations like BigQuery and Snowflake.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/1720fceee7248e7b/",
+      "link": "https://www.piperpiperpiper.com/jobs/1720fceee7248e7b/"
+    },
+    {
+      "uid": "f7fd357469a41b67",
+      "title": "senior react full-stack developer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior React Full-stack Engineer, collaborating with clients on technical projects while managing end-to-end development cycles.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-11-10",
+      "salary": {
+        "min": 6300,
+        "max": 13821,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f7fd357469a41b67/",
+      "link": "https://www.piperpiperpiper.com/jobs/f7fd357469a41b67/"
+    },
+    {
+      "uid": "f200a35abe99dba6",
+      "title": "direct response creative strategist (long-form video ads – scaling 7-figure ecom brand)",
+      "company": "tegnorim llc",
+      "description": "You will craft compelling long-form video ad scripts (3–9 minutes) for cold traffic, analyze performance data to extract learnings, and collaborate with editors and media buyers while developing new creative angles based on emotional triggers and belief systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GHA",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ISR",
+        "ITA",
+        "JPN",
+        "KEN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NGA",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SAU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM",
+        "ZAF"
+      ],
+      "posted": "2026-11-07",
+      "salary": {
+        "min": 4166,
+        "max": 10416,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f200a35abe99dba6/",
+      "link": "https://www.piperpiperpiper.com/jobs/f200a35abe99dba6/"
+    },
+    {
+      "uid": "4eb5ac9a4119d843",
+      "title": "operations expert with python for ai supply chain task design",
+      "company": "toptal",
+      "description": "You will design real-world planning scenarios, write executable solutions within 75 minutes, build automated verification scripts, and document SOPs to ensure consistent evaluation of production systems.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 4774,
+        "max": 11666,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/4eb5ac9a4119d843/",
+      "link": "https://www.piperpiperpiper.com/jobs/4eb5ac9a4119d843/"
+    },
+    {
+      "uid": "ff9fa8246904ac8f",
+      "title": "ml inference engineer – terminal-bench task designer (vllm / sglang / tensorrt-llm)",
+      "company": "toptal",
+      "description": "You will design complex, end-to-end terminal-based challenges using PyTorch or JAX, build automated verification systems to detect silent failures like numerical drift, and package reproducible Dockerized environments for rigorous testing.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 5986,
+        "max": 17885,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ff9fa8246904ac8f/",
+      "link": "https://www.piperpiperpiper.com/jobs/ff9fa8246904ac8f/"
+    },
+    {
+      "uid": "66593490fc77ed3f",
+      "title": "agile program manager",
+      "company": "toptal",
+      "description": "You will lead cross-functional Agile teams in planning, managing risks, and delivering business value through program-level coordination.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-05",
+      "salary": {
+        "min": 4774,
+        "max": 11666,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/66593490fc77ed3f/",
+      "link": "https://www.piperpiperpiper.com/jobs/66593490fc77ed3f/"
     },
     {
       "uid": "aae8916dd1c8ddf7",
@@ -79,7 +402,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -106,7 +429,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -139,8 +462,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -398,8 +721,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6198,
-        "max": 7812,
+        "min": 6224,
+        "max": 8005,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -529,8 +852,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -748,8 +1071,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7634,
-        "max": 16728,
+        "min": 7242,
+        "max": 16825,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -775,8 +1098,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -802,8 +1125,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3964,
-        "max": 6302,
+        "min": 3891,
+        "max": 6406,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -829,8 +1152,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -856,8 +1179,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -883,8 +1206,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 4938,
-        "max": 10423,
+        "min": 5000,
+        "max": 10537,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1017,8 +1340,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 6042,
-        "max": 17916,
+        "min": 5986,
+        "max": 17885,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1071,8 +1394,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1206,7 +1529,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1233,7 +1556,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 17969,
+        "max": 18485,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1259,8 +1582,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1303,8 +1626,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1357,8 +1680,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 4792,
-        "max": 11820,
+        "min": 4774,
+        "max": 11666,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1494,8 +1817,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1538,8 +1861,8 @@
       ],
       "posted": "2026-09-23",
       "salary": {
-        "min": 6198,
-        "max": 7812,
+        "min": 6224,
+        "max": 8005,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1666,8 +1989,8 @@
       ],
       "posted": "2026-09-18",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1768,8 +2091,8 @@
       ],
       "posted": "2026-09-17",
       "salary": {
-        "min": 6354,
-        "max": 13334,
+        "min": 6300,
+        "max": 13821,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1830,114 +2153,6 @@
       },
       "url": "https://www.alldaycity.com/l/51562dc6e1a5083c/",
       "link": "https://www.piperpiperpiper.com/jobs/51562dc6e1a5083c/"
-    },
-    {
-      "uid": "668c8895064b9758",
-      "title": "engineering manager, billing",
-      "company": "supabase",
-      "description": "You will lead the Billing team responsible for monetization systems, managing subscriptions, usage-based billing, invoices, payments, and partner integrations like Stripe.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-12",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/668c8895064b9758/",
-      "link": "https://www.piperpiperpiper.com/jobs/668c8895064b9758/"
-    },
-    {
-      "uid": "39f1b8355707714b",
-      "title": "platform security engineer (amer/apac)",
-      "company": "supabase",
-      "description": "You will identify and reduce security risks across AWS, Kubernetes, containerized workloads, and platform infrastructure by conducting threat modeling, architecture reviews, and technical risk assessments.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/39f1b8355707714b/",
-      "link": "https://www.piperpiperpiper.com/jobs/39f1b8355707714b/"
-    },
-    {
-      "uid": "d1ba12073d47533e",
-      "title": "platform engineer - compute capacity",
-      "company": "supabase",
-      "description": "You will design and operate capacity planning systems to ensure compute supply meets demand across multiple regions. Your daily tasks involve building automation pipelines that reconcile committed reservations with actual running instances, while also designing robust metrics and alerting for early detection of resource shortages.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/d1ba12073d47533e/",
-      "link": "https://www.piperpiperpiper.com/jobs/d1ba12073d47533e/"
-    },
-    {
-      "uid": "a038374413efb46c",
-      "title": "software engineer - branching",
-      "company": "supabase",
-      "description": "You will design and build distributed systems to orchestrate CI/CD pipelines by managing ephemeral compute environments, scheduling thousands of concurrent builds, and ensuring reliable execution across AWS infrastructure.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-02",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/a038374413efb46c/",
-      "link": "https://www.piperpiperpiper.com/jobs/a038374413efb46c/"
     },
     {
       "uid": "fd57ed0f5e23daf2",
