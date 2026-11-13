@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "all",
-  "count": 2332,
+  "count": 2354,
   "listings": [
     {
       "uid": "0000003",
@@ -60247,6 +60247,468 @@
       "link": "https://www.piperpiperpiper.com/jobs/a6fb73a5539d8837/"
     },
     {
+      "uid": "f5cd129303d2f80f",
+      "title": "1 bed flat, abingdon, W8",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$6,416 / month (≈£4,840)"
+      },
+      "url": "https://www.alldaycity.com/l/f5cd129303d2f80f/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1750027"
+    },
+    {
+      "uid": "f455f34ec3770a08",
+      "title": "room, finsbury park, N7",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,113 / month (≈£840)"
+      },
+      "url": "https://www.alldaycity.com/l/f455f34ec3770a08/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/273148"
+    },
+    {
+      "uid": "ef54258522d847d1",
+      "title": "room, bayan baru",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$172 / month (≈RM700)"
+      },
+      "url": "https://www.alldaycity.com/l/ef54258522d847d1/",
+      "link": "https://www.ibilik.com/room-rentals/019c2d0e-f67d-73e2-92c8-fbfa93e77ee8/beautiful-female-room-bayan-baru-near-blepas-fiz-spice-sunshine-square"
+    },
+    {
+      "uid": "e6d29fd22eb88167",
+      "title": "room, relau",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$110 / month (≈RM450)"
+      },
+      "url": "https://www.alldaycity.com/l/e6d29fd22eb88167/",
+      "link": "https://www.ibilik.com/room-rentals/01a0c2d3-99aa-78c0-a071-871e610af4f6/middle-bedroom-with-queen-bed"
+    },
+    {
+      "uid": "cb38cca2b11c5c43",
+      "title": "room, KT5",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,380 / month (≈£1,041)"
+      },
+      "url": "https://www.alldaycity.com/l/cb38cca2b11c5c43/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/1748664"
+    },
+    {
+      "uid": "c94bf10da0701a6c",
+      "title": "room, finsbury park, N7",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,153 / month (≈£870)"
+      },
+      "url": "https://www.alldaycity.com/l/c94bf10da0701a6c/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/273149"
+    },
+    {
+      "uid": "acff49d97f5579a0",
+      "title": "room, relau",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$147 / month (≈RM600)"
+      },
+      "url": "https://www.alldaycity.com/l/acff49d97f5579a0/",
+      "link": "https://www.ibilik.com/room-rentals/01a03bee-0f66-7cf2-88e8-4bb7b5e59359/room-for-rent-setia-sky-vista-relau-sg-ara"
+    },
+    {
+      "uid": "81214bc1610663f2",
+      "title": "room, shibuya",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 6 min walk to sasazuka station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$426 / month (≈¥68,000)"
+      },
+      "url": "https://www.alldaycity.com/l/81214bc1610663f2/",
+      "link": "https://www.oakhouse.jp/eng/house/21"
+    },
+    {
+      "uid": "7efe56bf80328c5d",
+      "title": "1 bed flat, nagatachō",
+      "description": "furnished, available from 26 january 2027, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,004 / month (≈¥320,000)"
+      },
+      "url": "https://www.alldaycity.com/l/7efe56bf80328c5d/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-256"
+    },
+    {
+      "uid": "7b9c2d713c2ad08a",
+      "title": "room, relau",
+      "description": "single room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$137 / month (≈RM560)"
+      },
+      "url": "https://www.alldaycity.com/l/7b9c2d713c2ad08a/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae4-de98-7980-a784-87602976cdc9/cozy-private-room-at-the-golden-triangle-relau"
+    },
+    {
+      "uid": "7b383dae875db777",
+      "title": "room, bayan baru",
+      "description": "master room, private bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$245 / month (≈RM1,000)"
+      },
+      "url": "https://www.alldaycity.com/l/7b383dae875db777/",
+      "link": "https://www.ibilik.com/room-rentals/019c2cf2-6d6e-79e0-8eb7-8c3c137f39f4/master-room-arena-residence-near-blepas-fiz-spice-sunshine-square-limited-offer"
+    },
+    {
+      "uid": "793fe88412ba48d5",
+      "title": "room, sungai nibong",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$110 / month (≈RM450)"
+      },
+      "url": "https://www.alldaycity.com/l/793fe88412ba48d5/",
+      "link": "https://www.ibilik.com/room-rentals/019c0779-fbed-7601-9f21-5a3a9ac24b87/middle-room-iw7p"
+    },
+    {
+      "uid": "784ab1c100f627c5",
+      "title": "2 bed flat, nagatachō",
+      "description": "furnished, available from 16 november 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,450 / month (≈¥551,000)"
+      },
+      "url": "https://www.alldaycity.com/l/784ab1c100f627c5/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-255"
+    },
+    {
+      "uid": "70032eb621675234",
+      "title": "room, simpang ampat",
+      "description": "single room, shared bathroom, fully furnished, no minimum contract",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "roomz",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$135 / month (≈RM550)"
+      },
+      "url": "https://www.alldaycity.com/l/70032eb621675234/",
+      "link": "https://my.roomz.asia/rent/room/fglhhr/simpang-ampat-new-renovation-single-room-%EF%B8%8F-grab-it-fast-last-one-bukit-mertajam"
+    },
+    {
+      "uid": "43e7d7b3a574b403",
+      "title": "1 bed flat, nagatachō",
+      "description": "furnished, available from 20 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,060 / month (≈¥329,000)"
+      },
+      "url": "https://www.alldaycity.com/l/43e7d7b3a574b403/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-294"
+    },
+    {
+      "uid": "40ee3310c93c201e",
+      "title": "room, bayan baru",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$167 / month (≈RM680)"
+      },
+      "url": "https://www.alldaycity.com/l/40ee3310c93c201e/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae3-4785-7ee0-9056-2bc128fc7254/cozy-middle-room-with-private-balcony-at-arena-residence-bayan-baru-xbnn"
+    },
+    {
+      "uid": "3ddf00192f3563de",
+      "title": "room, nakano",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 8 min walk to higashi nakano station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$426 / month (≈¥68,000)"
+      },
+      "url": "https://www.alldaycity.com/l/3ddf00192f3563de/",
+      "link": "https://www.oakhouse.jp/eng/house/9"
+    },
+    {
+      "uid": "3a8149aeafed3226",
+      "title": "2 bed flat, tottenham hale, N17",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$5,032 / month (≈£3,796)"
+      },
+      "url": "https://www.alldaycity.com/l/3a8149aeafed3226/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1748643"
+    },
+    {
+      "uid": "3693dc7cf8414a76",
+      "title": "room, gelugor",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$172 / month (≈RM700)"
+      },
+      "url": "https://www.alldaycity.com/l/3693dc7cf8414a76/",
+      "link": "https://www.ibilik.com/room-rentals/019bdafe-7457-76f0-9095-3fb0d4b28904/spacious-middle-room-at-jelutong-penang-near-blepas-fiz-egate"
+    },
+    {
+      "uid": "27bbb9a0de2673d6",
+      "title": "studio, harringay ladder, N4",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,856 / month (≈£1,400)"
+      },
+      "url": "https://www.alldaycity.com/l/27bbb9a0de2673d6/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/1214619"
+    },
+    {
+      "uid": "155738c9a24bb64e",
+      "title": "room, tanjung tokong",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$135 / month (≈RM550)"
+      },
+      "url": "https://www.alldaycity.com/l/155738c9a24bb64e/",
+      "link": "https://www.ibilik.com/room-rentals/01a0c2ae-7604-7420-8afb-e1e60c168f14/delux-middle-room-with-seaview-near-gurney-lotus-include-wifi-ac"
+    },
+    {
+      "uid": "0e3fcc7e44d26ffb",
+      "title": "room, finsbury park, N7",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
+      "tier": "discovered",
+      "verified": false,
+      "source": "spotahome",
+      "reach": [
+        "london"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$1,100 / month (≈£830)"
+      },
+      "url": "https://www.alldaycity.com/l/0e3fcc7e44d26ffb/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/273147"
+    },
+    {
       "uid": "fd57ed0f5e23daf2",
       "title": "room, pulau tikus",
       "description": "middle room, shared bathroom",
@@ -60262,7 +60724,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/fd57ed0f5e23daf2/",
       "link": "https://www.ibilik.com/room-rentals/019aeae4-185f-7db1-b5d8-dcb1f9453168/female-only-unit-room-with-spacious-balcony"
@@ -60283,7 +60745,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,296 / month (≈¥361,000)"
+        "raw": "$2,260 / month (≈¥361,000)"
       },
       "url": "https://www.alldaycity.com/l/fb0eac215b231e95/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-158"
@@ -60304,7 +60766,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$143 / month (≈RM580)"
+        "raw": "$142 / month (≈RM580)"
       },
       "url": "https://www.alldaycity.com/l/f6f942ea5b01099f/",
       "link": "https://www.ibilik.com/room-rentals/01a07aec-1133-7422-91b0-a235c4ba44e1/private-bedroom-in-the-spring-condo-penang"
@@ -60325,7 +60787,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,706 / month (≈¥740,000)"
+        "raw": "$4,634 / month (≈¥740,000)"
       },
       "url": "https://www.alldaycity.com/l/f528a1727b5a5526/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-266"
@@ -60346,7 +60808,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,233 / month (≈£920)"
+        "raw": "$1,220 / month (≈£920)"
       },
       "url": "https://www.alldaycity.com/l/ee02f0b94b0c4156/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319914"
@@ -60367,7 +60829,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,206 / month (≈£900)"
+        "raw": "$1,193 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/dfbb149c9305c270/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090064"
@@ -60388,7 +60850,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$271 / month (≈RM1,100)"
+        "raw": "$270 / month (≈RM1,100)"
       },
       "url": "https://www.alldaycity.com/l/d50bf6b3a480a132/",
       "link": "https://www.ibilik.com/room-rentals/01a0d1e9-fefb-73e2-824a-52afdeb937e8/master-room-for-rent-at-jelutong-penang"
@@ -60409,7 +60871,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$25,437 (≈¥4,000,000)"
+        "raw": "$25,047 (≈¥4,000,000)"
       },
       "url": "https://www.alldaycity.com/l/c9575f87a55e4f3b/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou41.pdf"
@@ -60430,7 +60892,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$509 / month (≈¥80,000)"
+        "raw": "$501 / month (≈¥80,000)"
       },
       "url": "https://www.alldaycity.com/l/c7d20f3da0cd392f/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosuyku18.pdf"
@@ -60451,7 +60913,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,367 / month (≈£1,020)"
+        "raw": "$1,352 / month (≈£1,020)"
       },
       "url": "https://www.alldaycity.com/l/c38db382e099d01c/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319912"
@@ -60472,7 +60934,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$925 / month (≈£690)"
+        "raw": "$915 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/be436e4134990ad9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-white-hart-lane-n17/3090057"
@@ -60493,7 +60955,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,273 / month (≈£950)"
+        "raw": "$1,259 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/bd151e6052ad30b2/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319911"
@@ -60514,7 +60976,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$99 / month (≈RM400)"
+        "raw": "$98 / month (≈RM400)"
       },
       "url": "https://www.alldaycity.com/l/b436a7813c108e0a/",
       "link": "https://www.ibilik.com/room-rentals/019e4373-dce9-75e1-a844-2eaef8677f36/bilik-butterworth-makmandin"
@@ -60535,7 +60997,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,412 / month (≈£1,800)"
+        "raw": "$2,386 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/b13440835269afad/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-philbeach-gardens-sw5/3090060"
@@ -60556,7 +61018,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$94,118 (≈¥14,800,000)"
+        "raw": "$92,674 (≈¥14,800,000)"
       },
       "url": "https://www.alldaycity.com/l/a03101ffd856f2c2/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/oozawa32-3.pdf"
@@ -60577,7 +61039,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,506 / month (≈¥394,000)"
+        "raw": "$2,467 / month (≈¥394,000)"
       },
       "url": "https://www.alldaycity.com/l/9beab01685a95aa1/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-25"
@@ -60598,7 +61060,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,310 / month (≈£2,470)"
+        "raw": "$3,274 / month (≈£2,470)"
       },
       "url": "https://www.alldaycity.com/l/93bb013c9deec865/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315679p"
@@ -60619,7 +61081,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$44,515 (≈¥7,000,000)"
+        "raw": "$43,832 (≈¥7,000,000)"
       },
       "url": "https://www.alldaycity.com/l/8e1747444ab3c16d/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou38.pdf"
@@ -60640,7 +61102,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,264 / month (≈£4,675)"
+        "raw": "$6,197 / month (≈£4,675)"
       },
       "url": "https://www.alldaycity.com/l/82c728ee00ba8cd6/",
       "link": "https://www.spotahome.com/london/for-rent:studios/971469"
@@ -60661,7 +61123,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,105 / month (≈£825)"
+        "raw": "$1,094 / month (≈£825)"
       },
       "url": "https://www.alldaycity.com/l/7dbb68782ec84ee3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lordship-lane-n17/3090061"
@@ -60682,7 +61144,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,105 / month (≈£825)"
+        "raw": "$1,094 / month (≈£825)"
       },
       "url": "https://www.alldaycity.com/l/7d89ca68be9d5083/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brantwood-road-n17/3090053"
@@ -60703,7 +61165,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,564 / month (≈£4,899)"
+        "raw": "$6,494 / month (≈£4,899)"
       },
       "url": "https://www.alldaycity.com/l/7c94df45bd07090d/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1633859p"
@@ -60724,7 +61186,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$63,593 (≈¥10,000,000)"
+        "raw": "$62,617 (≈¥10,000,000)"
       },
       "url": "https://www.alldaycity.com/l/723f7b2b94a2c6a4/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou39.pdf"
@@ -60745,7 +61207,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$191 / month (≈¥30,000)"
+        "raw": "$188 / month (≈¥30,000)"
       },
       "url": "https://www.alldaycity.com/l/6dee3d9edff5099b/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/mitsugou19.pdf"
@@ -60766,7 +61228,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$106 / month (≈RM430)"
+        "raw": "$105 / month (≈RM430)"
       },
       "url": "https://www.alldaycity.com/l/6dd096e98089c4a2/",
       "link": "https://www.ibilik.com/room-rentals/01a09e14-3d07-7af0-956e-255c9ab29081/single-aircond-room-at-serena-bay-condominium-georgetown-penang"
@@ -60787,7 +61249,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,613 / month (≈£1,950)"
+        "raw": "$2,585 / month (≈£1,950)"
       },
       "url": "https://www.alldaycity.com/l/69d10ae5487085f9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-glencar-court-se19/3090046"
@@ -60808,7 +61270,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,366 / month (≈¥372,000)"
+        "raw": "$2,329 / month (≈¥372,000)"
       },
       "url": "https://www.alldaycity.com/l/6735885826b4acd0/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-28"
@@ -60829,7 +61291,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,408 / month (≈£4,036)"
+        "raw": "$5,350 / month (≈£4,036)"
       },
       "url": "https://www.alldaycity.com/l/47e53a1c59784958/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/320439"
@@ -60850,7 +61312,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,139 / month (≈£850)"
+        "raw": "$1,127 / month (≈£850)"
       },
       "url": "https://www.alldaycity.com/l/4614124abe57f949/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lowden-road-n9/3090058"
@@ -60871,7 +61333,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$106 / month (≈RM430)"
+        "raw": "$105 / month (≈RM430)"
       },
       "url": "https://www.alldaycity.com/l/3f8368818c87a112/",
       "link": "https://www.ibilik.com/room-rentals/01a0d7b1-f48d-7822-97e2-46c4287493f5/bilik-perempuan-disewa-kat-usm-penang-sungai-dua"
@@ -60892,7 +61354,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,179 / month (≈£880)"
+        "raw": "$1,166 / month (≈£880)"
       },
       "url": "https://www.alldaycity.com/l/3a2a539e9d425838/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319913"
@@ -60913,7 +61375,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$318 / month (≈¥50,000)"
+        "raw": "$313 / month (≈¥50,000)"
       },
       "url": "https://www.alldaycity.com/l/3152fbf15dc66b2e/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosyuku17.pdf"
@@ -60934,7 +61396,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/31047d3dea240f6c/",
       "link": "https://www.ibilik.com/room-rentals/019aeae3-19df-7651-a2c1-22008cc3e26f/balcony-middle-room-midlands-condo-8222264"
@@ -60955,7 +61417,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$160 / month (≈RM650)"
+        "raw": "$159 / month (≈RM650)"
       },
       "url": "https://www.alldaycity.com/l/294508dd61a2ad57/",
       "link": "https://www.ibilik.com/room-rentals/01a0d641-21cd-7c43-a40f-4c3df88d55c4/medium-room-juru-sentral-icon-cityjuru-bukit-tengah-prai-indurtrial"
@@ -60976,7 +61438,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$143 / month (≈RM580)"
+        "raw": "$142 / month (≈RM580)"
       },
       "url": "https://www.alldaycity.com/l/24aaad6c40e2f34a/",
       "link": "https://www.ibilik.com/room-rentals/01a0d711-7a71-7480-b003-d1f663b7e433/palm-court-middle-room-female-only-fully-furnished-near-gurney-lotus"
@@ -60997,7 +61459,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$925 / month (≈£690)"
+        "raw": "$915 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/1d7b7cbfbcd3fc16/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090063"
@@ -61018,7 +61480,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,954 / month (≈£3,697)"
+        "raw": "$4,901 / month (≈£3,697)"
       },
       "url": "https://www.alldaycity.com/l/0f8729ba7fa491ac/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1606627p"
@@ -61039,7 +61501,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,206 / month (≈£900)"
+        "raw": "$1,193 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/0e1751689c894074/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090045"
@@ -61060,7 +61522,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$79,491 (≈¥12,500,000)"
+        "raw": "$78,272 (≈¥12,500,000)"
       },
       "url": "https://www.alldaycity.com/l/067b4c5cdffab5ed/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou31-2.pdf"
@@ -61081,7 +61543,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,185 / month (≈£2,377)"
+        "raw": "$3,151 / month (≈£2,377)"
       },
       "url": "https://www.alldaycity.com/l/06455742d48f1313/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315688p"
@@ -61102,7 +61564,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$925 / month (≈£690)"
+        "raw": "$915 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/0539cbfa49178eed/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090039"
@@ -61123,7 +61585,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,024 / month (≈£4,496)"
+        "raw": "$5,960 / month (≈£4,496)"
       },
       "url": "https://www.alldaycity.com/l/f54eac5faa35e967/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1591335p"
@@ -61144,7 +61606,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/e88961d6818a99d0/",
       "link": "https://my.roomz.asia/rent/room/emcgvn/cozy-landed-master-room-with-private-bathroom-coway-water-machine-for-rent-at-penang-batu-kawan-eco-horizon-ashton-collection-bkip-the-ship-campus-bandar-cassiai-ikea-penang-design-village"
@@ -61165,7 +61627,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$210 / month (≈RM850)"
+        "raw": "$208 / month (≈RM850)"
       },
       "url": "https://www.alldaycity.com/l/e1d20b50da5d29cf/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd3-68d3-7b61-b191-0fc76d0867a0/premium-balcony-room-queensbays-bayan-lepas-1fr1"
@@ -61186,7 +61648,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$136 / month (≈RM550)"
+        "raw": "$135 / month (≈RM550)"
       },
       "url": "https://www.alldaycity.com/l/d9d291eea501a0a7/",
       "link": "https://my.roomz.asia/rent/room/rxvmrt/fully-furnished-room-to-rent-medium-room-location-bukit-mertajam-taman-gemilang"
@@ -61207,7 +61669,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,785 / month (≈£5,810)"
+        "raw": "$7,701 / month (≈£5,810)"
       },
       "url": "https://www.alldaycity.com/l/c02c1ca42465a407/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002799"
@@ -61228,7 +61690,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,742 / month (≈£1,300)"
+        "raw": "$1,723 / month (≈£1,300)"
       },
       "url": "https://www.alldaycity.com/l/bb6a86220f7640f2/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-knighton-park-road-se26/261027"
@@ -61249,7 +61711,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,259 / month (≈£940)"
+        "raw": "$1,246 / month (≈£940)"
       },
       "url": "https://www.alldaycity.com/l/b9082ddeee4b97b6/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/303916"
@@ -61270,7 +61732,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,235 / month (≈£5,400)"
+        "raw": "$7,158 / month (≈£5,400)"
       },
       "url": "https://www.alldaycity.com/l/b2f0504417bd4dfd/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-viscount-house-nw10/54781"
@@ -61291,7 +61753,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,343 / month (≈£2,495)"
+        "raw": "$3,307 / month (≈£2,495)"
       },
       "url": "https://www.alldaycity.com/l/a90fd820794d4ac8/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-terraced-house-northcott-avenue-n22/157290"
@@ -61312,7 +61774,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$173 / month (≈RM700)"
+        "raw": "$172 / month (≈RM700)"
       },
       "url": "https://www.alldaycity.com/l/965f8ae1b0e36cf9/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc0-65f5-78c1-bc3d-82c704837161/bayan-lepasrelau-premium-medium-room-near-inti-fiz-queensbays"
@@ -61333,7 +61795,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,678 / month (≈£2,745)"
+        "raw": "$3,639 / month (≈£2,745)"
       },
       "url": "https://www.alldaycity.com/l/91c477ecbaf1a10f/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-hoxton-st-n1/187385"
@@ -61354,7 +61816,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$10,205 / month (≈£7,616)"
+        "raw": "$10,095 / month (≈£7,616)"
       },
       "url": "https://www.alldaycity.com/l/8e8d3073198b6005/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1513628p"
@@ -61375,7 +61837,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,072 / month (≈£800)"
+        "raw": "$1,060 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/82a5e3858c724e65/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-rainham-road-south-dagenham-rm10/38258"
@@ -61417,7 +61879,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,523 / month (≈£2,629)"
+        "raw": "$3,485 / month (≈£2,629)"
       },
       "url": "https://www.alldaycity.com/l/7acd8fb7b48e3b7a/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1583652p"
@@ -61438,7 +61900,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,641 / month (≈£4,210)"
+        "raw": "$5,581 / month (≈£4,210)"
       },
       "url": "https://www.alldaycity.com/l/7a06f4636a1e703d/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002534"
@@ -61459,7 +61921,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,322 / month (≈£1,733)"
+        "raw": "$2,298 / month (≈£1,733)"
       },
       "url": "https://www.alldaycity.com/l/7407ab44a4fa8291/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-st-marks-road-w7/260257"
@@ -61480,7 +61942,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,509 / month (≈£3,365)"
+        "raw": "$4,460 / month (≈£3,365)"
       },
       "url": "https://www.alldaycity.com/l/6b520d64bfedf90c/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1574081p"
@@ -61501,7 +61963,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,450 / month (≈£5,560)"
+        "raw": "$7,370 / month (≈£5,560)"
       },
       "url": "https://www.alldaycity.com/l/6a917ff9ced69dca/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002922"
@@ -61522,7 +61984,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/66d58d505dc0e370/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc5-4d14-7a33-88b9-c06280e280f9/premium-medium-room-bayan-lepasfor-rent"
@@ -61543,7 +62005,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/640b6985ce88e87e/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd0-f250-71a0-a299-4903c0bf2135/beautiful-room-with-private-balcony-bayan-lepas"
@@ -61564,7 +62026,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,412 / month (≈£1,800)"
+        "raw": "$2,386 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/5a14171a9d981b1e/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-maisonette-meadowview-road-se6/153397"
@@ -61585,7 +62047,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,333 / month (≈£995)"
+        "raw": "$1,319 / month (≈£995)"
       },
       "url": "https://www.alldaycity.com/l/427c57700ba20a82/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-charlton-road-se3/119851"
@@ -61606,7 +62068,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,690 / month (≈£3,500)"
+        "raw": "$4,639 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/3e64450f2c976dfb/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1017893"
@@ -61627,7 +62089,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$17,699 / month (≈£13,209)"
+        "raw": "$17,509 / month (≈£13,209)"
       },
       "url": "https://www.alldaycity.com/l/3864b92744abc545/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1548258p"
@@ -61648,7 +62110,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,015 / month (≈£2,250)"
+        "raw": "$2,983 / month (≈£2,250)"
       },
       "url": "https://www.alldaycity.com/l/371e67c0ceaa1052/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-maisonette-avenue-road-w3/325176"
@@ -61669,7 +62131,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,721 / month (≈£4,270)"
+        "raw": "$5,660 / month (≈£4,270)"
       },
       "url": "https://www.alldaycity.com/l/36851c492e84984f/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002507"
@@ -61690,7 +62152,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$185 / month (≈RM750)"
+        "raw": "$184 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/31e2e822a332ed79/",
       "link": "https://my.roomz.asia/rent/room/fxigzr/i-santorini-penang-cozy-design-fully-furnished-with-no-blocking-pool-view-deluxe-mid-room"
@@ -61711,7 +62173,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$180 / month (≈RM730)"
+        "raw": "$179 / month (≈RM730)"
       },
       "url": "https://www.alldaycity.com/l/2bb1c2bfa9f9b943/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd6-f008-7812-8b6b-d205d7564146/big-cozy-medium-roombayan-lepas-sungai-ara"
@@ -61732,7 +62194,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$160 / month (≈RM650)"
+        "raw": "$159 / month (≈RM650)"
       },
       "url": "https://www.alldaycity.com/l/2941327e2211c55f/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebbd-75f4-7e50-9146-62bd969e68a3/cozy-medium-room-for-rent-bayan-barulepas"
@@ -61753,7 +62215,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,246 / month (≈£930)"
+        "raw": "$1,233 / month (≈£930)"
       },
       "url": "https://www.alldaycity.com/l/2684070f335524e4/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/303919"
@@ -61774,7 +62236,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,698 / month (≈¥267,000)"
+        "raw": "$1,672 / month (≈¥267,000)"
       },
       "url": "https://www.alldaycity.com/l/224cbf39725e74bc/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-186"
@@ -61795,7 +62257,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$111 / month (≈RM450)"
+        "raw": "$110 / month (≈RM450)"
       },
       "url": "https://www.alldaycity.com/l/211b5303a1fdb5d6/",
       "link": "https://my.roomz.asia/rent/room/sqvzmp/medium-room-at-taman-kota-permai-bukit-mertajam"
@@ -61816,7 +62278,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$202 / month (≈RM820)"
+        "raw": "$201 / month (≈RM820)"
       },
       "url": "https://www.alldaycity.com/l/1c916b57d8bd65ad/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc9-c834-7a21-91a4-aed4cfa9da98/direct-owner-medium-room-for-rent-queensbays-bayan-lepas-7msb"
@@ -61837,7 +62299,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,774 / month (≈¥279,000)"
+        "raw": "$1,747 / month (≈¥279,000)"
       },
       "url": "https://www.alldaycity.com/l/15ad3c136c12ab9d/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-187"
@@ -61858,7 +62320,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$190 / month (≈RM770)"
+        "raw": "$189 / month (≈RM770)"
       },
       "url": "https://www.alldaycity.com/l/028274f6549bcf35/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc7-dd05-7cf3-ab43-af12b7f98f06/bayan-lepasbaru-beautiful-room-for-rent"
@@ -61879,7 +62341,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,886 / month (≈£2,900)"
+        "raw": "$3,844 / month (≈£2,900)"
       },
       "url": "https://www.alldaycity.com/l/fc30bef5a85cf5a1/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/227542"
@@ -61900,7 +62362,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,077 / month (≈£1,550)"
+        "raw": "$2,055 / month (≈£1,550)"
       },
       "url": "https://www.alldaycity.com/l/f8c60f1446a054d2/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clerkenwell-road-ec1r/3087759"
@@ -61921,7 +62383,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,514 / month (≈£1,130)"
+        "raw": "$1,498 / month (≈£1,130)"
       },
       "url": "https://www.alldaycity.com/l/f5af4048356675fc/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-agamemnon-road-nw6/3087812"
@@ -61942,7 +62404,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,407 / month (≈£1,050)"
+        "raw": "$1,392 / month (≈£1,050)"
       },
       "url": "https://www.alldaycity.com/l/f41f1bb769481063/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-stamford-hill-n16/3087796"
@@ -61963,7 +62425,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,809 / month (≈£1,350)"
+        "raw": "$1,790 / month (≈£1,350)"
       },
       "url": "https://www.alldaycity.com/l/f392cd0d23240956/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-london-road-sw17/3087791"
@@ -61984,7 +62446,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,253 / month (≈£935)"
+        "raw": "$1,239 / month (≈£935)"
       },
       "url": "https://www.alldaycity.com/l/ef3ca0e9d66c52c1/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-shannon-grove-sw9/3087809"
@@ -62005,7 +62467,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,190 / month (≈£4,620)"
+        "raw": "$6,124 / month (≈£4,620)"
       },
       "url": "https://www.alldaycity.com/l/ee6c1ba12a6ccebf/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322281"
@@ -62026,7 +62488,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$362 / month (≈¥57,000)"
+        "raw": "$357 / month (≈¥57,000)"
       },
       "url": "https://www.alldaycity.com/l/edf4b112f751f9d4/",
       "link": "https://www.oakhouse.jp/eng/house/118"
@@ -62047,7 +62509,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,690 / month (≈£3,500)"
+        "raw": "$4,639 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/ecd1903fa80a31d2/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1302496"
@@ -62068,7 +62530,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,278 / month (≈£1,700)"
+        "raw": "$2,253 / month (≈£1,700)"
       },
       "url": "https://www.alldaycity.com/l/e8934feb6bb1c525/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-caledonian-road-n7/3087774"
@@ -62089,7 +62551,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,013 / month (≈£2,995)"
+        "raw": "$3,970 / month (≈£2,995)"
       },
       "url": "https://www.alldaycity.com/l/e5986ebfdad90a0c/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-wembley-park-central-area-ha9/3087698"
@@ -62110,7 +62572,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,109 / month (≈£3,067)"
+        "raw": "$4,065 / month (≈£3,067)"
       },
       "url": "https://www.alldaycity.com/l/dc466c7eb09daf91/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1263036"
@@ -62131,7 +62593,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,782 / month (≈£1,330)"
+        "raw": "$1,763 / month (≈£1,330)"
       },
       "url": "https://www.alldaycity.com/l/dc3219ef73086f08/",
       "link": "https://www.spotahome.com/london/for-rent:studios/1317417"
@@ -62152,7 +62614,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,412 / month (≈£1,800)"
+        "raw": "$2,386 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/da7ad84f50a39b72/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-raymond-close-se26/3087728"
@@ -62173,7 +62635,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,736 / month (≈£2,788)"
+        "raw": "$3,696 / month (≈£2,788)"
       },
       "url": "https://www.alldaycity.com/l/d3f647fd93912080/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1301143"
@@ -62194,7 +62656,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,646 / month (≈£4,960)"
+        "raw": "$6,575 / month (≈£4,960)"
       },
       "url": "https://www.alldaycity.com/l/cd4f79c8b37f029c/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1305430"
@@ -62215,7 +62677,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$11,322 / month (≈£8,450)"
+        "raw": "$11,201 / month (≈£8,450)"
       },
       "url": "https://www.alldaycity.com/l/c839dcccaeae5c45/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-st-edmunds-terrace-nw8/3087714"
@@ -62236,7 +62698,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,412 / month (≈£1,800)"
+        "raw": "$2,386 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/c5b755b228912b50/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-broad-lane-n15/3087741"
@@ -62257,7 +62719,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$14,069 / month (≈£10,500)"
+        "raw": "$13,918 / month (≈£10,500)"
       },
       "url": "https://www.alldaycity.com/l/b9c75c7d4a37d5ca/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/928674"
@@ -62278,7 +62740,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$375 / month (≈¥59,000)"
+        "raw": "$369 / month (≈¥59,000)"
       },
       "url": "https://www.alldaycity.com/l/a8d4c5d75aac68a5/",
       "link": "https://www.oakhouse.jp/eng/house/72"
@@ -62299,7 +62761,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,474 / month (≈£1,100)"
+        "raw": "$1,458 / month (≈£1,100)"
       },
       "url": "https://www.alldaycity.com/l/a7a41728dfb93e67/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-princes-square-w2/3087841"
@@ -62320,7 +62782,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,924 / month (≈£5,914)"
+        "raw": "$7,839 / month (≈£5,914)"
       },
       "url": "https://www.alldaycity.com/l/a632fa7ed4eb5418/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322316"
@@ -62341,7 +62803,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,948 / month (≈£2,200)"
+        "raw": "$2,916 / month (≈£2,200)"
       },
       "url": "https://www.alldaycity.com/l/a37c99262d37e4c9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-sienna-alto-se13/3087792"
@@ -62362,7 +62824,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,568 / month (≈£1,170)"
+        "raw": "$1,551 / month (≈£1,170)"
       },
       "url": "https://www.alldaycity.com/l/9ef8a67d3ea51274/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-wayford-st-sw11/3087794"
@@ -62383,7 +62845,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,030 / month (≈£4,500)"
+        "raw": "$5,965 / month (≈£4,500)"
       },
       "url": "https://www.alldaycity.com/l/9adbe9271735a0fe/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1298990"
@@ -62404,7 +62866,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,699 / month (≈£5,000)"
+        "raw": "$6,628 / month (≈£5,000)"
       },
       "url": "https://www.alldaycity.com/l/93529d91a9151c28/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-queensway-w2/3087828"
@@ -62425,7 +62887,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,613 / month (≈£1,950)"
+        "raw": "$2,585 / month (≈£1,950)"
       },
       "url": "https://www.alldaycity.com/l/931e7ffd9be2b000/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-sinclair-road-w14/3087737"
@@ -62446,7 +62908,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,689 / month (≈£4,246)"
+        "raw": "$5,628 / month (≈£4,246)"
       },
       "url": "https://www.alldaycity.com/l/905cb9ce96e7916b/",
       "link": "https://www.spotahome.com/london/for-rent:studios/414609"
@@ -62467,7 +62929,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,862 / month (≈£4,375)"
+        "raw": "$5,799 / month (≈£4,375)"
       },
       "url": "https://www.alldaycity.com/l/8e96594be9353268/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-terraced-house-queensbridge-road-e8/3087846"
@@ -62488,7 +62950,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,948 / month (≈£2,200)"
+        "raw": "$2,916 / month (≈£2,200)"
       },
       "url": "https://www.alldaycity.com/l/8acc7377db96f538/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-essex-road-n1/3087813"
@@ -62509,7 +62971,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,082 / month (≈£2,300)"
+        "raw": "$3,049 / month (≈£2,300)"
       },
       "url": "https://www.alldaycity.com/l/870eaa026157e686/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-terraced-house-mitcham-road-e6/3087699"
@@ -62530,7 +62992,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,742 / month (≈£1,300)"
+        "raw": "$1,723 / month (≈£1,300)"
       },
       "url": "https://www.alldaycity.com/l/8626cae4703699b3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-cleveley-crescent-w5/3087858"
@@ -62551,7 +63013,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,210 / month (≈£3,142)"
+        "raw": "$4,165 / month (≈£3,142)"
       },
       "url": "https://www.alldaycity.com/l/855f09a05ed23375/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322224"
@@ -62572,7 +63034,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,689 / month (≈£4,246)"
+        "raw": "$5,628 / month (≈£4,246)"
       },
       "url": "https://www.alldaycity.com/l/7cc0791ad1aea46b/",
       "link": "https://www.spotahome.com/london/for-rent:studios/414588"
@@ -62593,7 +63055,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,213 / month (≈£905)"
+        "raw": "$1,200 / month (≈£905)"
       },
       "url": "https://www.alldaycity.com/l/7c83ff78353bc395/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1327360"
@@ -62614,7 +63076,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,179 / month (≈£880)"
+        "raw": "$1,166 / month (≈£880)"
       },
       "url": "https://www.alldaycity.com/l/729303bd2605d470/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-kennyland-court-nw4/3087746"
@@ -62635,7 +63097,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,288 / month (≈£3,200)"
+        "raw": "$4,242 / month (≈£3,200)"
       },
       "url": "https://www.alldaycity.com/l/6ca5090b39b3a0be/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-islington-n19/3087834"
@@ -62656,7 +63118,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$8,224 / month (≈£6,138)"
+        "raw": "$8,136 / month (≈£6,138)"
       },
       "url": "https://www.alldaycity.com/l/611702a8a50a18dd/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322320"
@@ -62677,7 +63139,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,085 / month (≈£810)"
+        "raw": "$1,074 / month (≈£810)"
       },
       "url": "https://www.alldaycity.com/l/60589fe8a169295c/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/611609"
@@ -62698,7 +63160,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,903 / month (≈£3,659)"
+        "raw": "$4,850 / month (≈£3,659)"
       },
       "url": "https://www.alldaycity.com/l/603b974f5c992d5a/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322393"
@@ -62719,7 +63181,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,226 / month (≈£3,900)"
+        "raw": "$5,170 / month (≈£3,900)"
       },
       "url": "https://www.alldaycity.com/l/602873e4e5b6ac68/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/4-bed-flat-old-kent-road-se1/3087805"
@@ -62740,7 +63202,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$312 / month (≈¥49,000)"
+        "raw": "$307 / month (≈¥49,000)"
       },
       "url": "https://www.alldaycity.com/l/5eea59449533779e/",
       "link": "https://www.oakhouse.jp/eng/house/5"
@@ -62761,7 +63223,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,355 / month (≈£3,250)"
+        "raw": "$4,308 / month (≈£3,250)"
       },
       "url": "https://www.alldaycity.com/l/5ead35bac16126f3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-fountain-court-se1/3087739"
@@ -62782,7 +63244,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$938 / month (≈£700)"
+        "raw": "$928 / month (≈£700)"
       },
       "url": "https://www.alldaycity.com/l/57fed3c8d00e7c6d/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lyttelton-road-n2/3087748"
@@ -62803,7 +63265,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,273 / month (≈£950)"
+        "raw": "$1,259 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/561b9164cc6501ac/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clive-house-sw8/3087730"
@@ -62824,7 +63286,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,206 / month (≈£900)"
+        "raw": "$1,193 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/5545b04a077b74e9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-thomas-baines-road-sw11/3087747"
@@ -62845,7 +63307,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,690 / month (≈£3,500)"
+        "raw": "$4,639 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/54be7e67aa6dfc19/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1743369"
@@ -62866,7 +63328,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,269 / month (≈£2,440)"
+        "raw": "$3,234 / month (≈£2,440)"
       },
       "url": "https://www.alldaycity.com/l/53f7ef2b30818538/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1303285"
@@ -62887,7 +63349,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,015 / month (≈£2,250)"
+        "raw": "$2,983 / month (≈£2,250)"
       },
       "url": "https://www.alldaycity.com/l/5345c9236090327c/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-balham-high-road-sw17/3087761"
@@ -62908,7 +63370,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,139 / month (≈£850)"
+        "raw": "$1,127 / month (≈£850)"
       },
       "url": "https://www.alldaycity.com/l/50769b1155f27e8d/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-lockwood-house-se11/3087778"
@@ -62929,7 +63391,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,072 / month (≈£800)"
+        "raw": "$1,060 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/4c3584c02c08e90f/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-cullum-welch-court-n1/3087709"
@@ -62950,7 +63412,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,126 / month (≈£840)"
+        "raw": "$1,113 / month (≈£840)"
       },
       "url": "https://www.alldaycity.com/l/4c31645419961ff8/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-bunning-way-n7/3087815"
@@ -62971,7 +63433,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,339 / month (≈£4,731)"
+        "raw": "$6,271 / month (≈£4,731)"
       },
       "url": "https://www.alldaycity.com/l/48bf8cecf28589d7/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322310"
@@ -62992,7 +63454,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,546 / month (≈£1,900)"
+        "raw": "$2,519 / month (≈£1,900)"
       },
       "url": "https://www.alldaycity.com/l/47a7bb298a4a3602/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-isle-of-dogs-e14/3087816"
@@ -63013,7 +63475,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,005 / month (≈£750)"
+        "raw": "$994 / month (≈£750)"
       },
       "url": "https://www.alldaycity.com/l/43f46299bd1aa3e0/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/613030"
@@ -63034,7 +63496,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,695 / month (≈£4,250)"
+        "raw": "$5,634 / month (≈£4,250)"
       },
       "url": "https://www.alldaycity.com/l/42fffd301d749a8a/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322306"
@@ -63055,7 +63517,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,273 / month (≈£950)"
+        "raw": "$1,259 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/41cf57bdfbc52d48/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brent-park-road-nw4/3087838"
@@ -63076,7 +63538,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,814 / month (≈£2,100)"
+        "raw": "$2,784 / month (≈£2,100)"
       },
       "url": "https://www.alldaycity.com/l/37e6bbe6e6b9ee51/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-caxton-road-n22/3087719"
@@ -63097,7 +63559,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,278 / month (≈£1,700)"
+        "raw": "$2,253 / month (≈£1,700)"
       },
       "url": "https://www.alldaycity.com/l/37406e4b29c81cdc/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-anerley-road-se20/3087865"
@@ -63118,7 +63580,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,072 / month (≈£800)"
+        "raw": "$1,060 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/373630096ff973b3/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1298031"
@@ -63139,7 +63601,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,884 / month (≈£2,899)"
+        "raw": "$3,843 / month (≈£2,899)"
       },
       "url": "https://www.alldaycity.com/l/2df5d9b989af4659/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-tanner-point-e13/3087797"
@@ -63160,7 +63622,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,686 / month (≈£4,990)"
+        "raw": "$6,615 / month (≈£4,990)"
       },
       "url": "https://www.alldaycity.com/l/2c05d7ddcb030ca4/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322314"
@@ -63181,7 +63643,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,149 / month (≈£2,350)"
+        "raw": "$3,115 / month (≈£2,350)"
       },
       "url": "https://www.alldaycity.com/l/2bda34309a6d8b0b/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-lowfield-road-nw6/3087811"
@@ -63202,7 +63664,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,861 / month (≈£2,135)"
+        "raw": "$2,830 / month (≈£2,135)"
       },
       "url": "https://www.alldaycity.com/l/288ea7ae11bd534f/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1287872"
@@ -63223,7 +63685,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,814 / month (≈£2,100)"
+        "raw": "$2,784 / month (≈£2,100)"
       },
       "url": "https://www.alldaycity.com/l/2876584628348f10/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-gipsy-road-se27/3087836"
@@ -63244,7 +63706,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$8,039 / month (≈£6,000)"
+        "raw": "$7,953 / month (≈£6,000)"
       },
       "url": "https://www.alldaycity.com/l/26f94a2c1a4746ec/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/614041"
@@ -63265,7 +63727,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,266 / month (≈£3,930)"
+        "raw": "$5,209 / month (≈£3,930)"
       },
       "url": "https://www.alldaycity.com/l/21dcc82fc972cbc7/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322301"
@@ -63286,7 +63748,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,666 / month (≈£1,990)"
+        "raw": "$2,638 / month (≈£1,990)"
       },
       "url": "https://www.alldaycity.com/l/1d2d3f3eca5b064c/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1303279"
@@ -63307,7 +63769,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,353 / month (≈£1,010)"
+        "raw": "$1,339 / month (≈£1,010)"
       },
       "url": "https://www.alldaycity.com/l/1afc200cb2844da8/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1327361"
@@ -63328,7 +63790,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$11,858 / month (≈£8,850)"
+        "raw": "$11,731 / month (≈£8,850)"
       },
       "url": "https://www.alldaycity.com/l/19db4b0c6f8a753b/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/363445"
@@ -63349,7 +63811,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$938 / month (≈£700)"
+        "raw": "$928 / month (≈£700)"
       },
       "url": "https://www.alldaycity.com/l/1710dd9c15af9bad/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/613031"
@@ -63370,7 +63832,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,699 / month (≈£5,000)"
+        "raw": "$6,628 / month (≈£5,000)"
       },
       "url": "https://www.alldaycity.com/l/0ed2761a661ab2c7/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-alberta-court-north-e14/3087874"
