@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "tokyo",
-  "count": 86,
+  "count": 91,
   "listings": [
     {
       "uid": "0000003",
@@ -2395,6 +2395,111 @@
       "link": "https://www.piperpiperpiper.com/jobs/51562dc6e1a5083c/"
     },
     {
+      "uid": "81214bc1610663f2",
+      "title": "room, shibuya",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 6 min walk to sasazuka station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$426 / month (≈¥68,000)"
+      },
+      "url": "https://www.alldaycity.com/l/81214bc1610663f2/",
+      "link": "https://www.oakhouse.jp/eng/house/21"
+    },
+    {
+      "uid": "7efe56bf80328c5d",
+      "title": "1 bed flat, nagatachō",
+      "description": "furnished, available from 26 january 2027, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,004 / month (≈¥320,000)"
+      },
+      "url": "https://www.alldaycity.com/l/7efe56bf80328c5d/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-256"
+    },
+    {
+      "uid": "784ab1c100f627c5",
+      "title": "2 bed flat, nagatachō",
+      "description": "furnished, available from 16 november 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$3,450 / month (≈¥551,000)"
+      },
+      "url": "https://www.alldaycity.com/l/784ab1c100f627c5/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-255"
+    },
+    {
+      "uid": "43e7d7b3a574b403",
+      "title": "1 bed flat, nagatachō",
+      "description": "furnished, available from 20 december 2026, minimum stay 1 month",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "blueground",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$2,060 / month (≈¥329,000)"
+      },
+      "url": "https://www.alldaycity.com/l/43e7d7b3a574b403/",
+      "link": "https://www.theblueground.com/p/furnished-apartments/tyo-294"
+    },
+    {
+      "uid": "3ddf00192f3563de",
+      "title": "room, nakano",
+      "description": "share house, furnished, plus 16,000 yen maintenance a month, 8 min walk to higashi nakano station",
+      "type": "property",
+      "hub": "shibuya",
+      "tier": "discovered",
+      "verified": false,
+      "source": "oakhouse",
+      "reach": [
+        "tokyo"
+      ],
+      "posted": "2026-11-13",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$426 / month (≈¥68,000)"
+      },
+      "url": "https://www.alldaycity.com/l/3ddf00192f3563de/",
+      "link": "https://www.oakhouse.jp/eng/house/9"
+    },
+    {
       "uid": "fb0eac215b231e95",
       "title": "1 bed flat, nishishinjuku",
       "description": "furnished, available from 8 december 2026, minimum stay 1 month",
@@ -2410,7 +2515,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,296 / month (≈¥361,000)"
+        "raw": "$2,260 / month (≈¥361,000)"
       },
       "url": "https://www.alldaycity.com/l/fb0eac215b231e95/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-158"
@@ -2431,7 +2536,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,706 / month (≈¥740,000)"
+        "raw": "$4,634 / month (≈¥740,000)"
       },
       "url": "https://www.alldaycity.com/l/f528a1727b5a5526/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-266"
@@ -2452,7 +2557,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$25,437 (≈¥4,000,000)"
+        "raw": "$25,047 (≈¥4,000,000)"
       },
       "url": "https://www.alldaycity.com/l/c9575f87a55e4f3b/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou41.pdf"
@@ -2473,7 +2578,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$509 / month (≈¥80,000)"
+        "raw": "$501 / month (≈¥80,000)"
       },
       "url": "https://www.alldaycity.com/l/c7d20f3da0cd392f/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosuyku18.pdf"
@@ -2494,7 +2599,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$94,118 (≈¥14,800,000)"
+        "raw": "$92,674 (≈¥14,800,000)"
       },
       "url": "https://www.alldaycity.com/l/a03101ffd856f2c2/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/oozawa32-3.pdf"
@@ -2515,7 +2620,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,506 / month (≈¥394,000)"
+        "raw": "$2,467 / month (≈¥394,000)"
       },
       "url": "https://www.alldaycity.com/l/9beab01685a95aa1/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-25"
@@ -2536,7 +2641,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$44,515 (≈¥7,000,000)"
+        "raw": "$43,832 (≈¥7,000,000)"
       },
       "url": "https://www.alldaycity.com/l/8e1747444ab3c16d/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou38.pdf"
@@ -2557,7 +2662,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$63,593 (≈¥10,000,000)"
+        "raw": "$62,617 (≈¥10,000,000)"
       },
       "url": "https://www.alldaycity.com/l/723f7b2b94a2c6a4/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/nangou39.pdf"
@@ -2578,7 +2683,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$191 / month (≈¥30,000)"
+        "raw": "$188 / month (≈¥30,000)"
       },
       "url": "https://www.alldaycity.com/l/6dee3d9edff5099b/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/mitsugou19.pdf"
@@ -2599,7 +2704,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,366 / month (≈¥372,000)"
+        "raw": "$2,329 / month (≈¥372,000)"
       },
       "url": "https://www.alldaycity.com/l/6735885826b4acd0/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-28"
@@ -2620,7 +2725,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$318 / month (≈¥50,000)"
+        "raw": "$313 / month (≈¥50,000)"
       },
       "url": "https://www.alldaycity.com/l/3152fbf15dc66b2e/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/motosyuku17.pdf"
@@ -2641,7 +2746,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$79,491 (≈¥12,500,000)"
+        "raw": "$78,272 (≈¥12,500,000)"
       },
       "url": "https://www.alldaycity.com/l/067b4c5cdffab5ed/",
       "link": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/581/shimomotogou31-2.pdf"
@@ -2662,7 +2767,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,698 / month (≈¥267,000)"
+        "raw": "$1,672 / month (≈¥267,000)"
       },
       "url": "https://www.alldaycity.com/l/224cbf39725e74bc/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-186"
@@ -2683,7 +2788,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,774 / month (≈¥279,000)"
+        "raw": "$1,747 / month (≈¥279,000)"
       },
       "url": "https://www.alldaycity.com/l/15ad3c136c12ab9d/",
       "link": "https://www.theblueground.com/p/furnished-apartments/tyo-187"
@@ -2704,7 +2809,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$362 / month (≈¥57,000)"
+        "raw": "$357 / month (≈¥57,000)"
       },
       "url": "https://www.alldaycity.com/l/edf4b112f751f9d4/",
       "link": "https://www.oakhouse.jp/eng/house/118"
@@ -2725,7 +2830,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$375 / month (≈¥59,000)"
+        "raw": "$369 / month (≈¥59,000)"
       },
       "url": "https://www.alldaycity.com/l/a8d4c5d75aac68a5/",
       "link": "https://www.oakhouse.jp/eng/house/72"
@@ -2746,7 +2851,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$312 / month (≈¥49,000)"
+        "raw": "$307 / month (≈¥49,000)"
       },
       "url": "https://www.alldaycity.com/l/5eea59449533779e/",
       "link": "https://www.oakhouse.jp/eng/house/5"
