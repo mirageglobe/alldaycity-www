@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "penang",
-  "count": 92,
+  "count": 102,
   "listings": [
     {
       "uid": "0000003",
@@ -34,6 +34,268 @@
       "link": "https://theforestorigin.com"
     },
     {
+      "uid": "9a85835f4782e712",
+      "title": "vip relationship manager",
+      "company": "consensys",
+      "description": "You will act as a China Relationship Manager to manage high-value traders and users in Mandarin-speaking regions, including recruiting, onboarding, and reporting on revenue targets.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "AUS",
+        "BGD",
+        "CHN",
+        "HKG",
+        "IDN",
+        "IND",
+        "JPN",
+        "KOR",
+        "LKA",
+        "MYS",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PHL",
+        "SGP",
+        "THA",
+        "TWN",
+        "VNM"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 5208,
+        "max": 14167,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/9a85835f4782e712/",
+      "link": "https://www.piperpiperpiper.com/jobs/9a85835f4782e712/"
+    },
+    {
+      "uid": "65be6b6ba26c6072",
+      "title": "performance marketer (remote - worldwide)",
+      "company": "everai",
+      "description": "You will lead paid acquisition campaigns across Meta, TikTok, and other platforms while optimizing landing pages and scaling high-performing funnels to drive user growth.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 4284,
+        "max": 5925,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/65be6b6ba26c6072/",
+      "link": "https://www.piperpiperpiper.com/jobs/65be6b6ba26c6072/"
+    },
+    {
+      "uid": "400e67ab437e7fa6",
+      "title": "corporate counsel, commercial",
+      "company": "carrot",
+      "description": "You will act as the legal partner to Carrot's commercial teams, negotiating and drafting high-volume vendor agreements such as master services agreements while translating regulatory risk into business strategies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-21",
+      "salary": {
+        "min": 7134,
+        "max": 16777,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/400e67ab437e7fa6/",
+      "link": "https://www.piperpiperpiper.com/jobs/400e67ab437e7fa6/"
+    },
+    {
+      "uid": "9c33d73be18b971b",
+      "title": "physical therapist & performance trainer",
+      "company": "billion body",
+      "description": "You will act as a biomechanics specialist, personal trainer, and rehab specialist by designing and delivering training programmes, conducting in-person client sessions, and providing hands-on manual therapy for injuries or restrictions while working remotely when clients travel.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GHA",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ISR",
+        "ITA",
+        "JPN",
+        "KEN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NGA",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SAU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM",
+        "ZAF"
+      ],
+      "posted": "2026-11-21",
+      "salary": {
+        "min": 8261,
+        "max": 15502,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/9c33d73be18b971b/",
+      "link": "https://www.piperpiperpiper.com/jobs/9c33d73be18b971b/"
+    },
+    {
+      "uid": "22971407783f43f5",
+      "title": "senior paid media manager",
+      "company": "oyster",
+      "description": "You will own performance marketing strategy for inbound digital channels, partner with agencies to manage paid media vendors, and optimize ROAS while inheriting an existing program.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-20",
+      "salary": {
+        "min": 3920,
+        "max": 6837,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/22971407783f43f5/",
+      "link": "https://www.piperpiperpiper.com/jobs/22971407783f43f5/"
+    },
+    {
+      "uid": "336ac387c19ecb8d",
+      "title": "storage platform engineer",
+      "company": "supabase",
+      "description": "You will lead the architecture of Supabase's NVMe-oF storage platform by designing block-level snapshots, copy-on-write clones, and I/O isolation strategies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-19",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/336ac387c19ecb8d/",
+      "link": "https://www.piperpiperpiper.com/jobs/336ac387c19ecb8d/"
+    },
+    {
       "uid": "1720fceee7248e7b",
       "title": "engineering manager - pipelines",
       "company": "supabase",
@@ -59,6 +321,109 @@
       },
       "url": "https://www.alldaycity.com/l/1720fceee7248e7b/",
       "link": "https://www.piperpiperpiper.com/jobs/1720fceee7248e7b/"
+    },
+    {
+      "uid": "b3cdaffecbe6ac7f",
+      "title": "senior data engineer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior Data Engineer or similar role, owning data pipelines from discovery to production while collaborating with technical clients.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-11-11",
+      "salary": {
+        "min": 5884,
+        "max": 17906,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b3cdaffecbe6ac7f/",
+      "link": "https://www.piperpiperpiper.com/jobs/b3cdaffecbe6ac7f/"
     },
     {
       "uid": "f7fd357469a41b67",
@@ -154,8 +519,8 @@
       ],
       "posted": "2026-11-10",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -266,8 +631,8 @@
       ],
       "posted": "2026-11-07",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -293,8 +658,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -320,8 +685,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -347,8 +712,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -402,7 +767,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -429,7 +794,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -462,8 +827,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -678,7 +1043,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6666,
-        "max": 9557,
+        "max": 9505,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -852,8 +1217,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1071,8 +1436,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7242,
-        "max": 16825,
+        "min": 7134,
+        "max": 16777,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1098,8 +1463,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1125,8 +1490,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1153,7 +1518,7 @@
       "posted": "2026-10-19",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1180,7 +1545,7 @@
       "posted": "2026-10-18",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1207,7 +1572,7 @@
       "posted": "2026-10-18",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1340,8 +1705,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1394,8 +1759,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1529,7 +1894,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1556,7 +1921,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1582,8 +1947,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1626,8 +1991,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1680,8 +2045,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1817,8 +2182,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1827,332 +2192,193 @@
       "link": "https://www.piperpiperpiper.com/jobs/0b9f35dc334cb9ec/"
     },
     {
-      "uid": "dd791f6081ca1e80",
-      "title": "database support engineer (japanese speaking)",
-      "company": "supabase",
-      "description": "You will investigate and resolve advanced customer issues across PostgreSQL services while providing consultative advice to optimize workloads. You will also reproduce bugs to isolate root causes, mentor junior team members, and communicate empathetically with users of all levels during high-impact situations.",
-      "type": "job",
-      "hub": "global",
+      "uid": "cc2f44bcd3ac8225",
+      "title": "room, bayan lepas",
+      "description": "studio room, private bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "ashby",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "AUS",
-        "BGD",
-        "CHN",
-        "HKG",
-        "IDN",
-        "IND",
-        "JPN",
-        "KOR",
-        "LKA",
-        "MYS",
-        "NPL",
-        "NZL",
-        "PAK",
-        "PHL",
-        "SGP",
-        "THA",
-        "TWN",
-        "VNM"
-      ],
-      "posted": "2026-09-23",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 6224,
-        "max": 8005,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$315 / month (≈RM1,300)"
       },
-      "url": "https://www.alldaycity.com/l/dd791f6081ca1e80/",
-      "link": "https://www.piperpiperpiper.com/jobs/dd791f6081ca1e80/"
+      "url": "https://www.alldaycity.com/l/cc2f44bcd3ac8225/",
+      "link": "https://www.ibilik.com/room-rentals/019cc28a-5304-7023-8352-182e89bf90d6/studio-14k8"
     },
     {
-      "uid": "0eccc7792e6b44a7",
-      "title": "senior shopify developer",
-      "company": "sanctuary computer inc",
-      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here. 🌎 About garden3d.",
-      "type": "job",
-      "hub": "global",
+      "uid": "cb02cee5999a511a",
+      "title": "room, georgetown",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "remotive",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-18",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 6667,
-        "max": 12500,
-        "currency": "USD",
-        "period": "month"
+        "min": null,
+        "max": null,
+        "raw": "$121 / month (≈RM500)"
       },
-      "url": "https://www.alldaycity.com/l/0eccc7792e6b44a7/",
-      "link": "https://www.piperpiperpiper.com/jobs/0eccc7792e6b44a7/"
+      "url": "https://www.alldaycity.com/l/cb02cee5999a511a/",
+      "link": "https://www.ibilik.com/room-rentals/01a07f45-ca32-7e82-af7e-21802cf81edf/room-for-rent-the-stone-paya-terubong-free-internet-utility-bill-fully-furnished"
     },
     {
-      "uid": "03efecbde36b219d",
-      "title": "senior ai engineer",
-      "company": "lemon.io",
-      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
-      "type": "job",
-      "hub": "global",
+      "uid": "8646bd6da7b328a8",
+      "title": "room, seberang perai",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "remotive",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "ALB",
-        "ARG",
-        "AUS",
-        "AUT",
-        "BEL",
-        "BGD",
-        "BGR",
-        "BIH",
-        "BOL",
-        "BRA",
-        "CHE",
-        "CHL",
-        "CHN",
-        "COL",
-        "CRI",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "DOM",
-        "ECU",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "GTM",
-        "HKG",
-        "HND",
-        "HRV",
-        "HUN",
-        "IDN",
-        "IND",
-        "IRL",
-        "ISL",
-        "ITA",
-        "JPN",
-        "KOR",
-        "LKA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MEX",
-        "MKD",
-        "MLT",
-        "MNE",
-        "MYS",
-        "NIC",
-        "NLD",
-        "NOR",
-        "NPL",
-        "NZL",
-        "PAK",
-        "PAN",
-        "PER",
-        "PHL",
-        "POL",
-        "PRT",
-        "PRY",
-        "ROU",
-        "SGP",
-        "SLV",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "THA",
-        "TUR",
-        "TWN",
-        "UKR",
-        "URY",
-        "USA",
-        "VEN",
-        "VNM"
-      ],
-      "posted": "2026-09-18",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$104 / month (≈RM430)"
       },
-      "url": "https://www.alldaycity.com/l/03efecbde36b219d/",
-      "link": "https://www.piperpiperpiper.com/jobs/03efecbde36b219d/"
+      "url": "https://www.alldaycity.com/l/8646bd6da7b328a8/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae4-4f9a-7800-81df-add99c9427e2/bm-fully-furnished-including-utilities-8377897"
     },
     {
-      "uid": "5399ab872b331596",
-      "title": "senior .net full-stack developer",
-      "company": "lemon.io",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
-      "type": "job",
-      "hub": "global",
+      "uid": "7a14f8366fdaafce",
+      "title": "room, seberang perai",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "remotive",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "ALB",
-        "ARG",
-        "AUS",
-        "AUT",
-        "BEL",
-        "BGD",
-        "BGR",
-        "BIH",
-        "BOL",
-        "BRA",
-        "CHE",
-        "CHL",
-        "CHN",
-        "COL",
-        "CRI",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "DOM",
-        "ECU",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "GTM",
-        "HKG",
-        "HND",
-        "HRV",
-        "HUN",
-        "IDN",
-        "IND",
-        "IRL",
-        "ISL",
-        "ITA",
-        "JPN",
-        "KOR",
-        "LKA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MEX",
-        "MKD",
-        "MLT",
-        "MNE",
-        "MYS",
-        "NIC",
-        "NLD",
-        "NOR",
-        "NPL",
-        "NZL",
-        "PAK",
-        "PAN",
-        "PER",
-        "PHL",
-        "POL",
-        "PRT",
-        "PRY",
-        "ROU",
-        "SGP",
-        "SLV",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "THA",
-        "TUR",
-        "TWN",
-        "UKR",
-        "URY",
-        "USA",
-        "VEN",
-        "VNM"
-      ],
-      "posted": "2026-09-17",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$141 / month (≈RM580)"
       },
-      "url": "https://www.alldaycity.com/l/5399ab872b331596/",
-      "link": "https://www.piperpiperpiper.com/jobs/5399ab872b331596/"
+      "url": "https://www.alldaycity.com/l/7a14f8366fdaafce/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae3-a4bf-7c21-902a-b43b2e83e976/middle-room-at-taman-industri-impian-bukit-mertajam-8329018"
     },
     {
-      "uid": "50b946a66f588c76",
-      "title": "finops engineer",
-      "company": "supabase",
-      "description": "You will act as a FinOps Engineer to drive cost optimization and cloud financial governance across AWS and GCP infrastructure. Your daily tasks involve analyzing billing data, building cost attribution tools, automating governance policies, and partnering with engineering and finance teams to identify and implement savings.",
-      "type": "job",
-      "hub": "global",
+      "uid": "4e36a16a5a59b7ff",
+      "title": "room, bayan indah",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "ashby",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-16",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$146 / month (≈RM600)"
       },
-      "url": "https://www.alldaycity.com/l/50b946a66f588c76/",
-      "link": "https://www.piperpiperpiper.com/jobs/50b946a66f588c76/"
+      "url": "https://www.alldaycity.com/l/4e36a16a5a59b7ff/",
+      "link": "https://www.ibilik.com/room-rentals/01a08078-405e-7a00-a43d-d03fe63e5cd6/middle-room-00fw"
     },
     {
-      "uid": "51562dc6e1a5083c",
-      "title": "platform engineer, edge & networking",
-      "company": "supabase",
-      "description": "You will design and operate the Supabase Edge & Networking squad, which handles API gateway, routing, load balancing, DNS, and secure global traffic distribution across high-scale infrastructure.",
-      "type": "job",
-      "hub": "global",
+      "uid": "4c4503a25307829e",
+      "title": "room, sungai ara",
+      "description": "single room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
       "tier": "discovered",
       "verified": false,
-      "source": "ashby",
+      "source": "ibilik",
       "reach": [
-        "worldwide"
+        "penang"
       ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-14",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$129 / month (≈RM530)"
       },
-      "url": "https://www.alldaycity.com/l/51562dc6e1a5083c/",
-      "link": "https://www.piperpiperpiper.com/jobs/51562dc6e1a5083c/"
+      "url": "https://www.alldaycity.com/l/4c4503a25307829e/",
+      "link": "https://www.ibilik.com/room-rentals/01a083ff-33ae-7762-8db3-92b6c25c32ae/male-single-room-on-the-clovers-bayan-lepas-near-airport"
+    },
+    {
+      "uid": "2abdd8e58bc68e52",
+      "title": "room, seberang perai",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-24",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$104 / month (≈RM430)"
+      },
+      "url": "https://www.alldaycity.com/l/2abdd8e58bc68e52/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae5-6f17-7fd2-8cc6-0cb22cd8f2d4/bm-fully-furnished-including-utilities-room-for-rent-8418082"
+    },
+    {
+      "uid": "22b316f1364767f8",
+      "title": "room, georgetown",
+      "description": "single room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-24",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$146 / month (≈RM600)"
+      },
+      "url": "https://www.alldaycity.com/l/22b316f1364767f8/",
+      "link": "https://www.ibilik.com/room-rentals/01a06246-f5cc-7281-8d1e-820849152972/single-room-8sqj"
+    },
+    {
+      "uid": "134b1c123510330b",
+      "title": "room, bayan baru",
+      "description": "middle room, shared bathroom",
+      "type": "property",
+      "hub": "george-town",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ibilik",
+      "reach": [
+        "penang"
+      ],
+      "posted": "2026-11-24",
+      "salary": {
+        "min": null,
+        "max": null,
+        "raw": "$194 / month (≈RM800)"
+      },
+      "url": "https://www.alldaycity.com/l/134b1c123510330b/",
+      "link": "https://www.ibilik.com/room-rentals/019aeae5-7b78-7b22-a9cf-91e7e103851a/cozy-middle-room-with-private-balcony-at-arena-residence-bayan-baru"
     },
     {
       "uid": "ef54258522d847d1",
@@ -2170,7 +2396,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$172 / month (≈RM700)"
+        "raw": "$170 / month (≈RM700)"
       },
       "url": "https://www.alldaycity.com/l/ef54258522d847d1/",
       "link": "https://www.ibilik.com/room-rentals/019c2d0e-f67d-73e2-92c8-fbfa93e77ee8/beautiful-female-room-bayan-baru-near-blepas-fiz-spice-sunshine-square"
@@ -2191,7 +2417,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$110 / month (≈RM450)"
+        "raw": "$109 / month (≈RM450)"
       },
       "url": "https://www.alldaycity.com/l/e6d29fd22eb88167/",
       "link": "https://www.ibilik.com/room-rentals/01a0c2d3-99aa-78c0-a071-871e610af4f6/middle-bedroom-with-queen-bed"
@@ -2212,7 +2438,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$147 / month (≈RM600)"
+        "raw": "$146 / month (≈RM600)"
       },
       "url": "https://www.alldaycity.com/l/acff49d97f5579a0/",
       "link": "https://www.ibilik.com/room-rentals/01a03bee-0f66-7cf2-88e8-4bb7b5e59359/room-for-rent-setia-sky-vista-relau-sg-ara"
@@ -2233,7 +2459,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$137 / month (≈RM560)"
+        "raw": "$136 / month (≈RM560)"
       },
       "url": "https://www.alldaycity.com/l/7b9c2d713c2ad08a/",
       "link": "https://www.ibilik.com/room-rentals/019aeae4-de98-7980-a784-87602976cdc9/cozy-private-room-at-the-golden-triangle-relau"
@@ -2254,7 +2480,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$245 / month (≈RM1,000)"
+        "raw": "$243 / month (≈RM1,000)"
       },
       "url": "https://www.alldaycity.com/l/7b383dae875db777/",
       "link": "https://www.ibilik.com/room-rentals/019c2cf2-6d6e-79e0-8eb7-8c3c137f39f4/master-room-arena-residence-near-blepas-fiz-spice-sunshine-square-limited-offer"
@@ -2275,7 +2501,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$110 / month (≈RM450)"
+        "raw": "$109 / month (≈RM450)"
       },
       "url": "https://www.alldaycity.com/l/793fe88412ba48d5/",
       "link": "https://www.ibilik.com/room-rentals/019c0779-fbed-7601-9f21-5a3a9ac24b87/middle-room-iw7p"
@@ -2296,7 +2522,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$135 / month (≈RM550)"
+        "raw": "$133 / month (≈RM550)"
       },
       "url": "https://www.alldaycity.com/l/70032eb621675234/",
       "link": "https://my.roomz.asia/rent/room/fglhhr/simpang-ampat-new-renovation-single-room-%EF%B8%8F-grab-it-fast-last-one-bukit-mertajam"
@@ -2317,7 +2543,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$167 / month (≈RM680)"
+        "raw": "$165 / month (≈RM680)"
       },
       "url": "https://www.alldaycity.com/l/40ee3310c93c201e/",
       "link": "https://www.ibilik.com/room-rentals/019aeae3-4785-7ee0-9056-2bc128fc7254/cozy-middle-room-with-private-balcony-at-arena-residence-bayan-baru-xbnn"
@@ -2338,7 +2564,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$172 / month (≈RM700)"
+        "raw": "$170 / month (≈RM700)"
       },
       "url": "https://www.alldaycity.com/l/3693dc7cf8414a76/",
       "link": "https://www.ibilik.com/room-rentals/019bdafe-7457-76f0-9095-3fb0d4b28904/spacious-middle-room-at-jelutong-penang-near-blepas-fiz-egate"
@@ -2359,7 +2585,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$135 / month (≈RM550)"
+        "raw": "$133 / month (≈RM550)"
       },
       "url": "https://www.alldaycity.com/l/155738c9a24bb64e/",
       "link": "https://www.ibilik.com/room-rentals/01a0c2ae-7604-7420-8afb-e1e60c168f14/delux-middle-room-with-seaview-near-gurney-lotus-include-wifi-ac"
@@ -2380,7 +2606,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/fd57ed0f5e23daf2/",
       "link": "https://www.ibilik.com/room-rentals/019aeae4-185f-7db1-b5d8-dcb1f9453168/female-only-unit-room-with-spacious-balcony"
@@ -2401,7 +2627,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$142 / month (≈RM580)"
+        "raw": "$141 / month (≈RM580)"
       },
       "url": "https://www.alldaycity.com/l/f6f942ea5b01099f/",
       "link": "https://www.ibilik.com/room-rentals/01a07aec-1133-7422-91b0-a235c4ba44e1/private-bedroom-in-the-spring-condo-penang"
@@ -2422,7 +2648,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$270 / month (≈RM1,100)"
+        "raw": "$267 / month (≈RM1,100)"
       },
       "url": "https://www.alldaycity.com/l/d50bf6b3a480a132/",
       "link": "https://www.ibilik.com/room-rentals/01a0d1e9-fefb-73e2-824a-52afdeb937e8/master-room-for-rent-at-jelutong-penang"
@@ -2443,7 +2669,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$98 / month (≈RM400)"
+        "raw": "$97 / month (≈RM400)"
       },
       "url": "https://www.alldaycity.com/l/b436a7813c108e0a/",
       "link": "https://www.ibilik.com/room-rentals/019e4373-dce9-75e1-a844-2eaef8677f36/bilik-butterworth-makmandin"
@@ -2464,7 +2690,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$105 / month (≈RM430)"
+        "raw": "$104 / month (≈RM430)"
       },
       "url": "https://www.alldaycity.com/l/6dd096e98089c4a2/",
       "link": "https://www.ibilik.com/room-rentals/01a09e14-3d07-7af0-956e-255c9ab29081/single-aircond-room-at-serena-bay-condominium-georgetown-penang"
@@ -2485,7 +2711,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$105 / month (≈RM430)"
+        "raw": "$104 / month (≈RM430)"
       },
       "url": "https://www.alldaycity.com/l/3f8368818c87a112/",
       "link": "https://www.ibilik.com/room-rentals/01a0d7b1-f48d-7822-97e2-46c4287493f5/bilik-perempuan-disewa-kat-usm-penang-sungai-dua"
@@ -2506,7 +2732,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/31047d3dea240f6c/",
       "link": "https://www.ibilik.com/room-rentals/019aeae3-19df-7651-a2c1-22008cc3e26f/balcony-middle-room-midlands-condo-8222264"
@@ -2527,7 +2753,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$159 / month (≈RM650)"
+        "raw": "$158 / month (≈RM650)"
       },
       "url": "https://www.alldaycity.com/l/294508dd61a2ad57/",
       "link": "https://www.ibilik.com/room-rentals/01a0d641-21cd-7c43-a40f-4c3df88d55c4/medium-room-juru-sentral-icon-cityjuru-bukit-tengah-prai-indurtrial"
@@ -2548,7 +2774,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$142 / month (≈RM580)"
+        "raw": "$141 / month (≈RM580)"
       },
       "url": "https://www.alldaycity.com/l/24aaad6c40e2f34a/",
       "link": "https://www.ibilik.com/room-rentals/01a0d711-7a71-7480-b003-d1f663b7e433/palm-court-middle-room-female-only-fully-furnished-near-gurney-lotus"
@@ -2569,7 +2795,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/e88961d6818a99d0/",
       "link": "https://my.roomz.asia/rent/room/emcgvn/cozy-landed-master-room-with-private-bathroom-coway-water-machine-for-rent-at-penang-batu-kawan-eco-horizon-ashton-collection-bkip-the-ship-campus-bandar-cassiai-ikea-penang-design-village"
@@ -2590,7 +2816,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$208 / month (≈RM850)"
+        "raw": "$206 / month (≈RM850)"
       },
       "url": "https://www.alldaycity.com/l/e1d20b50da5d29cf/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd3-68d3-7b61-b191-0fc76d0867a0/premium-balcony-room-queensbays-bayan-lepas-1fr1"
@@ -2611,7 +2837,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$135 / month (≈RM550)"
+        "raw": "$133 / month (≈RM550)"
       },
       "url": "https://www.alldaycity.com/l/d9d291eea501a0a7/",
       "link": "https://my.roomz.asia/rent/room/rxvmrt/fully-furnished-room-to-rent-medium-room-location-bukit-mertajam-taman-gemilang"
@@ -2632,7 +2858,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$172 / month (≈RM700)"
+        "raw": "$170 / month (≈RM700)"
       },
       "url": "https://www.alldaycity.com/l/965f8ae1b0e36cf9/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc0-65f5-78c1-bc3d-82c704837161/bayan-lepasrelau-premium-medium-room-near-inti-fiz-queensbays"
@@ -2653,7 +2879,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$177 / month (≈RM720)"
+        "raw": "$175 / month (≈RM720)"
       },
       "url": "https://www.alldaycity.com/l/7e3b10523270096b/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebcc-1eea-73c0-8f1b-7493fba16fa9/beautiful-medium-room-at-bayan-lepas"
@@ -2674,7 +2900,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/66d58d505dc0e370/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc5-4d14-7a33-88b9-c06280e280f9/premium-medium-room-bayan-lepasfor-rent"
@@ -2695,7 +2921,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/640b6985ce88e87e/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd0-f250-71a0-a299-4903c0bf2135/beautiful-room-with-private-balcony-bayan-lepas"
@@ -2716,7 +2942,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$184 / month (≈RM750)"
+        "raw": "$182 / month (≈RM750)"
       },
       "url": "https://www.alldaycity.com/l/31e2e822a332ed79/",
       "link": "https://my.roomz.asia/rent/room/fxigzr/i-santorini-penang-cozy-design-fully-furnished-with-no-blocking-pool-view-deluxe-mid-room"
@@ -2737,7 +2963,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$179 / month (≈RM730)"
+        "raw": "$177 / month (≈RM730)"
       },
       "url": "https://www.alldaycity.com/l/2bb1c2bfa9f9b943/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebd6-f008-7812-8b6b-d205d7564146/big-cozy-medium-roombayan-lepas-sungai-ara"
@@ -2758,7 +2984,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$159 / month (≈RM650)"
+        "raw": "$158 / month (≈RM650)"
       },
       "url": "https://www.alldaycity.com/l/2941327e2211c55f/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebbd-75f4-7e50-9146-62bd969e68a3/cozy-medium-room-for-rent-bayan-barulepas"
@@ -2779,7 +3005,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$110 / month (≈RM450)"
+        "raw": "$109 / month (≈RM450)"
       },
       "url": "https://www.alldaycity.com/l/211b5303a1fdb5d6/",
       "link": "https://my.roomz.asia/rent/room/sqvzmp/medium-room-at-taman-kota-permai-bukit-mertajam"
@@ -2800,7 +3026,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$201 / month (≈RM820)"
+        "raw": "$199 / month (≈RM820)"
       },
       "url": "https://www.alldaycity.com/l/1c916b57d8bd65ad/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc9-c834-7a21-91a4-aed4cfa9da98/direct-owner-medium-room-for-rent-queensbays-bayan-lepas-7msb"
@@ -2821,7 +3047,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$189 / month (≈RM770)"
+        "raw": "$187 / month (≈RM770)"
       },
       "url": "https://www.alldaycity.com/l/028274f6549bcf35/",
       "link": "https://www.ibilik.com/room-rentals/01a0ebc7-dd05-7cf3-ab43-af12b7f98f06/bayan-lepasbaru-beautiful-room-for-rent"
