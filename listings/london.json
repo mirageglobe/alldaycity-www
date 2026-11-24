@@ -1,7 +1,7 @@
 {
   "name": "alldaycity",
   "place": "london",
-  "count": 362,
+  "count": 364,
   "listings": [
     {
       "uid": "0000003",
@@ -124,6 +124,743 @@
       "link": "https://theflowerclubldn.co.uk"
     },
     {
+      "uid": "0cbaaedce923d9b1",
+      "title": "threat research engineer, security factory: threat research",
+      "company": "gitlab",
+      "description": "You will research new attack surfaces, analyze vulnerabilities in open source projects, and build AI-powered workflows to detect threats. You will also maintain cloud-based systems for advisory work, write vulnerability findings for publication, and collaborate with the team on operational support tasks.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 6250,
+        "max": 14333,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/0cbaaedce923d9b1/",
+      "link": "https://www.piperpiperpiper.com/jobs/0cbaaedce923d9b1/"
+    },
+    {
+      "uid": "28fc05ec1e20e9b5",
+      "title": "staff backend engineer, performance enablement",
+      "company": "gitlab",
+      "description": "You will define technical roadmaps, design reusable performance testing tools, and mentor engineers on AI-first development practices while coordinating with cross-functional groups to ship scalable capabilities.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/28fc05ec1e20e9b5/",
+      "link": "https://www.piperpiperpiper.com/jobs/28fc05ec1e20e9b5/"
+    },
+    {
+      "uid": "5b01b500ec293d3b",
+      "title": "new business account executive (hebrew speaker)",
+      "company": "twilio",
+      "description": "You will act as a New Business Account Executive responsible for acquiring high-value enterprise clients and closing complex sales deals across Southern Europe.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 6102,
+        "max": 11539,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/5b01b500ec293d3b/",
+      "link": "https://www.piperpiperpiper.com/jobs/5b01b500ec293d3b/"
+    },
+    {
+      "uid": "b554a7bae3929141",
+      "title": "new business account executive (french speaker)",
+      "company": "twilio",
+      "description": "You will act as a New Business Account Executive responsible for acquiring high-value enterprise clients and driving sales cycles from initial leads to contract closure in Southern Europe.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ESP",
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 6102,
+        "max": 11539,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b554a7bae3929141/",
+      "link": "https://www.piperpiperpiper.com/jobs/b554a7bae3929141/"
+    },
+    {
+      "uid": "ba2319a2b56cdd30",
+      "title": "senior technical support engineer, emea",
+      "company": "horizon3.ai",
+      "description": "You will act as a technical support engineer diagnosing cloud, networking, and infrastructure issues for Fortune 500 customers while mentoring junior staff and maintaining SLA compliance.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 6458,
+        "max": 7500,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/ba2319a2b56cdd30/",
+      "link": "https://www.piperpiperpiper.com/jobs/ba2319a2b56cdd30/"
+    },
+    {
+      "uid": "eba803b2e8e4ff21",
+      "title": "solutions architect, onchain compliance - emea",
+      "company": "trm labs",
+      "description": "You will serve as a Solutions Architect on the Onchain Compliance - EMEA team, owning the technical sales cycle for crypto exchanges and fintechs.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 7134,
+        "max": 16777,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/eba803b2e8e4ff21/",
+      "link": "https://www.piperpiperpiper.com/jobs/eba803b2e8e4ff21/"
+    },
+    {
+      "uid": "65be6b6ba26c6072",
+      "title": "performance marketer (remote - worldwide)",
+      "company": "everai",
+      "description": "You will lead paid acquisition campaigns across Meta, TikTok, and other platforms while optimizing landing pages and scaling high-performing funnels to drive user growth.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "jobicy",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 4284,
+        "max": 5925,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/65be6b6ba26c6072/",
+      "link": "https://www.piperpiperpiper.com/jobs/65be6b6ba26c6072/"
+    },
+    {
+      "uid": "3bb97183f9db8879",
+      "title": "internal operations senior associate",
+      "company": "teya",
+      "description": "You will act as an Internal Operations Senior Associate, bridging frontline teams like Customer Support and Sales with Product and Engineering. Your daily work involves diagnosing recurring operational pain points, categorizing issues, and designing scalable systems to automate workflows and improve user experiences across multiple product verticals.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "himalayas",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "PRT"
+      ],
+      "posted": "2026-11-23",
+      "salary": {
+        "min": 4631,
+        "max": 11820,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/3bb97183f9db8879/",
+      "link": "https://www.piperpiperpiper.com/jobs/3bb97183f9db8879/"
+    },
+    {
+      "uid": "0342539e7c789a10",
+      "title": "strategic account executive - spain",
+      "company": "gitlab",
+      "description": "You will own a portfolio of strategic and large enterprise customers in Spain, driving both new customer acquisition and expansion within existing clients through a consultative sales approach.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-22",
+      "salary": {
+        "min": 5912,
+        "max": 10814,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/0342539e7c789a10/",
+      "link": "https://www.piperpiperpiper.com/jobs/0342539e7c789a10/"
+    },
+    {
+      "uid": "400e67ab437e7fa6",
+      "title": "corporate counsel, commercial",
+      "company": "carrot",
+      "description": "You will act as the legal partner to Carrot's commercial teams, negotiating and drafting high-volume vendor agreements such as master services agreements while translating regulatory risk into business strategies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remoteok",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-21",
+      "salary": {
+        "min": 7134,
+        "max": 16777,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/400e67ab437e7fa6/",
+      "link": "https://www.piperpiperpiper.com/jobs/400e67ab437e7fa6/"
+    },
+    {
+      "uid": "9c33d73be18b971b",
+      "title": "physical therapist & performance trainer",
+      "company": "billion body",
+      "description": "You will act as a biomechanics specialist, personal trainer, and rehab specialist by designing and delivering training programmes, conducting in-person client sessions, and providing hands-on manual therapy for injuries or restrictions while working remotely when clients travel.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "dynamitejobs",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARE",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GHA",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ISR",
+        "ITA",
+        "JPN",
+        "KEN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NGA",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SAU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM",
+        "ZAF"
+      ],
+      "posted": "2026-11-21",
+      "salary": {
+        "min": 8261,
+        "max": 15502,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/9c33d73be18b971b/",
+      "link": "https://www.piperpiperpiper.com/jobs/9c33d73be18b971b/"
+    },
+    {
+      "uid": "3db05a3c10dcedfb",
+      "title": "business development rep, enterprise, dach",
+      "company": "fivetran",
+      "description": "You will act as an Enterprise Business Development Representative in Germany, primarily working with Account Executives to qualify inbound leads and build account plans using sales tools like Salesforce and Gong.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR",
+        "UKR"
+      ],
+      "posted": "2026-11-20",
+      "salary": {
+        "min": 4740,
+        "max": 5688,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/3db05a3c10dcedfb/",
+      "link": "https://www.piperpiperpiper.com/jobs/3db05a3c10dcedfb/"
+    },
+    {
+      "uid": "22971407783f43f5",
+      "title": "senior paid media manager",
+      "company": "oyster",
+      "description": "You will own performance marketing strategy for inbound digital channels, partner with agencies to manage paid media vendors, and optimize ROAS while inheriting an existing program.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-20",
+      "salary": {
+        "min": 3920,
+        "max": 6837,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/22971407783f43f5/",
+      "link": "https://www.piperpiperpiper.com/jobs/22971407783f43f5/"
+    },
+    {
+      "uid": "336ac387c19ecb8d",
+      "title": "storage platform engineer",
+      "company": "supabase",
+      "description": "You will lead the architecture of Supabase's NVMe-oF storage platform by designing block-level snapshots, copy-on-write clones, and I/O isolation strategies.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "worldwide"
+      ],
+      "posted": "2026-11-19",
+      "salary": {
+        "min": 7083,
+        "max": 8854,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/336ac387c19ecb8d/",
+      "link": "https://www.piperpiperpiper.com/jobs/336ac387c19ecb8d/"
+    },
+    {
+      "uid": "69ebddb3576192b7",
+      "title": "backend engineer (ruby), ai engineering: ai catalog",
+      "company": "gitlab",
+      "description": "You will build and maintain production Ruby on Rails applications for the Duo Agent Platform while designing scalable REST and GraphQL APIs, collaborating with AI specialists to integrate agentic workflows into GitLab's core infrastructure.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-17",
+      "salary": {
+        "min": 6250,
+        "max": 7916,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/69ebddb3576192b7/",
+      "link": "https://www.piperpiperpiper.com/jobs/69ebddb3576192b7/"
+    },
+    {
+      "uid": "cf75d850baad1ba5",
+      "title": "manager - digital consulting (life sciences)",
+      "company": "veeva systems",
+      "description": "You will lead a team of consultants who design and deliver X-pages solutions, bridging business needs with technology to create impactful customer experiences.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-16",
+      "salary": {
+        "min": 5834,
+        "max": 8578,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/cf75d850baad1ba5/",
+      "link": "https://www.piperpiperpiper.com/jobs/cf75d850baad1ba5/"
+    },
+    {
+      "uid": "c6c0851b8d3a4b96",
+      "title": "business development representative, financial services - uki",
+      "company": "gitlab",
+      "description": "You will act as a Business Development Representative, prospecting for new and existing accounts to generate qualified meetings and pipeline. Your daily tasks include conducting discovery calls, creating Sales Accepted Opportunities, managing outreach via phone and email, and reporting performance in Salesforce.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR",
+        "IRL"
+      ],
+      "posted": "2026-11-16",
+      "salary": {
+        "min": 5912,
+        "max": 10814,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/c6c0851b8d3a4b96/",
+      "link": "https://www.piperpiperpiper.com/jobs/c6c0851b8d3a4b96/"
+    },
+    {
       "uid": "1720fceee7248e7b",
       "title": "engineering manager - pipelines",
       "company": "supabase",
@@ -149,6 +886,32 @@
       },
       "url": "https://www.alldaycity.com/l/1720fceee7248e7b/",
       "link": "https://www.piperpiperpiper.com/jobs/1720fceee7248e7b/"
+    },
+    {
+      "uid": "8efb55095e3f2b7a",
+      "title": "business development representative (emea)",
+      "company": "oyster",
+      "description": "You will act as a Business Development Representative to generate leads by prospecting customers via cold calling and email outreach while collaborating with sales teams to build pipelines.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-12",
+      "salary": {
+        "min": 3268,
+        "max": 4031,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/8efb55095e3f2b7a/",
+      "link": "https://www.piperpiperpiper.com/jobs/8efb55095e3f2b7a/"
     },
     {
       "uid": "f128594e629708c2",
@@ -316,41 +1079,14 @@
       ],
       "posted": "2026-11-12",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/178da4bf1e97772c/",
       "link": "https://www.piperpiperpiper.com/jobs/178da4bf1e97772c/"
-    },
-    {
-      "uid": "1cc5592329d379fb",
-      "title": "account executive - emea specialist",
-      "company": "samsara",
-      "description": "You will act as an Enterprise Specialist (Overlay) responsible for leading go-to-market execution for new Connected Equipment products.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "jobicy",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-11-12",
-      "salary": {
-        "min": 6102,
-        "max": 11539,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/1cc5592329d379fb/",
-      "link": "https://www.piperpiperpiper.com/jobs/1cc5592329d379fb/"
     },
     {
       "uid": "375b62145b7ec61f",
@@ -436,8 +1172,8 @@
       ],
       "posted": "2026-11-12",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -474,6 +1210,109 @@
       },
       "url": "https://www.alldaycity.com/l/19d7c60cd5567d33/",
       "link": "https://www.piperpiperpiper.com/jobs/19d7c60cd5567d33/"
+    },
+    {
+      "uid": "b3cdaffecbe6ac7f",
+      "title": "senior data engineer",
+      "company": "lemon.io",
+      "description": "You will work as a Senior Data Engineer or similar role, owning data pipelines from discovery to production while collaborating with technical clients.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "remotive",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "ALB",
+        "ARG",
+        "AUS",
+        "AUT",
+        "BEL",
+        "BGD",
+        "BGR",
+        "BIH",
+        "BOL",
+        "BRA",
+        "CAN",
+        "CHE",
+        "CHL",
+        "CHN",
+        "COL",
+        "CRI",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DOM",
+        "ECU",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "GTM",
+        "HKG",
+        "HND",
+        "HRV",
+        "HUN",
+        "IDN",
+        "IND",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JPN",
+        "KOR",
+        "LKA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MDA",
+        "MEX",
+        "MKD",
+        "MLT",
+        "MNE",
+        "MYS",
+        "NIC",
+        "NLD",
+        "NOR",
+        "NPL",
+        "NZL",
+        "PAK",
+        "PAN",
+        "PER",
+        "PHL",
+        "POL",
+        "PRT",
+        "PRY",
+        "ROU",
+        "SGP",
+        "SLV",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "THA",
+        "TUR",
+        "TWN",
+        "UKR",
+        "URY",
+        "USA",
+        "VEN",
+        "VNM"
+      ],
+      "posted": "2026-11-11",
+      "salary": {
+        "min": 5884,
+        "max": 17906,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/b3cdaffecbe6ac7f/",
+      "link": "https://www.piperpiperpiper.com/jobs/b3cdaffecbe6ac7f/"
     },
     {
       "uid": "f7fd357469a41b67",
@@ -569,8 +1408,8 @@
       ],
       "posted": "2026-11-10",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -596,8 +1435,8 @@
       ],
       "posted": "2026-11-10",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -661,8 +1500,8 @@
       ],
       "posted": "2026-11-10",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -727,7 +1566,7 @@
       "posted": "2026-11-08",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -838,14 +1677,41 @@
       ],
       "posted": "2026-11-07",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/f200a35abe99dba6/",
       "link": "https://www.piperpiperpiper.com/jobs/f200a35abe99dba6/"
+    },
+    {
+      "uid": "479fc2b8549c9e88",
+      "title": "account executive - emea specialist",
+      "company": "samsara",
+      "description": "You will act as an Enterprise Specialist (Overlay) partnering with Account Executives to sell new products to complex global accounts. Your daily work involves architecting deals, co-generating the product pipeline, driving pilot success, and providing commercial insights while traveling 20% of the time to meet customers on-site.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "greenhouse",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-06",
+      "salary": {
+        "min": 5912,
+        "max": 10814,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/479fc2b8549c9e88/",
+      "link": "https://www.piperpiperpiper.com/jobs/479fc2b8549c9e88/"
     },
     {
       "uid": "8ac10a5811f8f918",
@@ -868,8 +1734,8 @@
       ],
       "posted": "2026-11-06",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -921,8 +1787,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -948,8 +1814,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -975,8 +1841,8 @@
       ],
       "posted": "2026-11-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1028,14 +1894,41 @@
       ],
       "posted": "2026-11-04",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/ef48d0fc71b59246/",
       "link": "https://www.piperpiperpiper.com/jobs/ef48d0fc71b59246/"
+    },
+    {
+      "uid": "f3f679c40d161e90",
+      "title": "master class - business consultant - life sciences consulting",
+      "company": "veeva systems",
+      "description": "You will work with Veeva team members to build targeted industry expertise in one of five core practice areas, such as Analytics or Commercial, while creating tailored solutions for customer-facing engagements.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-03",
+      "salary": {
+        "min": 5834,
+        "max": 8578,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/f3f679c40d161e90/",
+      "link": "https://www.piperpiperpiper.com/jobs/f3f679c40d161e90/"
     },
     {
       "uid": "a2a9edbec96d73a7",
@@ -1062,6 +1955,32 @@
       },
       "url": "https://www.alldaycity.com/l/a2a9edbec96d73a7/",
       "link": "https://www.piperpiperpiper.com/jobs/a2a9edbec96d73a7/"
+    },
+    {
+      "uid": "a61fca51c2441cb1",
+      "title": "staff product designer",
+      "company": "highlevel",
+      "description": "You will lead high-impact product design across multiple teams by translating complex problems into coherent experiences, creating prototypes for AI-enabled workflows, and mentoring senior designers through strategic influence.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "lever",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-11-03",
+      "salary": {
+        "min": 13073,
+        "max": 15252,
+        "currency": "USD",
+        "period": "month"
+      },
+      "url": "https://www.alldaycity.com/l/a61fca51c2441cb1/",
+      "link": "https://www.piperpiperpiper.com/jobs/a61fca51c2441cb1/"
     },
     {
       "uid": "92be49756dbe68a0",
@@ -1183,8 +2102,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1214,7 +2133,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1334,7 +2253,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1456,8 +2375,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1549,8 +2468,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1680,8 +2599,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1772,8 +2691,8 @@
       ],
       "posted": "2026-11-01",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1847,7 +2766,7 @@
       "posted": "2026-11-01",
       "salary": {
         "min": 5208,
-        "max": 13938,
+        "max": 14167,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1901,7 +2820,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1928,7 +2847,7 @@
       "posted": "2026-10-31",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1961,8 +2880,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -1994,8 +2913,8 @@
       ],
       "posted": "2026-10-31",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2119,8 +3038,8 @@
       ],
       "posted": "2026-10-30",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2184,8 +3103,8 @@
       ],
       "posted": "2026-10-30",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2602,8 +3521,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2629,8 +3548,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2758,8 +3677,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2824,7 +3743,7 @@
       "posted": "2026-10-29",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2959,8 +3878,8 @@
       ],
       "posted": "2026-10-29",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -2986,8 +3905,8 @@
       ],
       "posted": "2026-10-28",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3013,8 +3932,8 @@
       ],
       "posted": "2026-10-28",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3116,7 +4035,7 @@
     },
     {
       "uid": "aeb95e120f380bbf",
-      "title": "senior back-end developer",
+      "title": "senior back-end developerusa",
       "company": "lemon.io",
       "description": "You will work as a Senior Back-end Developer or Site Reliability Engineer, designing and shipping solutions using Golang, Python, or other specified technologies while collaborating with clients to solve complex distributed system problems.",
       "type": "job",
@@ -3176,8 +4095,8 @@
       ],
       "posted": "2026-10-27",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3230,8 +4149,8 @@
       ],
       "posted": "2026-10-27",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3376,8 +4295,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3430,8 +4349,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3536,7 +4455,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5417,
-        "max": 12916,
+        "max": 13035,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3566,7 +4485,7 @@
       "posted": "2026-10-26",
       "salary": {
         "min": 5000,
-        "max": 12751,
+        "max": 12542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3593,8 +4512,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3624,8 +4543,8 @@
       ],
       "posted": "2026-10-26",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3840,7 +4759,7 @@
       "posted": "2026-10-23",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -3894,7 +4813,7 @@
       "posted": "2026-10-22",
       "salary": {
         "min": 6666,
-        "max": 9557,
+        "max": 9505,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4078,8 +4997,8 @@
       ],
       "posted": "2026-10-22",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4105,8 +5024,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4132,8 +5051,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4160,7 +5079,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4306,7 +5225,7 @@
       "posted": "2026-10-21",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4488,8 +5407,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 6875,
-        "max": 11276,
+        "min": 6979,
+        "max": 11270,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4516,8 +5435,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4570,8 +5489,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 7242,
-        "max": 16825,
+        "min": 7134,
+        "max": 16777,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4681,8 +5600,8 @@
       ],
       "posted": "2026-10-21",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -4746,8 +5665,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5096,8 +6015,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 7242,
-        "max": 16825,
+        "min": 7134,
+        "max": 16777,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5123,8 +6042,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6875,
-        "max": 11276,
+        "min": 6979,
+        "max": 11270,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5189,8 +6108,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5281,8 +6200,8 @@
       ],
       "posted": "2026-10-20",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5478,8 +6397,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5505,8 +6424,8 @@
       ],
       "posted": "2026-10-19",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5533,7 +6452,7 @@
       "posted": "2026-10-19",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5625,8 +6544,8 @@
       ],
       "posted": "2026-10-18",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5819,7 +6738,7 @@
       "posted": "2026-10-18",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5936,7 +6855,7 @@
       "posted": "2026-10-18",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -5963,7 +6882,7 @@
       "posted": "2026-10-18",
       "salary": {
         "min": 5000,
-        "max": 10537,
+        "max": 10592,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6191,8 +7110,8 @@
       ],
       "posted": "2026-10-15",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6247,8 +7166,8 @@
       ],
       "posted": "2026-10-14",
       "salary": {
-        "min": 5986,
-        "max": 17885,
+        "min": 5884,
+        "max": 17906,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6313,7 +7232,7 @@
       "posted": "2026-10-14",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6420,8 +7339,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6447,8 +7366,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 4166,
-        "max": 10416,
+        "min": 4167,
+        "max": 10521,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6474,8 +7393,8 @@
       ],
       "posted": "2026-10-11",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6502,7 +7421,7 @@
       "posted": "2026-10-09",
       "salary": {
         "min": 5834,
-        "max": 8542,
+        "max": 8578,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6647,8 +7566,8 @@
       ],
       "posted": "2026-10-09",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6766,7 +7685,7 @@
       "posted": "2026-10-08",
       "salary": {
         "min": 5000,
-        "max": 12751,
+        "max": 12542,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6830,8 +7749,8 @@
       ],
       "posted": "2026-10-08",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6884,8 +7803,8 @@
       ],
       "posted": "2026-10-08",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6939,7 +7858,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6966,7 +7885,7 @@
       "posted": "2026-10-07",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -6978,7 +7897,7 @@
       "uid": "8749f75709d89810",
       "title": "full-stack engineer (backend leaning)",
       "company": "elevenlabs",
-      "description": "You will build and maintain the company's backend system on top of cutting-edge voice models, improve existing products to integrate with other consumer solutions, and strengthen internal infrastructure while collaborating with teams from Frontend, Growth, and Sales.",
+      "description": "You will build and maintain the company's backend system on top of cutting-edge voice models, improve existing products to integrate with other consumer or enterprise solutions, and strengthen internal infrastructure while collaborating with engineers from other teams.",
       "type": "job",
       "hub": "global",
       "tier": "discovered",
@@ -7020,8 +7939,8 @@
       ],
       "posted": "2026-10-07",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7047,8 +7966,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7204,7 +8123,7 @@
       "posted": "2026-10-06",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7230,8 +8149,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 6875,
-        "max": 11276,
+        "min": 6979,
+        "max": 11270,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7257,8 +8176,8 @@
       ],
       "posted": "2026-10-06",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7284,8 +8203,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 6875,
-        "max": 11276,
+        "min": 6979,
+        "max": 11270,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7311,8 +8230,8 @@
       ],
       "posted": "2026-10-05",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7475,8 +8394,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7605,7 +8524,7 @@
       "posted": "2026-10-02",
       "salary": {
         "min": 7083,
-        "max": 18485,
+        "max": 18151,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7631,8 +8550,8 @@
       ],
       "posted": "2026-10-02",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7793,8 +8712,8 @@
       ],
       "posted": "2026-09-30",
       "salary": {
-        "min": 6300,
-        "max": 13821,
+        "min": 6250,
+        "max": 14333,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7820,8 +8739,8 @@
       ],
       "posted": "2026-09-30",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7912,8 +8831,8 @@
       ],
       "posted": "2026-09-30",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7966,8 +8885,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -7993,8 +8912,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 4774,
-        "max": 11666,
+        "min": 4631,
+        "max": 11820,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8020,14 +8939,41 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
       },
       "url": "https://www.alldaycity.com/l/c728934815f83f56/",
       "link": "https://www.piperpiperpiper.com/jobs/c728934815f83f56/"
+    },
+    {
+      "uid": "4eac2da49bd421f9",
+      "title": "account executive enterprise uki",
+      "company": "1password",
+      "description": "You will own a specific UK territory within the EMEA region, focusing on hunting new Enterprise clients while expanding existing accounts through upselling. Your daily tasks include prospecting, building sales pipelines, negotiating with C-suite executives, and driving growth using AI tools like Salesforce and LinkedIn Sales Navigator.",
+      "type": "job",
+      "hub": "global",
+      "tier": "discovered",
+      "verified": false,
+      "source": "ashby",
+      "reach": [
+        "worldwide"
+      ],
+      "open": [
+        "GBR"
+      ],
+      "posted": "2026-09-29",
+      "salary": {
+        "min": 5912,
+        "max": 10814,
+        "currency": "USD",
+        "period": "month",
+        "estimated": true
+      },
+      "url": "https://www.alldaycity.com/l/4eac2da49bd421f9/",
+      "link": "https://www.piperpiperpiper.com/jobs/4eac2da49bd421f9/"
     },
     {
       "uid": "a22fe88ca26dfa7a",
@@ -8047,8 +8993,8 @@
       ],
       "posted": "2026-09-29",
       "salary": {
-        "min": 6102,
-        "max": 11222,
+        "min": 5912,
+        "max": 10814,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8074,8 +9020,8 @@
       ],
       "posted": "2026-09-28",
       "salary": {
-        "min": 3891,
-        "max": 6406,
+        "min": 3750,
+        "max": 6458,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8101,8 +9047,8 @@
       ],
       "posted": "2026-09-25",
       "salary": {
-        "min": 5521,
-        "max": 12390,
+        "min": 5573,
+        "max": 12341,
         "currency": "USD",
         "period": "month",
         "estimated": true
@@ -8111,1083 +9057,130 @@
       "link": "https://www.piperpiperpiper.com/jobs/0fc16947d3880e4a/"
     },
     {
-      "uid": "771c0261f5c1f963",
-      "title": "compliance, international investigations associate",
-      "company": "coinbase",
-      "description": "You will lead complex financial crime investigations by analyzing transaction data, reviewing suspicious activity reports, and collaborating with compliance teams to prevent money laundering and terrorist financing.",
-      "type": "job",
-      "hub": "global",
+      "uid": "fdd0d91d8d751f7a",
+      "title": "2 bed flat, warwick, SW1V",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "greenhouse",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-24",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 6181,
-        "max": 6868,
-        "currency": "USD",
-        "period": "month"
+        "min": null,
+        "max": null,
+        "raw": "$6,179 / month (≈£4,726)"
       },
-      "url": "https://www.alldaycity.com/l/771c0261f5c1f963/",
-      "link": "https://www.piperpiperpiper.com/jobs/771c0261f5c1f963/"
+      "url": "https://www.alldaycity.com/l/fdd0d91d8d751f7a/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1502904"
     },
     {
-      "uid": "e6f8d8967f968510",
-      "title": "risk & monitoring analyst iii",
-      "company": "coinbase",
-      "description": "You will conduct quality assurance audits on Complaints investigations, analyze root causes of operational errors, and partner with cross-functional teams to improve compliance processes and data reporting.",
-      "type": "job",
-      "hub": "global",
+      "uid": "fd5c5087fc43e371",
+      "title": "studio, kensington and chelsea, SW7",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "greenhouse",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-24",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 5901,
-        "max": 5901,
-        "currency": "USD",
-        "period": "month"
+        "min": null,
+        "max": null,
+        "raw": "$4,410 / month (≈£3,373)"
       },
-      "url": "https://www.alldaycity.com/l/e6f8d8967f968510/",
-      "link": "https://www.piperpiperpiper.com/jobs/e6f8d8967f968510/"
+      "url": "https://www.alldaycity.com/l/fd5c5087fc43e371/",
+      "link": "https://www.spotahome.com/london/for-rent:studios/1285263"
     },
     {
-      "uid": "ce1f7de1590487b0",
-      "title": "head of professional services, emea",
-      "company": "benchling",
-      "description": "You will lead the Professional Services team in Europe, overseeing end-to-end delivery quality for enterprise software implementations while partnering with sales and customer success to drive client adoption of Benchling's AI capabilities.",
-      "type": "job",
-      "hub": "global",
+      "uid": "b11d308f0566f562",
+      "title": "1 bed flat, london, W1T",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "ashby",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-24",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 5834,
-        "max": 8542,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$7,896 / month (≈£6,040)"
       },
-      "url": "https://www.alldaycity.com/l/ce1f7de1590487b0/",
-      "link": "https://www.piperpiperpiper.com/jobs/ce1f7de1590487b0/"
+      "url": "https://www.alldaycity.com/l/b11d308f0566f562/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/1481340"
     },
     {
-      "uid": "eb4d86af040a2178",
-      "title": "forward deployed strategist",
-      "company": "cursor",
-      "description": "You will partner with executive sponsors to scope AI production workflows, translate business problems into technical deliverables, and own the configuration layer while collaborating with FDEs on deeper production builds.",
-      "type": "job",
-      "hub": "global",
+      "uid": "9772634ea4d1f06d",
+      "title": "room, millwall, E14",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "ashby",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-23",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 5834,
-        "max": 8542,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$1,634 / month (≈£1,250)"
       },
-      "url": "https://www.alldaycity.com/l/eb4d86af040a2178/",
-      "link": "https://www.piperpiperpiper.com/jobs/eb4d86af040a2178/"
+      "url": "https://www.alldaycity.com/l/9772634ea4d1f06d/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/926674"
     },
     {
-      "uid": "34831d52a8137f89",
-      "title": "associate general counsel, privacy",
-      "company": "coinbase",
-      "description": "You will act as an Associate General Counsel within Coinbase's Privacy Legal team, advising on privacy strategy while drafting policies and responding to regulatory inquiries.",
-      "type": "job",
-      "hub": "global",
+      "uid": "47bbc51d545cd244",
+      "title": "6 bed flat, E14",
+      "description": "furnished, minimum stay 4 months",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "greenhouse",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-22",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 18665,
-        "max": 19647,
-        "currency": "USD",
-        "period": "month"
+        "min": null,
+        "max": null,
+        "raw": "$1,101 / month (≈£842)"
       },
-      "url": "https://www.alldaycity.com/l/34831d52a8137f89/",
-      "link": "https://www.piperpiperpiper.com/jobs/34831d52a8137f89/"
+      "url": "https://www.alldaycity.com/l/47bbc51d545cd244/",
+      "link": "https://www.spotahome.com/london/for-rent:rooms/636213"
     },
     {
-      "uid": "70e8b550f5046fa0",
-      "title": "data scientist - analytics business consulting",
-      "company": "veeva systems",
-      "description": "You will build analytical models and methodologies that integrate Veeva Data Cloud with European healthcare data to drive business value and operational change.",
-      "type": "job",
-      "hub": "global",
+      "uid": "1b3e378bad074335",
+      "title": "1 bed flat, abingdon, SW5",
+      "description": "furnished, minimum stay 1 month",
+      "type": "property",
+      "hub": "canary-wharf",
       "tier": "discovered",
       "verified": false,
-      "source": "lever",
+      "source": "spotahome",
       "reach": [
-        "worldwide"
+        "london"
       ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-22",
+      "posted": "2026-11-24",
       "salary": {
-        "min": 5000,
-        "max": 10784,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
+        "min": null,
+        "max": null,
+        "raw": "$3,595 / month (≈£2,750)"
       },
-      "url": "https://www.alldaycity.com/l/70e8b550f5046fa0/",
-      "link": "https://www.piperpiperpiper.com/jobs/70e8b550f5046fa0/"
-    },
-    {
-      "uid": "77ead616d0e9e57e",
-      "title": "contract software engineer - webcompat tooling (dashboards and reporting), firefox",
-      "company": "mozilla",
-      "description": "You will design and maintain dashboard systems to monitor web site health, automate screenshot capture pipelines for reporting, and collaborate with QA teams to translate user needs into reliable data tools.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "CAN",
-        "DEU",
-        "FRA",
-        "GBR"
-      ],
-      "posted": "2026-09-22",
-      "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/77ead616d0e9e57e/",
-      "link": "https://www.piperpiperpiper.com/jobs/77ead616d0e9e57e/"
-    },
-    {
-      "uid": "398f21f57513a9ec",
-      "title": "senior applied research scientist - personalization",
-      "company": "spotify",
-      "description": "You will develop advanced generative conversational speech-to-speech models by collaborating with engineering teams to improve production pipelines, model quality, and emotional expressiveness.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-21",
-      "salary": {
-        "min": 5000,
-        "max": 10784,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/398f21f57513a9ec/",
-      "link": "https://www.piperpiperpiper.com/jobs/398f21f57513a9ec/"
-    },
-    {
-      "uid": "0eccc7792e6b44a7",
-      "title": "senior shopify developer",
-      "company": "sanctuary computer inc",
-      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here. 🌎 About garden3d.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "remotive",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 6667,
-        "max": 12500,
-        "currency": "USD",
-        "period": "month"
-      },
-      "url": "https://www.alldaycity.com/l/0eccc7792e6b44a7/",
-      "link": "https://www.piperpiperpiper.com/jobs/0eccc7792e6b44a7/"
-    },
-    {
-      "uid": "03efecbde36b219d",
-      "title": "senior ai engineer",
-      "company": "lemon.io",
-      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "remotive",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "ARG",
-        "AUS",
-        "AUT",
-        "BEL",
-        "BGD",
-        "BGR",
-        "BIH",
-        "BOL",
-        "BRA",
-        "CHE",
-        "CHL",
-        "CHN",
-        "COL",
-        "CRI",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "DOM",
-        "ECU",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "GTM",
-        "HKG",
-        "HND",
-        "HRV",
-        "HUN",
-        "IDN",
-        "IND",
-        "IRL",
-        "ISL",
-        "ITA",
-        "JPN",
-        "KOR",
-        "LKA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MEX",
-        "MKD",
-        "MLT",
-        "MNE",
-        "MYS",
-        "NIC",
-        "NLD",
-        "NOR",
-        "NPL",
-        "NZL",
-        "PAK",
-        "PAN",
-        "PER",
-        "PHL",
-        "POL",
-        "PRT",
-        "PRY",
-        "ROU",
-        "SGP",
-        "SLV",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "THA",
-        "TUR",
-        "TWN",
-        "UKR",
-        "URY",
-        "USA",
-        "VEN",
-        "VNM"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/03efecbde36b219d/",
-      "link": "https://www.piperpiperpiper.com/jobs/03efecbde36b219d/"
-    },
-    {
-      "uid": "f32e4c3e4a14b503",
-      "title": "backend engineer",
-      "company": "resend",
-      "description": "You will own features end-to-end, including building APIs, dashboard experiences, and services behind them while operating reliable distributed systems like queues and background workers.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 6250,
-        "max": 7916,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/f32e4c3e4a14b503/",
-      "link": "https://www.piperpiperpiper.com/jobs/f32e4c3e4a14b503/"
-    },
-    {
-      "uid": "ad17fccecde06b93",
-      "title": "business manager, go-to-market",
-      "company": "oyster",
-      "description": "You will act as Business Manager for the Go-To-Market organisation, translating strategy into operational plans while collaborating with VPs of Sales, Marketing, Partnerships, and RevOps to drive cross-functional initiatives.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 5417,
-        "max": 12916,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/ad17fccecde06b93/",
-      "link": "https://www.piperpiperpiper.com/jobs/ad17fccecde06b93/"
-    },
-    {
-      "uid": "6472a3902803da71",
-      "title": "technical customer success manager - emea",
-      "company": "posthog",
-      "description": "You will act as the primary customer success representative for 25 to 40 paying clients, handling technical troubleshooting, commercial inquiries, and relationship management while ensuring high retention rates.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 5000,
-        "max": 8334,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/6472a3902803da71/",
-      "link": "https://www.piperpiperpiper.com/jobs/6472a3902803da71/"
-    },
-    {
-      "uid": "734f12e73848a946",
-      "title": "principal gsi partner manager - accenture (emea)",
-      "company": "datadog",
-      "description": "You will recruit new strategic Global Systems Integrator partners, activate existing ones through training and joint selling, coordinate technical launches, and report on partner revenue metrics while collaborating with regional sales teams.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-18",
-      "salary": {
-        "min": 5834,
-        "max": 8542,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/734f12e73848a946/",
-      "link": "https://www.piperpiperpiper.com/jobs/734f12e73848a946/"
-    },
-    {
-      "uid": "5399ab872b331596",
-      "title": "senior .net full-stack developer",
-      "company": "lemon.io",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "remotive",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "ARG",
-        "AUS",
-        "AUT",
-        "BEL",
-        "BGD",
-        "BGR",
-        "BIH",
-        "BOL",
-        "BRA",
-        "CHE",
-        "CHL",
-        "CHN",
-        "COL",
-        "CRI",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "DOM",
-        "ECU",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "GTM",
-        "HKG",
-        "HND",
-        "HRV",
-        "HUN",
-        "IDN",
-        "IND",
-        "IRL",
-        "ISL",
-        "ITA",
-        "JPN",
-        "KOR",
-        "LKA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MEX",
-        "MKD",
-        "MLT",
-        "MNE",
-        "MYS",
-        "NIC",
-        "NLD",
-        "NOR",
-        "NPL",
-        "NZL",
-        "PAK",
-        "PAN",
-        "PER",
-        "PHL",
-        "POL",
-        "PRT",
-        "PRY",
-        "ROU",
-        "SGP",
-        "SLV",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "THA",
-        "TUR",
-        "TWN",
-        "UKR",
-        "URY",
-        "USA",
-        "VEN",
-        "VNM"
-      ],
-      "posted": "2026-09-17",
-      "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/5399ab872b331596/",
-      "link": "https://www.piperpiperpiper.com/jobs/5399ab872b331596/"
-    },
-    {
-      "uid": "719c2bcc75628cca",
-      "title": "product expert – veeva rim submissions, archive, and publishing",
-      "company": "veeva systems",
-      "description": "You will act as a Product Expert supporting Veeva's RIM products, creating problem statements and advocating for customer needs while collaborating with product managers to shape the roadmap.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-17",
-      "salary": {
-        "min": 6875,
-        "max": 11276,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/719c2bcc75628cca/",
-      "link": "https://www.piperpiperpiper.com/jobs/719c2bcc75628cca/"
-    },
-    {
-      "uid": "788e07aa9d4ac466",
-      "title": "director, support engineering",
-      "company": "sanity",
-      "description": "You will lead the Support Engineering function end-to-end, managing global operations including ticket triage, SLA adherence, and escalation paths while partnering with engineering and product to resolve complex technical issues.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-17",
-      "salary": {
-        "min": 6250,
-        "max": 7916,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/788e07aa9d4ac466/",
-      "link": "https://www.piperpiperpiper.com/jobs/788e07aa9d4ac466/"
-    },
-    {
-      "uid": "1f4607ffcec6fff9",
-      "title": "senior data scientist, product",
-      "company": "coinbase",
-      "description": "You will analyze complex data to drive product strategy and improve user experience across consumer platforms. You will build measurement frameworks, conduct causal experiments, and translate statistical insights into actionable recommendations using SQL and Python.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 13602,
-        "max": 15113,
-        "currency": "USD",
-        "period": "month"
-      },
-      "url": "https://www.alldaycity.com/l/1f4607ffcec6fff9/",
-      "link": "https://www.piperpiperpiper.com/jobs/1f4607ffcec6fff9/"
-    },
-    {
-      "uid": "3d01db28c83dbd4b",
-      "title": "risk & monitoring analyst iii",
-      "company": "coinbase",
-      "description": "You will conduct quality assurance audits on Complaints case investigations, analyze root causes of operational errors, and partner with cross-functional teams to improve compliance processes.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 5606,
-        "max": 5901,
-        "currency": "USD",
-        "period": "month"
-      },
-      "url": "https://www.alldaycity.com/l/3d01db28c83dbd4b/",
-      "link": "https://www.piperpiperpiper.com/jobs/3d01db28c83dbd4b/"
-    },
-    {
-      "uid": "50b946a66f588c76",
-      "title": "finops engineer",
-      "company": "supabase",
-      "description": "You will act as a FinOps Engineer to drive cost optimization and cloud financial governance across AWS and GCP infrastructure. Your daily tasks involve analyzing billing data, building cost attribution tools, automating governance policies, and partnering with engineering and finance teams to identify and implement savings.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/50b946a66f588c76/",
-      "link": "https://www.piperpiperpiper.com/jobs/50b946a66f588c76/"
-    },
-    {
-      "uid": "8ff731a50436e73e",
-      "title": "senior data engineer",
-      "company": "oyster",
-      "description": "You will design and build data pipelines and platform capabilities that support AI applications, knowledge systems, and workflows. You will leverage AWS and Snowflake to create secure, reusable services for enterprise data access, ensuring production-grade reliability while working with Engineering, Product, and IT teams.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 5986,
-        "max": 17885,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/8ff731a50436e73e/",
-      "link": "https://www.piperpiperpiper.com/jobs/8ff731a50436e73e/"
-    },
-    {
-      "uid": "4c101f79961ecbe3",
-      "title": "sales development representative",
-      "company": "cursor",
-      "description": "You will generate qualified sales leads through outbound prospecting, research target accounts, and conduct discovery conversations with technical stakeholders.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 6102,
-        "max": 11222,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/4c101f79961ecbe3/",
-      "link": "https://www.piperpiperpiper.com/jobs/4c101f79961ecbe3/"
-    },
-    {
-      "uid": "a307b05fe7df6359",
-      "title": "staff software engineer",
-      "company": "circleci",
-      "description": "You will own technical strategy for a specific domain while building full-stack features in Go, React, and TypeScript. Your daily work involves defining interfaces for autonomous pipelines, mentoring multiple engineers, and connecting engineering teams to business goals through observability tools.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "greenhouse",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "CAN",
-        "GBR",
-        "MEX",
-        "USA"
-      ],
-      "posted": "2026-09-16",
-      "salary": {
-        "min": 11611,
-        "max": 15779,
-        "currency": "USD",
-        "period": "month"
-      },
-      "url": "https://www.alldaycity.com/l/a307b05fe7df6359/",
-      "link": "https://www.piperpiperpiper.com/jobs/a307b05fe7df6359/"
-    },
-    {
-      "uid": "3f9396b927952773",
-      "title": "account partner - cro",
-      "company": "veeva systems",
-      "description": "You will act as an Account Partner representing Veeva's Development Cloud for European CROs, focusing on generating new business opportunities and managing strategic client relationships.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "lever",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "GBR"
-      ],
-      "posted": "2026-09-15",
-      "salary": {
-        "min": 6102,
-        "max": 11222,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/3f9396b927952773/",
-      "link": "https://www.piperpiperpiper.com/jobs/3f9396b927952773/"
-    },
-    {
-      "uid": "51562dc6e1a5083c",
-      "title": "platform engineer, edge & networking",
-      "company": "supabase",
-      "description": "You will design and operate the Supabase Edge & Networking squad, which handles API gateway, routing, load balancing, DNS, and secure global traffic distribution across high-scale infrastructure.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "worldwide"
-      ],
-      "posted": "2026-09-14",
-      "salary": {
-        "min": 7083,
-        "max": 8854,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/51562dc6e1a5083c/",
-      "link": "https://www.piperpiperpiper.com/jobs/51562dc6e1a5083c/"
-    },
-    {
-      "uid": "c2b47f49792df2a2",
-      "title": "security engineer",
-      "company": "posthog",
-      "description": "You will build detection pipelines, triage security alerts, lead incident response, and support the Vulnerability Disclosure Program while working with AWS infrastructure.",
-      "type": "job",
-      "hub": "global",
-      "tier": "discovered",
-      "verified": false,
-      "source": "ashby",
-      "reach": [
-        "worldwide"
-      ],
-      "open": [
-        "ALB",
-        "AUT",
-        "BEL",
-        "BGR",
-        "BIH",
-        "CHE",
-        "CYP",
-        "CZE",
-        "DEU",
-        "DNK",
-        "ESP",
-        "EST",
-        "FIN",
-        "FRA",
-        "GBR",
-        "GRC",
-        "HRV",
-        "HUN",
-        "IRL",
-        "ISL",
-        "ITA",
-        "LTU",
-        "LUX",
-        "LVA",
-        "MDA",
-        "MKD",
-        "MLT",
-        "MNE",
-        "NLD",
-        "NOR",
-        "POL",
-        "PRT",
-        "ROU",
-        "SRB",
-        "SVK",
-        "SVN",
-        "SWE",
-        "TUR",
-        "UKR"
-      ],
-      "posted": "2026-09-14",
-      "salary": {
-        "min": 6300,
-        "max": 13821,
-        "currency": "USD",
-        "period": "month",
-        "estimated": true
-      },
-      "url": "https://www.alldaycity.com/l/c2b47f49792df2a2/",
-      "link": "https://www.piperpiperpiper.com/jobs/c2b47f49792df2a2/"
+      "url": "https://www.alldaycity.com/l/1b3e378bad074335/",
+      "link": "https://www.spotahome.com/london/for-rent:apartments/420083"
     },
     {
       "uid": "f5cd129303d2f80f",
@@ -9205,7 +9198,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,416 / month (≈£4,840)"
+        "raw": "$6,328 / month (≈£4,840)"
       },
       "url": "https://www.alldaycity.com/l/f5cd129303d2f80f/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1750027"
@@ -9226,7 +9219,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,113 / month (≈£840)"
+        "raw": "$1,098 / month (≈£840)"
       },
       "url": "https://www.alldaycity.com/l/f455f34ec3770a08/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/273148"
@@ -9247,7 +9240,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,380 / month (≈£1,041)"
+        "raw": "$1,361 / month (≈£1,041)"
       },
       "url": "https://www.alldaycity.com/l/cb38cca2b11c5c43/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1748664"
@@ -9268,7 +9261,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,153 / month (≈£870)"
+        "raw": "$1,137 / month (≈£870)"
       },
       "url": "https://www.alldaycity.com/l/c94bf10da0701a6c/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/273149"
@@ -9289,7 +9282,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,032 / month (≈£3,796)"
+        "raw": "$4,963 / month (≈£3,796)"
       },
       "url": "https://www.alldaycity.com/l/3a8149aeafed3226/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1748643"
@@ -9310,7 +9303,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,856 / month (≈£1,400)"
+        "raw": "$1,830 / month (≈£1,400)"
       },
       "url": "https://www.alldaycity.com/l/27bbb9a0de2673d6/",
       "link": "https://www.spotahome.com/london/for-rent:studios/1214619"
@@ -9331,7 +9324,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,100 / month (≈£830)"
+        "raw": "$1,085 / month (≈£830)"
       },
       "url": "https://www.alldaycity.com/l/0e3fcc7e44d26ffb/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/273147"
@@ -9352,7 +9345,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,220 / month (≈£920)"
+        "raw": "$1,203 / month (≈£920)"
       },
       "url": "https://www.alldaycity.com/l/ee02f0b94b0c4156/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319914"
@@ -9373,7 +9366,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,193 / month (≈£900)"
+        "raw": "$1,177 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/dfbb149c9305c270/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090064"
@@ -9394,7 +9387,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,352 / month (≈£1,020)"
+        "raw": "$1,333 / month (≈£1,020)"
       },
       "url": "https://www.alldaycity.com/l/c38db382e099d01c/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319912"
@@ -9415,7 +9408,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$915 / month (≈£690)"
+        "raw": "$902 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/be436e4134990ad9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-white-hart-lane-n17/3090057"
@@ -9436,7 +9429,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,259 / month (≈£950)"
+        "raw": "$1,242 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/bd151e6052ad30b2/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319911"
@@ -9457,7 +9450,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,386 / month (≈£1,800)"
+        "raw": "$2,353 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/b13440835269afad/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-philbeach-gardens-sw5/3090060"
@@ -9478,7 +9471,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,274 / month (≈£2,470)"
+        "raw": "$3,229 / month (≈£2,470)"
       },
       "url": "https://www.alldaycity.com/l/93bb013c9deec865/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315679p"
@@ -9499,7 +9492,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,197 / month (≈£4,675)"
+        "raw": "$6,112 / month (≈£4,675)"
       },
       "url": "https://www.alldaycity.com/l/82c728ee00ba8cd6/",
       "link": "https://www.spotahome.com/london/for-rent:studios/971469"
@@ -9520,7 +9513,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,094 / month (≈£825)"
+        "raw": "$1,079 / month (≈£825)"
       },
       "url": "https://www.alldaycity.com/l/7dbb68782ec84ee3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lordship-lane-n17/3090061"
@@ -9541,7 +9534,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,094 / month (≈£825)"
+        "raw": "$1,079 / month (≈£825)"
       },
       "url": "https://www.alldaycity.com/l/7d89ca68be9d5083/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brantwood-road-n17/3090053"
@@ -9562,7 +9555,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,494 / month (≈£4,899)"
+        "raw": "$6,405 / month (≈£4,899)"
       },
       "url": "https://www.alldaycity.com/l/7c94df45bd07090d/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1633859p"
@@ -9583,7 +9576,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,585 / month (≈£1,950)"
+        "raw": "$2,549 / month (≈£1,950)"
       },
       "url": "https://www.alldaycity.com/l/69d10ae5487085f9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-glencar-court-se19/3090046"
@@ -9604,7 +9597,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,350 / month (≈£4,036)"
+        "raw": "$5,276 / month (≈£4,036)"
       },
       "url": "https://www.alldaycity.com/l/47e53a1c59784958/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/320439"
@@ -9625,7 +9618,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,127 / month (≈£850)"
+        "raw": "$1,111 / month (≈£850)"
       },
       "url": "https://www.alldaycity.com/l/4614124abe57f949/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lowden-road-n9/3090058"
@@ -9646,7 +9639,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,166 / month (≈£880)"
+        "raw": "$1,150 / month (≈£880)"
       },
       "url": "https://www.alldaycity.com/l/3a2a539e9d425838/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/319913"
@@ -9667,7 +9660,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$915 / month (≈£690)"
+        "raw": "$902 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/1d7b7cbfbcd3fc16/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090063"
@@ -9688,7 +9681,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,901 / month (≈£3,697)"
+        "raw": "$4,833 / month (≈£3,697)"
       },
       "url": "https://www.alldaycity.com/l/0f8729ba7fa491ac/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1606627p"
@@ -9709,7 +9702,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,193 / month (≈£900)"
+        "raw": "$1,177 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/0e1751689c894074/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-walnut-gardens-e15/3090045"
@@ -9730,7 +9723,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,151 / month (≈£2,377)"
+        "raw": "$3,108 / month (≈£2,377)"
       },
       "url": "https://www.alldaycity.com/l/06455742d48f1313/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1315688p"
@@ -9751,7 +9744,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$915 / month (≈£690)"
+        "raw": "$902 / month (≈£690)"
       },
       "url": "https://www.alldaycity.com/l/0539cbfa49178eed/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-wellington-road-e6/3090039"
@@ -9772,7 +9765,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,960 / month (≈£4,496)"
+        "raw": "$5,878 / month (≈£4,496)"
       },
       "url": "https://www.alldaycity.com/l/f54eac5faa35e967/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1591335p"
@@ -9793,7 +9786,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,701 / month (≈£5,810)"
+        "raw": "$7,596 / month (≈£5,810)"
       },
       "url": "https://www.alldaycity.com/l/c02c1ca42465a407/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002799"
@@ -9814,7 +9807,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,723 / month (≈£1,300)"
+        "raw": "$1,700 / month (≈£1,300)"
       },
       "url": "https://www.alldaycity.com/l/bb6a86220f7640f2/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-knighton-park-road-se26/261027"
@@ -9835,7 +9828,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,246 / month (≈£940)"
+        "raw": "$1,229 / month (≈£940)"
       },
       "url": "https://www.alldaycity.com/l/b9082ddeee4b97b6/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/303916"
@@ -9856,7 +9849,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,158 / month (≈£5,400)"
+        "raw": "$7,060 / month (≈£5,400)"
       },
       "url": "https://www.alldaycity.com/l/b2f0504417bd4dfd/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-viscount-house-nw10/54781"
@@ -9877,7 +9870,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,307 / month (≈£2,495)"
+        "raw": "$3,262 / month (≈£2,495)"
       },
       "url": "https://www.alldaycity.com/l/a90fd820794d4ac8/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-terraced-house-northcott-avenue-n22/157290"
@@ -9898,7 +9891,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,639 / month (≈£2,745)"
+        "raw": "$3,589 / month (≈£2,745)"
       },
       "url": "https://www.alldaycity.com/l/91c477ecbaf1a10f/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-hoxton-st-n1/187385"
@@ -9919,7 +9912,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$10,095 / month (≈£7,616)"
+        "raw": "$9,957 / month (≈£7,616)"
       },
       "url": "https://www.alldaycity.com/l/8e8d3073198b6005/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1513628p"
@@ -9940,7 +9933,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,060 / month (≈£800)"
+        "raw": "$1,046 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/82a5e3858c724e65/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-rainham-road-south-dagenham-rm10/38258"
@@ -9961,7 +9954,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,485 / month (≈£2,629)"
+        "raw": "$3,437 / month (≈£2,629)"
       },
       "url": "https://www.alldaycity.com/l/7acd8fb7b48e3b7a/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1583652p"
@@ -9982,7 +9975,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,581 / month (≈£4,210)"
+        "raw": "$5,504 / month (≈£4,210)"
       },
       "url": "https://www.alldaycity.com/l/7a06f4636a1e703d/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002534"
@@ -10003,7 +9996,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,298 / month (≈£1,733)"
+        "raw": "$2,266 / month (≈£1,733)"
       },
       "url": "https://www.alldaycity.com/l/7407ab44a4fa8291/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-st-marks-road-w7/260257"
@@ -10024,7 +10017,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,460 / month (≈£3,365)"
+        "raw": "$4,399 / month (≈£3,365)"
       },
       "url": "https://www.alldaycity.com/l/6b520d64bfedf90c/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1574081p"
@@ -10045,7 +10038,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,370 / month (≈£5,560)"
+        "raw": "$7,269 / month (≈£5,560)"
       },
       "url": "https://www.alldaycity.com/l/6a917ff9ced69dca/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002922"
@@ -10066,7 +10059,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,386 / month (≈£1,800)"
+        "raw": "$2,353 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/5a14171a9d981b1e/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-maisonette-meadowview-road-se6/153397"
@@ -10087,7 +10080,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,319 / month (≈£995)"
+        "raw": "$1,301 / month (≈£995)"
       },
       "url": "https://www.alldaycity.com/l/427c57700ba20a82/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-charlton-road-se3/119851"
@@ -10108,7 +10101,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,639 / month (≈£3,500)"
+        "raw": "$4,576 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/3e64450f2c976dfb/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1017893"
@@ -10129,7 +10122,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$17,509 / month (≈£13,209)"
+        "raw": "$17,269 / month (≈£13,209)"
       },
       "url": "https://www.alldaycity.com/l/3864b92744abc545/",
       "link": "https://www.theblueground.com/p/furnished-apartments/lon-1548258p"
@@ -10150,7 +10143,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,983 / month (≈£2,250)"
+        "raw": "$2,942 / month (≈£2,250)"
       },
       "url": "https://www.alldaycity.com/l/371e67c0ceaa1052/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-maisonette-avenue-road-w3/325176"
@@ -10171,7 +10164,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,660 / month (≈£4,270)"
+        "raw": "$5,582 / month (≈£4,270)"
       },
       "url": "https://www.alldaycity.com/l/36851c492e84984f/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1002507"
@@ -10192,7 +10185,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,233 / month (≈£930)"
+        "raw": "$1,216 / month (≈£930)"
       },
       "url": "https://www.alldaycity.com/l/2684070f335524e4/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/303919"
@@ -10213,7 +10206,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,844 / month (≈£2,900)"
+        "raw": "$3,791 / month (≈£2,900)"
       },
       "url": "https://www.alldaycity.com/l/fc30bef5a85cf5a1/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/227542"
@@ -10234,7 +10227,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,055 / month (≈£1,550)"
+        "raw": "$2,026 / month (≈£1,550)"
       },
       "url": "https://www.alldaycity.com/l/f8c60f1446a054d2/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clerkenwell-road-ec1r/3087759"
@@ -10255,7 +10248,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,498 / month (≈£1,130)"
+        "raw": "$1,477 / month (≈£1,130)"
       },
       "url": "https://www.alldaycity.com/l/f5af4048356675fc/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-agamemnon-road-nw6/3087812"
@@ -10276,7 +10269,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,392 / month (≈£1,050)"
+        "raw": "$1,373 / month (≈£1,050)"
       },
       "url": "https://www.alldaycity.com/l/f41f1bb769481063/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-stamford-hill-n16/3087796"
@@ -10297,7 +10290,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,790 / month (≈£1,350)"
+        "raw": "$1,765 / month (≈£1,350)"
       },
       "url": "https://www.alldaycity.com/l/f392cd0d23240956/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-london-road-sw17/3087791"
@@ -10318,7 +10311,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,239 / month (≈£935)"
+        "raw": "$1,222 / month (≈£935)"
       },
       "url": "https://www.alldaycity.com/l/ef3ca0e9d66c52c1/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-shannon-grove-sw9/3087809"
@@ -10339,7 +10332,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,124 / month (≈£4,620)"
+        "raw": "$6,040 / month (≈£4,620)"
       },
       "url": "https://www.alldaycity.com/l/ee6c1ba12a6ccebf/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322281"
@@ -10360,7 +10353,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,639 / month (≈£3,500)"
+        "raw": "$4,576 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/ecd1903fa80a31d2/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1302496"
@@ -10381,7 +10374,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,253 / month (≈£1,700)"
+        "raw": "$2,222 / month (≈£1,700)"
       },
       "url": "https://www.alldaycity.com/l/e8934feb6bb1c525/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-caledonian-road-n7/3087774"
@@ -10402,7 +10395,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,970 / month (≈£2,995)"
+        "raw": "$3,915 / month (≈£2,995)"
       },
       "url": "https://www.alldaycity.com/l/e5986ebfdad90a0c/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-wembley-park-central-area-ha9/3087698"
@@ -10423,7 +10416,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,065 / month (≈£3,067)"
+        "raw": "$4,010 / month (≈£3,067)"
       },
       "url": "https://www.alldaycity.com/l/dc466c7eb09daf91/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1263036"
@@ -10444,7 +10437,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,763 / month (≈£1,330)"
+        "raw": "$1,739 / month (≈£1,330)"
       },
       "url": "https://www.alldaycity.com/l/dc3219ef73086f08/",
       "link": "https://www.spotahome.com/london/for-rent:studios/1317417"
@@ -10465,7 +10458,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,386 / month (≈£1,800)"
+        "raw": "$2,353 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/da7ad84f50a39b72/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-raymond-close-se26/3087728"
@@ -10486,7 +10479,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,696 / month (≈£2,788)"
+        "raw": "$3,645 / month (≈£2,788)"
       },
       "url": "https://www.alldaycity.com/l/d3f647fd93912080/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1301143"
@@ -10507,7 +10500,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,575 / month (≈£4,960)"
+        "raw": "$6,484 / month (≈£4,960)"
       },
       "url": "https://www.alldaycity.com/l/cd4f79c8b37f029c/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1305430"
@@ -10528,7 +10521,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$11,201 / month (≈£8,450)"
+        "raw": "$11,047 / month (≈£8,450)"
       },
       "url": "https://www.alldaycity.com/l/c839dcccaeae5c45/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-st-edmunds-terrace-nw8/3087714"
@@ -10549,7 +10542,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,386 / month (≈£1,800)"
+        "raw": "$2,353 / month (≈£1,800)"
       },
       "url": "https://www.alldaycity.com/l/c5b755b228912b50/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-broad-lane-n15/3087741"
@@ -10570,7 +10563,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$13,918 / month (≈£10,500)"
+        "raw": "$13,727 / month (≈£10,500)"
       },
       "url": "https://www.alldaycity.com/l/b9c75c7d4a37d5ca/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/928674"
@@ -10591,7 +10584,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,458 / month (≈£1,100)"
+        "raw": "$1,438 / month (≈£1,100)"
       },
       "url": "https://www.alldaycity.com/l/a7a41728dfb93e67/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-princes-square-w2/3087841"
@@ -10612,7 +10605,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,839 / month (≈£5,914)"
+        "raw": "$7,732 / month (≈£5,914)"
       },
       "url": "https://www.alldaycity.com/l/a632fa7ed4eb5418/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322316"
@@ -10633,7 +10626,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,916 / month (≈£2,200)"
+        "raw": "$2,876 / month (≈£2,200)"
       },
       "url": "https://www.alldaycity.com/l/a37c99262d37e4c9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-sienna-alto-se13/3087792"
@@ -10654,7 +10647,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,551 / month (≈£1,170)"
+        "raw": "$1,530 / month (≈£1,170)"
       },
       "url": "https://www.alldaycity.com/l/9ef8a67d3ea51274/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-wayford-st-sw11/3087794"
@@ -10675,7 +10668,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,965 / month (≈£4,500)"
+        "raw": "$5,883 / month (≈£4,500)"
       },
       "url": "https://www.alldaycity.com/l/9adbe9271735a0fe/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1298990"
@@ -10696,7 +10689,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,628 / month (≈£5,000)"
+        "raw": "$6,537 / month (≈£5,000)"
       },
       "url": "https://www.alldaycity.com/l/93529d91a9151c28/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-queensway-w2/3087828"
@@ -10717,7 +10710,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,585 / month (≈£1,950)"
+        "raw": "$2,549 / month (≈£1,950)"
       },
       "url": "https://www.alldaycity.com/l/931e7ffd9be2b000/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-sinclair-road-w14/3087737"
@@ -10738,7 +10731,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,628 / month (≈£4,246)"
+        "raw": "$5,551 / month (≈£4,246)"
       },
       "url": "https://www.alldaycity.com/l/905cb9ce96e7916b/",
       "link": "https://www.spotahome.com/london/for-rent:studios/414609"
@@ -10759,7 +10752,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,799 / month (≈£4,375)"
+        "raw": "$5,720 / month (≈£4,375)"
       },
       "url": "https://www.alldaycity.com/l/8e96594be9353268/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-terraced-house-queensbridge-road-e8/3087846"
@@ -10780,7 +10773,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,916 / month (≈£2,200)"
+        "raw": "$2,876 / month (≈£2,200)"
       },
       "url": "https://www.alldaycity.com/l/8acc7377db96f538/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-essex-road-n1/3087813"
@@ -10801,7 +10794,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,049 / month (≈£2,300)"
+        "raw": "$3,007 / month (≈£2,300)"
       },
       "url": "https://www.alldaycity.com/l/870eaa026157e686/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-terraced-house-mitcham-road-e6/3087699"
@@ -10822,7 +10815,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,723 / month (≈£1,300)"
+        "raw": "$1,700 / month (≈£1,300)"
       },
       "url": "https://www.alldaycity.com/l/8626cae4703699b3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/studio-flat-cleveley-crescent-w5/3087858"
@@ -10843,7 +10836,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,165 / month (≈£3,142)"
+        "raw": "$4,108 / month (≈£3,142)"
       },
       "url": "https://www.alldaycity.com/l/855f09a05ed23375/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322224"
@@ -10864,7 +10857,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,628 / month (≈£4,246)"
+        "raw": "$5,551 / month (≈£4,246)"
       },
       "url": "https://www.alldaycity.com/l/7cc0791ad1aea46b/",
       "link": "https://www.spotahome.com/london/for-rent:studios/414588"
@@ -10885,7 +10878,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,200 / month (≈£905)"
+        "raw": "$1,183 / month (≈£905)"
       },
       "url": "https://www.alldaycity.com/l/7c83ff78353bc395/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1327360"
@@ -10906,7 +10899,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,166 / month (≈£880)"
+        "raw": "$1,150 / month (≈£880)"
       },
       "url": "https://www.alldaycity.com/l/729303bd2605d470/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-kennyland-court-nw4/3087746"
@@ -10927,7 +10920,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,242 / month (≈£3,200)"
+        "raw": "$4,183 / month (≈£3,200)"
       },
       "url": "https://www.alldaycity.com/l/6ca5090b39b3a0be/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-islington-n19/3087834"
@@ -10948,7 +10941,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$8,136 / month (≈£6,138)"
+        "raw": "$8,024 / month (≈£6,138)"
       },
       "url": "https://www.alldaycity.com/l/611702a8a50a18dd/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322320"
@@ -10969,7 +10962,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,074 / month (≈£810)"
+        "raw": "$1,059 / month (≈£810)"
       },
       "url": "https://www.alldaycity.com/l/60589fe8a169295c/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/611609"
@@ -10990,7 +10983,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,850 / month (≈£3,659)"
+        "raw": "$4,784 / month (≈£3,659)"
       },
       "url": "https://www.alldaycity.com/l/603b974f5c992d5a/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322393"
@@ -11011,7 +11004,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,170 / month (≈£3,900)"
+        "raw": "$5,099 / month (≈£3,900)"
       },
       "url": "https://www.alldaycity.com/l/602873e4e5b6ac68/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/4-bed-flat-old-kent-road-se1/3087805"
@@ -11032,7 +11025,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,308 / month (≈£3,250)"
+        "raw": "$4,249 / month (≈£3,250)"
       },
       "url": "https://www.alldaycity.com/l/5ead35bac16126f3/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-fountain-court-se1/3087739"
@@ -11053,7 +11046,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$928 / month (≈£700)"
+        "raw": "$915 / month (≈£700)"
       },
       "url": "https://www.alldaycity.com/l/57fed3c8d00e7c6d/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-lyttelton-road-n2/3087748"
@@ -11074,7 +11067,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,259 / month (≈£950)"
+        "raw": "$1,242 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/561b9164cc6501ac/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-clive-house-sw8/3087730"
@@ -11095,7 +11088,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,193 / month (≈£900)"
+        "raw": "$1,177 / month (≈£900)"
       },
       "url": "https://www.alldaycity.com/l/5545b04a077b74e9/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-thomas-baines-road-sw11/3087747"
@@ -11116,7 +11109,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$4,639 / month (≈£3,500)"
+        "raw": "$4,576 / month (≈£3,500)"
       },
       "url": "https://www.alldaycity.com/l/54be7e67aa6dfc19/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1743369"
@@ -11137,7 +11130,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,234 / month (≈£2,440)"
+        "raw": "$3,190 / month (≈£2,440)"
       },
       "url": "https://www.alldaycity.com/l/53f7ef2b30818538/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1303285"
@@ -11158,7 +11151,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,983 / month (≈£2,250)"
+        "raw": "$2,942 / month (≈£2,250)"
       },
       "url": "https://www.alldaycity.com/l/5345c9236090327c/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-balham-high-road-sw17/3087761"
@@ -11179,7 +11172,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,127 / month (≈£850)"
+        "raw": "$1,111 / month (≈£850)"
       },
       "url": "https://www.alldaycity.com/l/50769b1155f27e8d/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-lockwood-house-se11/3087778"
@@ -11200,7 +11193,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,060 / month (≈£800)"
+        "raw": "$1,046 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/4c3584c02c08e90f/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-cullum-welch-court-n1/3087709"
@@ -11221,7 +11214,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,113 / month (≈£840)"
+        "raw": "$1,098 / month (≈£840)"
       },
       "url": "https://www.alldaycity.com/l/4c31645419961ff8/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-flat-bunning-way-n7/3087815"
@@ -11242,7 +11235,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,271 / month (≈£4,731)"
+        "raw": "$6,185 / month (≈£4,731)"
       },
       "url": "https://www.alldaycity.com/l/48bf8cecf28589d7/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322310"
@@ -11263,7 +11256,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,519 / month (≈£1,900)"
+        "raw": "$2,484 / month (≈£1,900)"
       },
       "url": "https://www.alldaycity.com/l/47a7bb298a4a3602/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-isle-of-dogs-e14/3087816"
@@ -11284,7 +11277,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$994 / month (≈£750)"
+        "raw": "$981 / month (≈£750)"
       },
       "url": "https://www.alldaycity.com/l/43f46299bd1aa3e0/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/613030"
@@ -11305,7 +11298,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,634 / month (≈£4,250)"
+        "raw": "$5,556 / month (≈£4,250)"
       },
       "url": "https://www.alldaycity.com/l/42fffd301d749a8a/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322306"
@@ -11326,7 +11319,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,259 / month (≈£950)"
+        "raw": "$1,242 / month (≈£950)"
       },
       "url": "https://www.alldaycity.com/l/41cf57bdfbc52d48/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/room-in-a-shared-house-brent-park-road-nw4/3087838"
@@ -11347,7 +11340,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,784 / month (≈£2,100)"
+        "raw": "$2,745 / month (≈£2,100)"
       },
       "url": "https://www.alldaycity.com/l/37e6bbe6e6b9ee51/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-caxton-road-n22/3087719"
@@ -11368,7 +11361,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,253 / month (≈£1,700)"
+        "raw": "$2,222 / month (≈£1,700)"
       },
       "url": "https://www.alldaycity.com/l/37406e4b29c81cdc/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-anerley-road-se20/3087865"
@@ -11389,7 +11382,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,060 / month (≈£800)"
+        "raw": "$1,046 / month (≈£800)"
       },
       "url": "https://www.alldaycity.com/l/373630096ff973b3/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1298031"
@@ -11410,7 +11403,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,843 / month (≈£2,899)"
+        "raw": "$3,790 / month (≈£2,899)"
       },
       "url": "https://www.alldaycity.com/l/2df5d9b989af4659/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/3-bed-flat-tanner-point-e13/3087797"
@@ -11431,7 +11424,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,615 / month (≈£4,990)"
+        "raw": "$6,524 / month (≈£4,990)"
       },
       "url": "https://www.alldaycity.com/l/2c05d7ddcb030ca4/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322314"
@@ -11452,7 +11445,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$3,115 / month (≈£2,350)"
+        "raw": "$3,072 / month (≈£2,350)"
       },
       "url": "https://www.alldaycity.com/l/2bda34309a6d8b0b/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/1-bed-flat-lowfield-road-nw6/3087811"
@@ -11473,7 +11466,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,830 / month (≈£2,135)"
+        "raw": "$2,791 / month (≈£2,135)"
       },
       "url": "https://www.alldaycity.com/l/288ea7ae11bd534f/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1287872"
@@ -11494,7 +11487,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,784 / month (≈£2,100)"
+        "raw": "$2,745 / month (≈£2,100)"
       },
       "url": "https://www.alldaycity.com/l/2876584628348f10/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-gipsy-road-se27/3087836"
@@ -11515,7 +11508,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$7,953 / month (≈£6,000)"
+        "raw": "$7,844 / month (≈£6,000)"
       },
       "url": "https://www.alldaycity.com/l/26f94a2c1a4746ec/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/614041"
@@ -11536,7 +11529,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$5,209 / month (≈£3,930)"
+        "raw": "$5,138 / month (≈£3,930)"
       },
       "url": "https://www.alldaycity.com/l/21dcc82fc972cbc7/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1322301"
@@ -11557,7 +11550,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$2,638 / month (≈£1,990)"
+        "raw": "$2,602 / month (≈£1,990)"
       },
       "url": "https://www.alldaycity.com/l/1d2d3f3eca5b064c/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/1303279"
@@ -11578,7 +11571,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$1,339 / month (≈£1,010)"
+        "raw": "$1,320 / month (≈£1,010)"
       },
       "url": "https://www.alldaycity.com/l/1afc200cb2844da8/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/1327361"
@@ -11599,7 +11592,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$11,731 / month (≈£8,850)"
+        "raw": "$11,570 / month (≈£8,850)"
       },
       "url": "https://www.alldaycity.com/l/19db4b0c6f8a753b/",
       "link": "https://www.spotahome.com/london/for-rent:apartments/363445"
@@ -11620,7 +11613,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$928 / month (≈£700)"
+        "raw": "$915 / month (≈£700)"
       },
       "url": "https://www.alldaycity.com/l/1710dd9c15af9bad/",
       "link": "https://www.spotahome.com/london/for-rent:rooms/613031"
@@ -11641,7 +11634,7 @@
       "salary": {
         "min": null,
         "max": null,
-        "raw": "$6,628 / month (≈£5,000)"
+        "raw": "$6,537 / month (≈£5,000)"
       },
       "url": "https://www.alldaycity.com/l/0ed2761a661ab2c7/",
       "link": "https://www.openrent.co.uk/property-to-rent/london/2-bed-flat-alberta-court-north-e14/3087874"
